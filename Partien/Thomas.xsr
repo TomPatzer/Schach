@@ -1,0 +1,35 @@
+<?xml version="1.0" standalone="yes"?>
+<xs:schema id="Repertoires" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xs:element name="Repertoires" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Repertoire">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="RepertoireGUID" msdata:DataType="System.Guid, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" type="xs:string" />
+              <xs:element name="Name" type="xs:string" minOccurs="0" />
+              <xs:element name="Version" type="xs:string" minOccurs="0" />
+              <xs:element name="Color" type="xs:int" minOccurs="0" />
+              <xs:element name="ColorToStart" type="xs:int" minOccurs="0" />
+              <xs:element name="Comment" type="xs:string" minOccurs="0" />
+              <xs:element name="SubRepertoire" type="xs:boolean" minOccurs="0" />
+              <xs:element name="LastFENnotation" type="xs:string" minOccurs="0" />
+              <xs:element name="LastMovesWhite" type="xs:string" minOccurs="0" />
+              <xs:element name="LastMovesBlack" type="xs:string" minOccurs="0" />
+              <xs:element name="LastPositionsWhite" type="xs:string" minOccurs="0" />
+              <xs:element name="LastPositionsBlack" type="xs:string" minOccurs="0" />
+              <xs:element name="StartPosition" type="xs:string" minOccurs="0" />
+              <xs:element name="Hide" type="xs:boolean" minOccurs="0" />
+              <xs:element name="Active" type="xs:boolean" minOccurs="0" />
+              <xs:element name="CreatedDate" type="xs:dateTime" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//Repertoire" />
+      <xs:field xpath="RepertoireGUID" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

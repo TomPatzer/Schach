@@ -1,0 +1,1431 @@
+<?xml version="1.0" standalone="yes"?>
+<CandidateMoves>
+  <CandidateMove>
+    <CandidateMoveGUID>edf69e31-e11f-4775-969b-6535602830fb</CandidateMoveGUID>
+    <CurrentFENnotation>rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq -</CurrentFENnotation>
+    <SANMove>e4</SANMove>
+    <AfterMoveFENnotation>rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>e6e1bf6e-7332-43f2-baab-d26dd44ef19c</CandidateMoveGUID>
+    <CurrentFENnotation>rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq -</CurrentFENnotation>
+    <SANMove>e5</SANMove>
+    <AfterMoveFENnotation>rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>e90d5fe9-4909-4b1a-8d49-c17b70700878</CandidateMoveGUID>
+    <CurrentFENnotation>rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq -</CurrentFENnotation>
+    <SANMove>f4</SANMove>
+    <AfterMoveFENnotation>rnbqkbnr/pppp1ppp/8/4p3/4PP2/8/PPPP2PP/RNBQKBNR b KQkq -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>d97fbe98-e921-4cb2-b7f3-319a03e77673</CandidateMoveGUID>
+    <CurrentFENnotation>rnbqkbnr/pppp1ppp/8/4p3/4PP2/8/PPPP2PP/RNBQKBNR b KQkq -</CurrentFENnotation>
+    <SANMove>exf4</SANMove>
+    <AfterMoveFENnotation>rnbqkbnr/pppp1ppp/8/8/4Pp2/8/PPPP2PP/RNBQKBNR w KQkq -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>82224d1c-1cd8-457e-963b-1dfd5acdf867</CandidateMoveGUID>
+    <CurrentFENnotation>rnbqkbnr/pppp1ppp/8/8/4Pp2/8/PPPP2PP/RNBQKBNR w KQkq -</CurrentFENnotation>
+    <SANMove>Nf3</SANMove>
+    <AfterMoveFENnotation>rnbqkbnr/pppp1ppp/8/8/4Pp2/5N2/PPPP2PP/RNBQKB1R b KQkq -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>83fab15b-0311-4fa0-b548-249a9ada897d</CandidateMoveGUID>
+    <CurrentFENnotation>rnbqkbnr/pppp1ppp/8/8/4Pp2/5N2/PPPP2PP/RNBQKB1R b KQkq -</CurrentFENnotation>
+    <SANMove>Nf6</SANMove>
+    <AfterMoveFENnotation>rnbqkb1r/pppp1ppp/5n2/8/4Pp2/5N2/PPPP2PP/RNBQKB1R w KQkq -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>5718ae9a-6518-4886-a68b-704c07c89b90</CandidateMoveGUID>
+    <CurrentFENnotation>rnbqkb1r/pppp1ppp/5n2/8/4Pp2/5N2/PPPP2PP/RNBQKB1R w KQkq -</CurrentFENnotation>
+    <SANMove>e5</SANMove>
+    <AfterMoveFENnotation>rnbqkb1r/pppp1ppp/5n2/4P3/5p2/5N2/PPPP2PP/RNBQKB1R b KQkq -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>33a716a5-ec35-49bc-93ec-747cbcbe4fc5</CandidateMoveGUID>
+    <CurrentFENnotation>rnbqkb1r/pppp1ppp/5n2/4P3/5p2/5N2/PPPP2PP/RNBQKB1R b KQkq -</CurrentFENnotation>
+    <SANMove>Nh5</SANMove>
+    <AfterMoveFENnotation>rnbqkb1r/pppp1ppp/8/4P2n/5p2/5N2/PPPP2PP/RNBQKB1R w KQkq -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>d5bcae4c-085b-41ef-af6b-ffde1aabd5ba</CandidateMoveGUID>
+    <CurrentFENnotation>rnbqkb1r/pppp1ppp/5n2/4P3/5p2/5N2/PPPP2PP/RNBQKB1R b KQkq -</CurrentFENnotation>
+    <SANMove>Nd5</SANMove>
+    <AfterMoveFENnotation>rnbqkb1r/pppp1ppp/8/3nP3/5p2/5N2/PPPP2PP/RNBQKB1R w KQkq -</AfterMoveFENnotation>
+    <Order>2</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>a22e5efa-2b7b-4d01-980f-8989b0785e4b</CandidateMoveGUID>
+    <CurrentFENnotation>rnbqkb1r/pppp1ppp/8/3nP3/5p2/5N2/PPPP2PP/RNBQKB1R w KQkq -</CurrentFENnotation>
+    <SANMove>c4</SANMove>
+    <AfterMoveFENnotation>rnbqkb1r/pppp1ppp/8/3nP3/2P2p2/5N2/PP1P2PP/RNBQKB1R b KQkq -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>ae5a3c79-2e61-49b8-9839-ef9fd08e2259</CandidateMoveGUID>
+    <CurrentFENnotation>rnbqkb1r/pppp1ppp/8/3nP3/2P2p2/5N2/PP1P2PP/RNBQKB1R b KQkq -</CurrentFENnotation>
+    <SANMove>Nb6</SANMove>
+    <AfterMoveFENnotation>rnbqkb1r/pppp1ppp/1n6/4P3/2P2p2/5N2/PP1P2PP/RNBQKB1R w KQkq -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>a26c7449-5a7f-49e3-8d96-864968989274</CandidateMoveGUID>
+    <CurrentFENnotation>rnbqkb1r/pppp1ppp/1n6/4P3/2P2p2/5N2/PP1P2PP/RNBQKB1R w KQkq -</CurrentFENnotation>
+    <SANMove>d4</SANMove>
+    <AfterMoveFENnotation>rnbqkb1r/pppp1ppp/1n6/4P3/2PP1p2/5N2/PP4PP/RNBQKB1R b KQkq -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>80d87b62-a9fb-4ba6-a92e-670e41e925e0</CandidateMoveGUID>
+    <CurrentFENnotation>rnbqkb1r/pppp1ppp/1n6/4P3/2PP1p2/5N2/PP4PP/RNBQKB1R b KQkq -</CurrentFENnotation>
+    <SANMove>d6</SANMove>
+    <AfterMoveFENnotation>rnbqkb1r/ppp2ppp/1n1p4/4P3/2PP1p2/5N2/PP4PP/RNBQKB1R w KQkq -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>13bdf2db-50f0-4029-8e3f-ff708059ff67</CandidateMoveGUID>
+    <CurrentFENnotation>rnbqkb1r/ppp2ppp/1n1p4/4P3/2PP1p2/5N2/PP4PP/RNBQKB1R w KQkq -</CurrentFENnotation>
+    <SANMove>exd6</SANMove>
+    <AfterMoveFENnotation>rnbqkb1r/ppp2ppp/1n1P4/8/2PP1p2/5N2/PP4PP/RNBQKB1R b KQkq -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>3529bd4c-c026-49fd-9452-0bbb949620a1</CandidateMoveGUID>
+    <CurrentFENnotation>rnbqkb1r/pppp1ppp/5n2/4P3/5p2/5N2/PPPP2PP/RNBQKB1R b KQkq -</CurrentFENnotation>
+    <SANMove>Ne4</SANMove>
+    <AfterMoveFENnotation>rnbqkb1r/pppp1ppp/8/4P3/4np2/5N2/PPPP2PP/RNBQKB1R w KQkq -</AfterMoveFENnotation>
+    <Order>3</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>15e8181e-922e-47c8-acbd-e1a781bd1784</CandidateMoveGUID>
+    <CurrentFENnotation>rnbqkb1r/pppp1ppp/8/4P3/4np2/5N2/PPPP2PP/RNBQKB1R w KQkq -</CurrentFENnotation>
+    <SANMove>d3</SANMove>
+    <AfterMoveFENnotation>rnbqkb1r/pppp1ppp/8/4P3/4np2/3P1N2/PPP3PP/RNBQKB1R b KQkq -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>8981f635-39ac-442b-b40a-1a8ef3016129</CandidateMoveGUID>
+    <CurrentFENnotation>rnbqkb1r/pppp1ppp/8/4P3/4np2/3P1N2/PPP3PP/RNBQKB1R b KQkq -</CurrentFENnotation>
+    <SANMove>Ng5</SANMove>
+    <AfterMoveFENnotation>rnbqkb1r/pppp1ppp/8/4P1n1/5p2/3P1N2/PPP3PP/RNBQKB1R w KQkq -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>c359f25e-ff4f-49c9-87db-ab8b6338a10e</CandidateMoveGUID>
+    <CurrentFENnotation>rnbqkb1r/pppp1ppp/8/4P1n1/5p2/3P1N2/PPP3PP/RNBQKB1R w KQkq -</CurrentFENnotation>
+    <SANMove>Bxf4</SANMove>
+    <AfterMoveFENnotation>rnbqkb1r/pppp1ppp/8/4P1n1/5B2/3P1N2/PPP3PP/RN1QKB1R b KQkq -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>624aada6-8235-4075-9239-ab819009e4a2</CandidateMoveGUID>
+    <CurrentFENnotation>rnbqkb1r/pppp1ppp/8/4P1n1/5B2/3P1N2/PPP3PP/RN1QKB1R b KQkq -</CurrentFENnotation>
+    <SANMove>Ne6</SANMove>
+    <AfterMoveFENnotation>rnbqkb1r/pppp1ppp/4n3/4P3/5B2/3P1N2/PPP3PP/RN1QKB1R w KQkq -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>17d1bd93-5fc9-4c95-bacd-3617393547ee</CandidateMoveGUID>
+    <CurrentFENnotation>rnbqkb1r/pppp1ppp/4n3/4P3/5B2/3P1N2/PPP3PP/RN1QKB1R w KQkq -</CurrentFENnotation>
+    <SANMove>Bg3</SANMove>
+    <AfterMoveFENnotation>rnbqkb1r/pppp1ppp/4n3/4P3/8/3P1NB1/PPP3PP/RN1QKB1R b KQkq -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>4d706220-0d08-4090-b177-3025ba0b82b2</CandidateMoveGUID>
+    <CurrentFENnotation>rnbqkb1r/pppp1ppp/4n3/4P3/8/3P1NB1/PPP3PP/RN1QKB1R b KQkq -</CurrentFENnotation>
+    <SANMove>d5</SANMove>
+    <AfterMoveFENnotation>rnbqkb1r/ppp2ppp/4n3/3pP3/8/3P1NB1/PPP3PP/RN1QKB1R w KQkq d6</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>58041b36-37ca-49cb-b255-9ab430bbcbb3</CandidateMoveGUID>
+    <CurrentFENnotation>rnbqkb1r/ppp2ppp/4n3/3pP3/8/3P1NB1/PPP3PP/RN1QKB1R w KQkq d6</CurrentFENnotation>
+    <SANMove>Nc3</SANMove>
+    <AfterMoveFENnotation>rnbqkb1r/ppp2ppp/4n3/3pP3/8/2NP1NB1/PPP3PP/R2QKB1R b KQkq -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>07419ffc-7de5-4682-9621-b355df84dbc6</CandidateMoveGUID>
+    <CurrentFENnotation>rnbqkb1r/ppp2ppp/4n3/3pP3/8/2NP1NB1/PPP3PP/R2QKB1R b KQkq -</CurrentFENnotation>
+    <SANMove>d4</SANMove>
+    <AfterMoveFENnotation>rnbqkb1r/ppp2ppp/4n3/4P3/3p4/2NP1NB1/PPP3PP/R2QKB1R w KQkq -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>35a5f932-1a25-4c23-ba37-382673ec5487</CandidateMoveGUID>
+    <CurrentFENnotation>rnbqkb1r/ppp2ppp/4n3/4P3/3p4/2NP1NB1/PPP3PP/R2QKB1R w KQkq -</CurrentFENnotation>
+    <SANMove>Ne4</SANMove>
+    <AfterMoveFENnotation>rnbqkb1r/ppp2ppp/4n3/4P3/3pN3/3P1NB1/PPP3PP/R2QKB1R b KQkq -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>fbd1182e-8454-40fd-985a-b6d1ea527e46</CandidateMoveGUID>
+    <CurrentFENnotation>rnbqkb1r/ppp2ppp/4n3/4P3/3pN3/3P1NB1/PPP3PP/R2QKB1R b KQkq -</CurrentFENnotation>
+    <SANMove>Nc6</SANMove>
+    <AfterMoveFENnotation>r1bqkb1r/ppp2ppp/2n1n3/4P3/3pN3/3P1NB1/PPP3PP/R2QKB1R w KQkq -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>7c545ab2-e899-4742-ba23-d3adb42dff6b</CandidateMoveGUID>
+    <CurrentFENnotation>r1bqkb1r/ppp2ppp/2n1n3/4P3/3pN3/3P1NB1/PPP3PP/R2QKB1R w KQkq -</CurrentFENnotation>
+    <SANMove>Be2</SANMove>
+    <AfterMoveFENnotation>r1bqkb1r/ppp2ppp/2n1n3/4P3/3pN3/3P1NB1/PPP1B1PP/R2QK2R b KQkq -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>0c0af336-b0dc-4b98-8bef-0bfa1b767dcb</CandidateMoveGUID>
+    <CurrentFENnotation>r1bqkb1r/ppp2ppp/2n1n3/4P3/3pN3/3P1NB1/PPP1B1PP/R2QK2R b KQkq -</CurrentFENnotation>
+    <SANMove>Be7</SANMove>
+    <AfterMoveFENnotation>r1bqk2r/ppp1bppp/2n1n3/4P3/3pN3/3P1NB1/PPP1B1PP/R2QK2R w KQkq -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>0ecabb2a-4627-42c1-b2d9-f109b2bc3833</CandidateMoveGUID>
+    <CurrentFENnotation>r1bqk2r/ppp1bppp/2n1n3/4P3/3pN3/3P1NB1/PPP1B1PP/R2QK2R w KQkq -</CurrentFENnotation>
+    <SANMove>O-O</SANMove>
+    <AfterMoveFENnotation>r1bqk2r/ppp1bppp/2n1n3/4P3/3pN3/3P1NB1/PPP1B1PP/R2Q1RK1 b kq -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>cd2d856f-5829-40c7-adfd-527955662074</CandidateMoveGUID>
+    <CurrentFENnotation>r1bqk2r/ppp1bppp/2n1n3/4P3/3pN3/3P1NB1/PPP1B1PP/R2Q1RK1 b kq -</CurrentFENnotation>
+    <SANMove>O-O</SANMove>
+    <AfterMoveFENnotation>r1bq1rk1/ppp1bppp/2n1n3/4P3/3pN3/3P1NB1/PPP1B1PP/R2Q1RK1 w - -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>1e1d170b-9bed-4196-88cc-e50aee106a48</CandidateMoveGUID>
+    <CurrentFENnotation>r1bq1rk1/ppp1bppp/2n1n3/4P3/3pN3/3P1NB1/PPP1B1PP/R2Q1RK1 w - -</CurrentFENnotation>
+    <SANMove>Qd2</SANMove>
+    <AfterMoveFENnotation>r1bq1rk1/ppp1bppp/2n1n3/4P3/3pN3/3P1NB1/PPPQB1PP/R4RK1 b - -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>f32bd482-129b-468b-a3fb-d28cea32b481</CandidateMoveGUID>
+    <CurrentFENnotation>rnbqkbnr/pppp1ppp/8/8/4Pp2/5N2/PPPP2PP/RNBQKB1R b KQkq -</CurrentFENnotation>
+    <SANMove>g5</SANMove>
+    <AfterMoveFENnotation>rnbqkbnr/pppp1p1p/8/6p1/4Pp2/5N2/PPPP2PP/RNBQKB1R w KQkq -</AfterMoveFENnotation>
+    <Order>2</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>ec1aaab9-dba5-483f-a06c-cf0029d0fc74</CandidateMoveGUID>
+    <CurrentFENnotation>rnbqkbnr/pppp1p1p/8/6p1/4Pp2/5N2/PPPP2PP/RNBQKB1R w KQkq -</CurrentFENnotation>
+    <SANMove>h4</SANMove>
+    <AfterMoveFENnotation>rnbqkbnr/pppp1p1p/8/6p1/4Pp1P/5N2/PPPP2P1/RNBQKB1R b KQkq -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>c4277ed5-bc71-4835-bf2c-f502179667ca</CandidateMoveGUID>
+    <CurrentFENnotation>rnbqkbnr/pppp1p1p/8/6p1/4Pp1P/5N2/PPPP2P1/RNBQKB1R b KQkq -</CurrentFENnotation>
+    <SANMove>g4</SANMove>
+    <AfterMoveFENnotation>rnbqkbnr/pppp1p1p/8/8/4PppP/5N2/PPPP2P1/RNBQKB1R w KQkq -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>8139f934-c714-473a-95b9-26d6c243320d</CandidateMoveGUID>
+    <CurrentFENnotation>rnbqkbnr/pppp1p1p/8/8/4PppP/5N2/PPPP2P1/RNBQKB1R w KQkq -</CurrentFENnotation>
+    <SANMove>Ne5</SANMove>
+    <AfterMoveFENnotation>rnbqkbnr/pppp1p1p/8/4N3/4PppP/8/PPPP2P1/RNBQKB1R b KQkq -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>27fa4d0b-8c09-4cc4-86dd-0b860a4e4803</CandidateMoveGUID>
+    <CurrentFENnotation>rnbqkbnr/pppp1p1p/8/4N3/4PppP/8/PPPP2P1/RNBQKB1R b KQkq -</CurrentFENnotation>
+    <SANMove>h5</SANMove>
+    <AfterMoveFENnotation>rnbqkbnr/pppp1p2/8/4N2p/4PppP/8/PPPP2P1/RNBQKB1R w KQkq -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>b06a0050-bba4-491f-b0b6-6752b5bb447d</CandidateMoveGUID>
+    <CurrentFENnotation>rnbqkbnr/pppp1p2/8/4N2p/4PppP/8/PPPP2P1/RNBQKB1R w KQkq -</CurrentFENnotation>
+    <SANMove>Bc4</SANMove>
+    <AfterMoveFENnotation>rnbqkbnr/pppp1p2/8/4N2p/2B1PppP/8/PPPP2P1/RNBQK2R b KQkq -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>9e7932ae-73ab-41a2-899c-448b1a6dc227</CandidateMoveGUID>
+    <CurrentFENnotation>rnbqkbnr/pppp1p2/8/4N2p/2B1PppP/8/PPPP2P1/RNBQK2R b KQkq -</CurrentFENnotation>
+    <SANMove>Rh7</SANMove>
+    <AfterMoveFENnotation>rnbqkbn1/pppp1p1r/8/4N2p/2B1PppP/8/PPPP2P1/RNBQK2R w KQq -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>1e6dbd42-b836-4a3d-affb-6f95c31ef5a4</CandidateMoveGUID>
+    <CurrentFENnotation>rnbqkbnr/pppp1p2/8/4N2p/2B1PppP/8/PPPP2P1/RNBQK2R b KQkq -</CurrentFENnotation>
+    <SANMove>Nh6</SANMove>
+    <AfterMoveFENnotation>rnbqkb1r/pppp1p2/7n/4N2p/2B1PppP/8/PPPP2P1/RNBQK2R w KQkq -</AfterMoveFENnotation>
+    <Order>2</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>73afa13a-22ab-4b6e-a510-2532bb1c73fa</CandidateMoveGUID>
+    <CurrentFENnotation>rnbqkb1r/pppp1p2/7n/4N2p/2B1PppP/8/PPPP2P1/RNBQK2R w KQkq -</CurrentFENnotation>
+    <SANMove>d4</SANMove>
+    <AfterMoveFENnotation>rnbqkb1r/pppp1p2/7n/4N2p/2BPPppP/8/PPP3P1/RNBQK2R b KQkq -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>c5a226c8-c286-47e3-837d-cc747cd2e325</CandidateMoveGUID>
+    <CurrentFENnotation>rnbqkb1r/pppp1p2/7n/4N2p/2BPPppP/8/PPP3P1/RNBQK2R b KQkq -</CurrentFENnotation>
+    <SANMove>d6</SANMove>
+    <AfterMoveFENnotation>rnbqkb1r/ppp2p2/3p3n/4N2p/2BPPppP/8/PPP3P1/RNBQK2R w KQkq -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>6bc2e038-20b6-4682-ad24-e868fbfcd5d6</CandidateMoveGUID>
+    <CurrentFENnotation>rnbqkb1r/ppp2p2/3p3n/4N2p/2BPPppP/8/PPP3P1/RNBQK2R w KQkq -</CurrentFENnotation>
+    <SANMove>Nd3</SANMove>
+    <AfterMoveFENnotation>rnbqkb1r/ppp2p2/3p3n/7p/2BPPppP/3N4/PPP3P1/RNBQK2R b KQkq -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>c1f9fb0f-f548-4f59-9059-6f5d9e783d9b</CandidateMoveGUID>
+    <CurrentFENnotation>rnbqkb1r/ppp2p2/3p3n/7p/2BPPppP/3N4/PPP3P1/RNBQK2R b KQkq -</CurrentFENnotation>
+    <SANMove>f3</SANMove>
+    <AfterMoveFENnotation>rnbqkb1r/ppp2p2/3p3n/7p/2BPP1pP/3N1p2/PPP3P1/RNBQK2R w KQkq -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>53ede247-ae7b-400a-b259-e1e510d78c64</CandidateMoveGUID>
+    <CurrentFENnotation>rnbqkb1r/ppp2p2/3p3n/7p/2BPP1pP/3N1p2/PPP3P1/RNBQK2R w KQkq -</CurrentFENnotation>
+    <SANMove>gxf3</SANMove>
+    <AfterMoveFENnotation>rnbqkb1r/ppp2p2/3p3n/7p/2BPP1pP/3N1P2/PPP5/RNBQK2R b KQkq -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>a0936263-fb5a-45cf-b4f5-04c5dafbc851</CandidateMoveGUID>
+    <CurrentFENnotation>rnbqkb1r/ppp2p2/3p3n/7p/2BPP1pP/3N1P2/PPP5/RNBQK2R b KQkq -</CurrentFENnotation>
+    <SANMove>gxf3</SANMove>
+    <AfterMoveFENnotation>rnbqkb1r/ppp2p2/3p3n/7p/2BPP2P/3N1p2/PPP5/RNBQK2R w KQkq -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>be06cb24-1c18-4236-a837-237609e78cb6</CandidateMoveGUID>
+    <CurrentFENnotation>rnbqkb1r/ppp2p2/3p3n/7p/2BPP1pP/3N1P2/PPP5/RNBQK2R b KQkq -</CurrentFENnotation>
+    <SANMove>Be7</SANMove>
+    <AfterMoveFENnotation>rnbqk2r/ppp1bp2/3p3n/7p/2BPP1pP/3N1P2/PPP5/RNBQK2R w KQkq -</AfterMoveFENnotation>
+    <Order>2</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>6c9f374c-8453-4e80-b7c6-c433a10cd16e</CandidateMoveGUID>
+    <CurrentFENnotation>rnbqk2r/ppp1bp2/3p3n/7p/2BPP1pP/3N1P2/PPP5/RNBQK2R w KQkq -</CurrentFENnotation>
+    <SANMove>Bg5</SANMove>
+    <AfterMoveFENnotation>rnbqk2r/ppp1bp2/3p3n/6Bp/2BPP1pP/3N1P2/PPP5/RN1QK2R b KQkq -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>a5fa5c5b-26d8-4455-8700-056ad73cb0ff</CandidateMoveGUID>
+    <CurrentFENnotation>rnbqk2r/ppp1bp2/3p3n/6Bp/2BPP1pP/3N1P2/PPP5/RN1QK2R b KQkq -</CurrentFENnotation>
+    <SANMove>Bxg5</SANMove>
+    <AfterMoveFENnotation>rnbqk2r/ppp2p2/3p3n/6bp/2BPP1pP/3N1P2/PPP5/RN1QK2R w KQkq -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>b7eff9cb-164f-472f-b9ce-0eaeaf3e7aa5</CandidateMoveGUID>
+    <CurrentFENnotation>rnbqk2r/ppp2p2/3p3n/6bp/2BPP1pP/3N1P2/PPP5/RN1QK2R w KQkq -</CurrentFENnotation>
+    <SANMove>hxg5</SANMove>
+    <AfterMoveFENnotation>rnbqk2r/ppp2p2/3p3n/6Pp/2BPP1p1/3N1P2/PPP5/RN1QK2R b KQkq -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>7b686717-96e0-4051-832e-b7b17c0b93ab</CandidateMoveGUID>
+    <CurrentFENnotation>rnbqk2r/ppp2p2/3p3n/6Pp/2BPP1p1/3N1P2/PPP5/RN1QK2R b KQkq -</CurrentFENnotation>
+    <SANMove>Qxg5</SANMove>
+    <AfterMoveFENnotation>rnb1k2r/ppp2p2/3p3n/6qp/2BPP1p1/3N1P2/PPP5/RN1QK2R w KQkq -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>1edc1c5c-658a-4b4c-9da8-fe566af5c863</CandidateMoveGUID>
+    <CurrentFENnotation>rnb1k2r/ppp2p2/3p3n/6qp/2BPP1p1/3N1P2/PPP5/RN1QK2R w KQkq -</CurrentFENnotation>
+    <SANMove>f4</SANMove>
+    <AfterMoveFENnotation>rnb1k2r/ppp2p2/3p3n/6qp/2BPPPp1/3N4/PPP5/RN1QK2R b KQkq -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>44d12cd6-19fc-47fc-8d5b-d4fea71fd920</CandidateMoveGUID>
+    <CurrentFENnotation>rnbqkb1r/ppp2p2/3p3n/7p/2BPP2P/3N1p2/PPP5/RNBQK2R w KQkq -</CurrentFENnotation>
+    <SANMove>Qxf3</SANMove>
+    <AfterMoveFENnotation>rnbqkb1r/ppp2p2/3p3n/7p/2BPP2P/3N1Q2/PPP5/RNB1K2R b KQkq -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>e9e75001-f9c5-4812-a24d-b95b9c579281</CandidateMoveGUID>
+    <CurrentFENnotation>rnbqkb1r/ppp2p2/3p3n/7p/2BPP2P/3N1Q2/PPP5/RNB1K2R b KQkq -</CurrentFENnotation>
+    <SANMove>Bg4</SANMove>
+    <AfterMoveFENnotation>rn1qkb1r/ppp2p2/3p3n/7p/2BPP1bP/3N1Q2/PPP5/RNB1K2R w KQkq -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>33e03cda-410d-466d-a972-c0fe56e5068e</CandidateMoveGUID>
+    <CurrentFENnotation>rn1qkb1r/ppp2p2/3p3n/7p/2BPP1bP/3N1Q2/PPP5/RNB1K2R w KQkq -</CurrentFENnotation>
+    <SANMove>Qf2</SANMove>
+    <AfterMoveFENnotation>rn1qkb1r/ppp2p2/3p3n/7p/2BPP1bP/3N4/PPP2Q2/RNB1K2R b KQkq -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>f75ea847-f0a5-4d80-8812-92cf1fcc5c9f</CandidateMoveGUID>
+    <CurrentFENnotation>rnbqkbn1/pppp1p1r/8/4N2p/2B1PppP/8/PPPP2P1/RNBQK2R w KQq -</CurrentFENnotation>
+    <SANMove>d4</SANMove>
+    <AfterMoveFENnotation>rnbqkbn1/pppp1p1r/8/4N2p/2BPPppP/8/PPP3P1/RNBQK2R b KQq -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>9c8eb17c-0c61-479a-9b13-4e228f493c33</CandidateMoveGUID>
+    <CurrentFENnotation>rnbqkbn1/pppp1p1r/8/4N2p/2BPPppP/8/PPP3P1/RNBQK2R b KQq -</CurrentFENnotation>
+    <SANMove>f3</SANMove>
+    <AfterMoveFENnotation>rnbqkbn1/pppp1p1r/8/4N2p/2BPP1pP/5p2/PPP3P1/RNBQK2R w KQq -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>def3450c-03da-4cc3-b968-6f7c6f3ceaef</CandidateMoveGUID>
+    <CurrentFENnotation>rnbqkbn1/pppp1p1r/8/4N2p/2BPP1pP/5p2/PPP3P1/RNBQK2R w KQq -</CurrentFENnotation>
+    <SANMove>gxf3</SANMove>
+    <AfterMoveFENnotation>rnbqkbn1/pppp1p1r/8/4N2p/2BPP1pP/5P2/PPP5/RNBQK2R b KQq -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>462305d5-0382-4fe4-ba5c-26e6be2a36d2</CandidateMoveGUID>
+    <CurrentFENnotation>rnbqkbn1/pppp1p1r/8/4N2p/2BPP1pP/5P2/PPP5/RNBQK2R b KQq -</CurrentFENnotation>
+    <SANMove>d6</SANMove>
+    <AfterMoveFENnotation>rnbqkbn1/ppp2p1r/3p4/4N2p/2BPP1pP/5P2/PPP5/RNBQK2R w KQq -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>49372402-db1c-40bf-9f0f-fb2cb49a9146</CandidateMoveGUID>
+    <CurrentFENnotation>rnbqkbn1/ppp2p1r/3p4/4N2p/2BPP1pP/5P2/PPP5/RNBQK2R w KQq -</CurrentFENnotation>
+    <SANMove>Nd3</SANMove>
+    <AfterMoveFENnotation>rnbqkbn1/ppp2p1r/3p4/7p/2BPP1pP/3N1P2/PPP5/RNBQK2R b KQq -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>b0d89e4e-eb39-49de-87ff-a4d6d16d1e80</CandidateMoveGUID>
+    <CurrentFENnotation>rnbqkbn1/ppp2p1r/3p4/7p/2BPP1pP/3N1P2/PPP5/RNBQK2R b KQq -</CurrentFENnotation>
+    <SANMove>Be7</SANMove>
+    <AfterMoveFENnotation>rnbqk1n1/ppp1bp1r/3p4/7p/2BPP1pP/3N1P2/PPP5/RNBQK2R w KQq -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>00b3c15f-1bf8-424e-9dc6-a1d75c5e2a37</CandidateMoveGUID>
+    <CurrentFENnotation>rnbqk1n1/ppp1bp1r/3p4/7p/2BPP1pP/3N1P2/PPP5/RNBQK2R w KQq -</CurrentFENnotation>
+    <SANMove>Be3</SANMove>
+    <AfterMoveFENnotation>rnbqk1n1/ppp1bp1r/3p4/7p/2BPP1pP/3NBP2/PPP5/RN1QK2R b KQq -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>7941d817-e0d4-42f6-8dd3-ef4ea8e7e542</CandidateMoveGUID>
+    <CurrentFENnotation>rnbqk1n1/ppp1bp1r/3p4/7p/2BPP1pP/3NBP2/PPP5/RN1QK2R b KQq -</CurrentFENnotation>
+    <SANMove>Bxh4+</SANMove>
+    <AfterMoveFENnotation>rnbqk1n1/ppp2p1r/3p4/7p/2BPP1pb/3NBP2/PPP5/RN1QK2R w KQq -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>21e51f00-2858-4144-a3c6-75c37de84192</CandidateMoveGUID>
+    <CurrentFENnotation>rnbqk1n1/ppp2p1r/3p4/7p/2BPP1pb/3NBP2/PPP5/RN1QK2R w KQq -</CurrentFENnotation>
+    <SANMove>Kd2</SANMove>
+    <AfterMoveFENnotation>rnbqk1n1/ppp2p1r/3p4/7p/2BPP1pb/3NBP2/PPPK4/RN1Q3R b q -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>7dc42ddb-bce3-436c-a119-4dee744589a1</CandidateMoveGUID>
+    <CurrentFENnotation>rnbqk1n1/ppp2p1r/3p4/7p/2BPP1pb/3NBP2/PPPK4/RN1Q3R b q -</CurrentFENnotation>
+    <SANMove>Bg5</SANMove>
+    <AfterMoveFENnotation>rnbqk1n1/ppp2p1r/3p4/6bp/2BPP1p1/3NBP2/PPPK4/RN1Q3R w q -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>46187ab7-1dae-4fa3-a8a0-03e1273b4664</CandidateMoveGUID>
+    <CurrentFENnotation>rnbqk1n1/ppp2p1r/3p4/6bp/2BPP1p1/3NBP2/PPPK4/RN1Q3R w q -</CurrentFENnotation>
+    <SANMove>f4</SANMove>
+    <AfterMoveFENnotation>rnbqk1n1/ppp2p1r/3p4/6bp/2BPPPp1/3NB3/PPPK4/RN1Q3R b q -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>6fcd852a-2790-40bf-9723-a9c5c0e51e3b</CandidateMoveGUID>
+    <CurrentFENnotation>rnbqk1n1/ppp2p1r/3p4/6bp/2BPPPp1/3NB3/PPPK4/RN1Q3R b q -</CurrentFENnotation>
+    <SANMove>Bh6</SANMove>
+    <AfterMoveFENnotation>rnbqk1n1/ppp2p1r/3p3b/7p/2BPPPp1/3NB3/PPPK4/RN1Q3R w q -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>7e219af4-3ded-4ea5-a24e-ba12419d80de</CandidateMoveGUID>
+    <CurrentFENnotation>rnbqk1n1/ppp2p1r/3p3b/7p/2BPPPp1/3NB3/PPPK4/RN1Q3R w q -</CurrentFENnotation>
+    <SANMove>Nc3</SANMove>
+    <AfterMoveFENnotation>rnbqk1n1/ppp2p1r/3p3b/7p/2BPPPp1/2NNB3/PPPK4/R2Q3R b q -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>94104a0a-de51-4569-9195-9ce498a7198e</CandidateMoveGUID>
+    <CurrentFENnotation>rnbqk1n1/ppp2p1r/3p3b/7p/2BPPPp1/2NNB3/PPPK4/R2Q3R b q -</CurrentFENnotation>
+    <SANMove>Bg7</SANMove>
+    <AfterMoveFENnotation>rnbqk1n1/ppp2pbr/3p4/7p/2BPPPp1/2NNB3/PPPK4/R2Q3R w q -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>e23dac2c-779a-4cb9-b8ac-03677d23a391</CandidateMoveGUID>
+    <CurrentFENnotation>rnbqk1n1/ppp2pbr/3p4/7p/2BPPPp1/2NNB3/PPPK4/R2Q3R w q -</CurrentFENnotation>
+    <SANMove>f5</SANMove>
+    <AfterMoveFENnotation>rnbqk1n1/ppp2pbr/3p4/5P1p/2BPP1p1/2NNB3/PPPK4/R2Q3R b q -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>7da75727-afec-4e42-90c4-e4e92bc5b5fe</CandidateMoveGUID>
+    <CurrentFENnotation>rnbqk1n1/ppp2pbr/3p4/5P1p/2BPP1p1/2NNB3/PPPK4/R2Q3R b q -</CurrentFENnotation>
+    <SANMove>Nc6</SANMove>
+    <AfterMoveFENnotation>r1bqk1n1/ppp2pbr/2np4/5P1p/2BPP1p1/2NNB3/PPPK4/R2Q3R w q -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>808dda45-6cf3-4779-ad80-363cc8d52ad6</CandidateMoveGUID>
+    <CurrentFENnotation>r1bqk1n1/ppp2pbr/2np4/5P1p/2BPP1p1/2NNB3/PPPK4/R2Q3R w q -</CurrentFENnotation>
+    <SANMove>Qg1</SANMove>
+    <AfterMoveFENnotation>r1bqk1n1/ppp2pbr/2np4/5P1p/2BPP1p1/2NNB3/PPPK4/R5QR b q -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>f9639767-b04f-4601-b851-b9f36f9850fd</CandidateMoveGUID>
+    <CurrentFENnotation>rnbqkbn1/pppp1p1r/8/4N2p/2BPPppP/8/PPP3P1/RNBQK2R b KQq -</CurrentFENnotation>
+    <SANMove>Qf6</SANMove>
+    <AfterMoveFENnotation>rnb1kbn1/pppp1p1r/5q2/4N2p/2BPPppP/8/PPP3P1/RNBQK2R w KQq -</AfterMoveFENnotation>
+    <Order>2</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>b080e182-a6d0-4ac2-89ca-cd48fd9b60cd</CandidateMoveGUID>
+    <CurrentFENnotation>rnb1kbn1/pppp1p1r/5q2/4N2p/2BPPppP/8/PPP3P1/RNBQK2R w KQq -</CurrentFENnotation>
+    <SANMove>O-O</SANMove>
+    <AfterMoveFENnotation>rnb1kbn1/pppp1p1r/5q2/4N2p/2BPPppP/8/PPP3P1/RNBQ1RK1 b q -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>4c138481-0158-4b64-85cb-084d0e1c327d</CandidateMoveGUID>
+    <CurrentFENnotation>rnb1kbn1/pppp1p1r/5q2/4N2p/2BPPppP/8/PPP3P1/RNBQ1RK1 b q -</CurrentFENnotation>
+    <SANMove>Bh6</SANMove>
+    <AfterMoveFENnotation>rnb1k1n1/pppp1p1r/5q1b/4N2p/2BPPppP/8/PPP3P1/RNBQ1RK1 w q -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>727af5a2-05f0-4a4e-91e6-e89e2fda9558</CandidateMoveGUID>
+    <CurrentFENnotation>rnb1k1n1/pppp1p1r/5q1b/4N2p/2BPPppP/8/PPP3P1/RNBQ1RK1 w q -</CurrentFENnotation>
+    <SANMove>Nc3</SANMove>
+    <AfterMoveFENnotation>rnb1k1n1/pppp1p1r/5q1b/4N2p/2BPPppP/2N5/PPP3P1/R1BQ1RK1 b q -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>2f94b2c4-898b-4017-a2dc-7c8a9bf220de</CandidateMoveGUID>
+    <CurrentFENnotation>rnb1k1n1/pppp1p1r/5q1b/4N2p/2BPPppP/2N5/PPP3P1/R1BQ1RK1 b q -</CurrentFENnotation>
+    <SANMove>d6</SANMove>
+    <AfterMoveFENnotation>rnb1k1n1/ppp2p1r/3p1q1b/4N2p/2BPPppP/2N5/PPP3P1/R1BQ1RK1 w q -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>5aa5c5bb-3217-49ab-aa6f-d8cbdfe5fc08</CandidateMoveGUID>
+    <CurrentFENnotation>rnb1k1n1/ppp2p1r/3p1q1b/4N2p/2BPPppP/2N5/PPP3P1/R1BQ1RK1 w q -</CurrentFENnotation>
+    <SANMove>Nd5</SANMove>
+    <AfterMoveFENnotation>rnb1k1n1/ppp2p1r/3p1q1b/3NN2p/2BPPppP/8/PPP3P1/R1BQ1RK1 b q -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>b3905f94-2245-4ca8-9112-56b1f8d69810</CandidateMoveGUID>
+    <CurrentFENnotation>rnb1k1n1/ppp2p1r/3p1q1b/3NN2p/2BPPppP/8/PPP3P1/R1BQ1RK1 b q -</CurrentFENnotation>
+    <SANMove>Qd8</SANMove>
+    <AfterMoveFENnotation>rnbqk1n1/ppp2p1r/3p3b/3NN2p/2BPPppP/8/PPP3P1/R1BQ1RK1 w q -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>5206050c-18a2-4328-ae37-206d70ac3b3f</CandidateMoveGUID>
+    <CurrentFENnotation>rnbqk1n1/ppp2p1r/3p3b/3NN2p/2BPPppP/8/PPP3P1/R1BQ1RK1 w q -</CurrentFENnotation>
+    <SANMove>Nd3</SANMove>
+    <AfterMoveFENnotation>rnbqk1n1/ppp2p1r/3p3b/3N3p/2BPPppP/3N4/PPP3P1/R1BQ1RK1 b q -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>704cc231-ab41-4e88-8c65-28e658521733</CandidateMoveGUID>
+    <CurrentFENnotation>rnbqk1n1/ppp2p1r/3p3b/3N3p/2BPPppP/3N4/PPP3P1/R1BQ1RK1 b q -</CurrentFENnotation>
+    <SANMove>f3</SANMove>
+    <AfterMoveFENnotation>rnbqk1n1/ppp2p1r/3p3b/3N3p/2BPP1pP/3N1p2/PPP3P1/R1BQ1RK1 w q -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>12561204-214e-4ef4-88a1-da73aab6df03</CandidateMoveGUID>
+    <CurrentFENnotation>rnbqk1n1/ppp2p1r/3p3b/3N3p/2BPP1pP/3N1p2/PPP3P1/R1BQ1RK1 w q -</CurrentFENnotation>
+    <SANMove>g3</SANMove>
+    <AfterMoveFENnotation>rnbqk1n1/ppp2p1r/3p3b/3N3p/2BPP1pP/3N1pP1/PPP5/R1BQ1RK1 b q -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>145b0f22-32d8-40ed-896e-08da2779e079</CandidateMoveGUID>
+    <CurrentFENnotation>rnbqk1n1/ppp2p1r/3p3b/3N3p/2BPP1pP/3N1pP1/PPP5/R1BQ1RK1 b q -</CurrentFENnotation>
+    <SANMove>c6</SANMove>
+    <AfterMoveFENnotation>rnbqk1n1/pp3p1r/2pp3b/3N3p/2BPP1pP/3N1pP1/PPP5/R1BQ1RK1 w q -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>dd5ac29f-880c-481d-be5d-dfff2497811c</CandidateMoveGUID>
+    <CurrentFENnotation>rnbqk1n1/pp3p1r/2pp3b/3N3p/2BPP1pP/3N1pP1/PPP5/R1BQ1RK1 w q -</CurrentFENnotation>
+    <SANMove>N5f4</SANMove>
+    <AfterMoveFENnotation>rnbqk1n1/pp3p1r/2pp3b/7p/2BPPNpP/3N1pP1/PPP5/R1BQ1RK1 b q -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>6cba9ff5-78f9-4a4a-9ec0-ca9a393fa754</CandidateMoveGUID>
+    <CurrentFENnotation>rnbqk1n1/pp3p1r/2pp3b/7p/2BPPNpP/3N1pP1/PPP5/R1BQ1RK1 b q -</CurrentFENnotation>
+    <SANMove>Bg7</SANMove>
+    <AfterMoveFENnotation>rnbqk1n1/pp3pbr/2pp4/7p/2BPPNpP/3N1pP1/PPP5/R1BQ1RK1 w q -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>9e822843-211e-4cf5-8066-244e275bcb4c</CandidateMoveGUID>
+    <CurrentFENnotation>rnbqk1n1/pp3pbr/2pp4/7p/2BPPNpP/3N1pP1/PPP5/R1BQ1RK1 w q -</CurrentFENnotation>
+    <SANMove>c3</SANMove>
+    <AfterMoveFENnotation>rnbqk1n1/pp3pbr/2pp4/7p/2BPPNpP/2PN1pP1/PP6/R1BQ1RK1 b q -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>d6feff74-bba1-4cd8-a648-707acb8c35b0</CandidateMoveGUID>
+    <CurrentFENnotation>rnbqkbn1/pppp1p1r/8/4N2p/2BPPppP/8/PPP3P1/RNBQK2R b KQq -</CurrentFENnotation>
+    <SANMove>Bh6</SANMove>
+    <AfterMoveFENnotation>rnbqk1n1/pppp1p1r/7b/4N2p/2BPPppP/8/PPP3P1/RNBQK2R w KQq -</AfterMoveFENnotation>
+    <Order>3</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>a5a6c987-c905-42bb-a4fe-651f3c4a3544</CandidateMoveGUID>
+    <CurrentFENnotation>rnbqkbn1/pppp1p1r/8/4N2p/2BPPppP/8/PPP3P1/RNBQK2R b KQq -</CurrentFENnotation>
+    <SANMove>d6</SANMove>
+    <AfterMoveFENnotation>rnbqkbn1/ppp2p1r/3p4/4N2p/2BPPppP/8/PPP3P1/RNBQK2R w KQq -</AfterMoveFENnotation>
+    <Order>4</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>25d44d01-0f62-4678-a4e4-6f7f4d8a815c</CandidateMoveGUID>
+    <CurrentFENnotation>rnbqkbn1/ppp2p1r/3p4/4N2p/2BPPppP/8/PPP3P1/RNBQK2R w KQq -</CurrentFENnotation>
+    <SANMove>Nxf7</SANMove>
+    <AfterMoveFENnotation>rnbqkbn1/ppp2N1r/3p4/7p/2BPPppP/8/PPP3P1/RNBQK2R b KQq -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>d6e4eaf7-5adb-47d4-b641-402b18542b23</CandidateMoveGUID>
+    <CurrentFENnotation>rnbqk1n1/pppp1p1r/7b/4N2p/2BPPppP/8/PPP3P1/RNBQK2R w KQq -</CurrentFENnotation>
+    <SANMove>Nc3</SANMove>
+    <AfterMoveFENnotation>rnbqk1n1/pppp1p1r/7b/4N2p/2BPPppP/2N5/PPP3P1/R1BQK2R b KQq -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>e4bd81b3-b209-4d8d-b15a-c7d317066b93</CandidateMoveGUID>
+    <CurrentFENnotation>rnbqk1n1/pppp1p1r/7b/4N2p/2BPPppP/2N5/PPP3P1/R1BQK2R b KQq -</CurrentFENnotation>
+    <SANMove>Nc6</SANMove>
+    <AfterMoveFENnotation>r1bqk1n1/pppp1p1r/2n4b/4N2p/2BPPppP/2N5/PPP3P1/R1BQK2R w KQq -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>5a20f0cf-7450-4391-84a6-aedad8c345d9</CandidateMoveGUID>
+    <CurrentFENnotation>r1bqk1n1/pppp1p1r/2n4b/4N2p/2BPPppP/2N5/PPP3P1/R1BQK2R w KQq -</CurrentFENnotation>
+    <SANMove>Nxf7</SANMove>
+    <AfterMoveFENnotation>r1bqk1n1/pppp1N1r/2n4b/7p/2BPPppP/2N5/PPP3P1/R1BQK2R b KQq -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>6560f7ba-7937-47db-bb1b-172ce2e12251</CandidateMoveGUID>
+    <CurrentFENnotation>r1bqk1n1/pppp1N1r/2n4b/7p/2BPPppP/2N5/PPP3P1/R1BQK2R b KQq -</CurrentFENnotation>
+    <SANMove>Rxf7</SANMove>
+    <AfterMoveFENnotation>r1bqk1n1/pppp1r2/2n4b/7p/2BPPppP/2N5/PPP3P1/R1BQK2R w KQq -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>fa63c35b-69db-4c5b-824f-d90da85c0216</CandidateMoveGUID>
+    <CurrentFENnotation>r1bqk1n1/pppp1r2/2n4b/7p/2BPPppP/2N5/PPP3P1/R1BQK2R w KQq -</CurrentFENnotation>
+    <SANMove>Bxf7+</SANMove>
+    <AfterMoveFENnotation>r1bqk1n1/pppp1B2/2n4b/7p/3PPppP/2N5/PPP3P1/R1BQK2R b KQq -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>81a5562f-e298-4a6c-bde7-7b871ce3e78e</CandidateMoveGUID>
+    <CurrentFENnotation>r1bqk1n1/pppp1B2/2n4b/7p/3PPppP/2N5/PPP3P1/R1BQK2R b KQq -</CurrentFENnotation>
+    <SANMove>Kxf7</SANMove>
+    <AfterMoveFENnotation>r1bq2n1/pppp1k2/2n4b/7p/3PPppP/2N5/PPP3P1/R1BQK2R w KQ -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>ed41fa3d-b0a2-4420-90a9-782feddf9e5e</CandidateMoveGUID>
+    <CurrentFENnotation>r1bq2n1/pppp1k2/2n4b/7p/3PPppP/2N5/PPP3P1/R1BQK2R w KQ -</CurrentFENnotation>
+    <SANMove>Bxf4</SANMove>
+    <AfterMoveFENnotation>r1bq2n1/pppp1k2/2n4b/7p/3PPBpP/2N5/PPP3P1/R2QK2R b KQ -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>bed02f5e-343f-47ea-935e-cad4b3eb1ecf</CandidateMoveGUID>
+    <CurrentFENnotation>r1bq2n1/pppp1k2/2n4b/7p/3PPBpP/2N5/PPP3P1/R2QK2R b KQ -</CurrentFENnotation>
+    <SANMove>Bxf4</SANMove>
+    <AfterMoveFENnotation>r1bq2n1/pppp1k2/2n5/7p/3PPbpP/2N5/PPP3P1/R2QK2R w KQ -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>2ed32ff2-18a2-4348-a9f6-c85e0cd302b9</CandidateMoveGUID>
+    <CurrentFENnotation>r1bq2n1/pppp1k2/2n5/7p/3PPbpP/2N5/PPP3P1/R2QK2R w KQ -</CurrentFENnotation>
+    <SANMove>O-O</SANMove>
+    <AfterMoveFENnotation>r1bq2n1/pppp1k2/2n5/7p/3PPbpP/2N5/PPP3P1/R2Q1RK1 b - -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>7abe8397-ddc3-461e-a281-9ea81804c4b6</CandidateMoveGUID>
+    <CurrentFENnotation>r1bq2n1/pppp1k2/2n5/7p/3PPbpP/2N5/PPP3P1/R2Q1RK1 b - -</CurrentFENnotation>
+    <SANMove>Kg7</SANMove>
+    <AfterMoveFENnotation>r1bq2n1/pppp2k1/2n5/7p/3PPbpP/2N5/PPP3P1/R2Q1RK1 w - -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>92b851d3-71ec-47e3-a57f-4c26714e5b8a</CandidateMoveGUID>
+    <CurrentFENnotation>r1bq2n1/pppp2k1/2n5/7p/3PPbpP/2N5/PPP3P1/R2Q1RK1 w - -</CurrentFENnotation>
+    <SANMove>Rxf4</SANMove>
+    <AfterMoveFENnotation>r1bq2n1/pppp2k1/2n5/7p/3PPRpP/2N5/PPP3P1/R2Q2K1 b - -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>8dc015da-96bd-4bfb-9011-5a4cfdf62e48</CandidateMoveGUID>
+    <CurrentFENnotation>r1bq2n1/pppp2k1/2n5/7p/3PPRpP/2N5/PPP3P1/R2Q2K1 b - -</CurrentFENnotation>
+    <SANMove>Qxh4</SANMove>
+    <AfterMoveFENnotation>r1b3n1/pppp2k1/2n5/7p/3PPRpq/2N5/PPP3P1/R2Q2K1 w - -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>cd1c5a6e-00da-438f-bbf3-78838af0f24d</CandidateMoveGUID>
+    <CurrentFENnotation>r1b3n1/pppp2k1/2n5/7p/3PPRpq/2N5/PPP3P1/R2Q2K1 w - -</CurrentFENnotation>
+    <SANMove>Qd2</SANMove>
+    <AfterMoveFENnotation>r1b3n1/pppp2k1/2n5/7p/3PPRpq/2N5/PPPQ2P1/R5K1 b - -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>86d537aa-5638-4c25-aaac-a1bd53122e4a</CandidateMoveGUID>
+    <CurrentFENnotation>r1b3n1/pppp2k1/2n5/7p/3PPRpq/2N5/PPPQ2P1/R5K1 b - -</CurrentFENnotation>
+    <SANMove>d6</SANMove>
+    <AfterMoveFENnotation>r1b3n1/ppp3k1/2np4/7p/3PPRpq/2N5/PPPQ2P1/R5K1 w - -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>24dea52c-906c-4053-92be-b51fee16221a</CandidateMoveGUID>
+    <CurrentFENnotation>r1b3n1/ppp3k1/2np4/7p/3PPRpq/2N5/PPPQ2P1/R5K1 w - -</CurrentFENnotation>
+    <SANMove>Raf1</SANMove>
+    <AfterMoveFENnotation>r1b3n1/ppp3k1/2np4/7p/3PPRpq/2N5/PPPQ2P1/5RK1 b - -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>063345cf-cb42-4709-919f-4f4c7de11f90</CandidateMoveGUID>
+    <CurrentFENnotation>rnbqk1n1/ppp2p1r/3p4/7p/2BPP1pb/3NBP2/PPPK4/RN1Q3R b q -</CurrentFENnotation>
+    <SANMove>gxf3</SANMove>
+    <AfterMoveFENnotation>rnbqk1n1/ppp2p1r/3p4/7p/2BPP2b/3NBp2/PPPK4/RN1Q3R w q -</AfterMoveFENnotation>
+    <Order>2</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>af0f1516-8ed4-4ab0-8073-63339aa0810b</CandidateMoveGUID>
+    <CurrentFENnotation>rnbqk1n1/ppp2p1r/3p4/7p/2BPP2b/3NBp2/PPPK4/RN1Q3R w q -</CurrentFENnotation>
+    <SANMove>Qxf3</SANMove>
+    <AfterMoveFENnotation>rnbqk1n1/ppp2p1r/3p4/7p/2BPP2b/3NBQ2/PPPK4/RN5R b q -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>f5d560e2-860a-4e18-83d8-adaf14cc80e8</CandidateMoveGUID>
+    <CurrentFENnotation>rnbqk1n1/ppp2p1r/3p4/7p/2BPP2b/3NBQ2/PPPK4/RN5R b q -</CurrentFENnotation>
+    <SANMove>Bg4</SANMove>
+    <AfterMoveFENnotation>rn1qk1n1/ppp2p1r/3p4/7p/2BPP1bb/3NBQ2/PPPK4/RN5R w q -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>77711801-d45a-4bc5-b1c2-bb6f31c79832</CandidateMoveGUID>
+    <CurrentFENnotation>rn1qk1n1/ppp2p1r/3p4/7p/2BPP1bb/3NBQ2/PPPK4/RN5R w q -</CurrentFENnotation>
+    <SANMove>Qf4</SANMove>
+    <AfterMoveFENnotation>rn1qk1n1/ppp2p1r/3p4/7p/2BPPQbb/3NB3/PPPK4/RN5R b q -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>632be80e-8627-45c4-a5e7-f8078a02a1c5</CandidateMoveGUID>
+    <CurrentFENnotation>rnbqkbnr/pppp1p1p/8/4N3/4PppP/8/PPPP2P1/RNBQKB1R b KQkq -</CurrentFENnotation>
+    <SANMove>Nf6</SANMove>
+    <AfterMoveFENnotation>rnbqkb1r/pppp1p1p/5n2/4N3/4PppP/8/PPPP2P1/RNBQKB1R w KQkq -</AfterMoveFENnotation>
+    <Order>2</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>dab0e003-e9d4-4a7d-9a5c-7ae688077de1</CandidateMoveGUID>
+    <CurrentFENnotation>rnbqkbnr/pppp1p1p/8/4N3/4PppP/8/PPPP2P1/RNBQKB1R b KQkq -</CurrentFENnotation>
+    <SANMove>d6</SANMove>
+    <AfterMoveFENnotation>rnbqkbnr/ppp2p1p/3p4/4N3/4PppP/8/PPPP2P1/RNBQKB1R w KQkq -</AfterMoveFENnotation>
+    <Order>3</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>445d8633-0631-4592-a35d-66b0aca012c7</CandidateMoveGUID>
+    <CurrentFENnotation>rnbqkbn1/ppp2N1r/3p4/7p/2BPPppP/8/PPP3P1/RNBQK2R b KQq -</CurrentFENnotation>
+    <SANMove>Rxf7</SANMove>
+    <AfterMoveFENnotation>rnbqkbn1/ppp2r2/3p4/7p/2BPPppP/8/PPP3P1/RNBQK2R w KQq -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>564f7e81-cd98-4189-b87b-8ed2a5a1fb59</CandidateMoveGUID>
+    <CurrentFENnotation>rnbqkbn1/ppp2r2/3p4/7p/2BPPppP/8/PPP3P1/RNBQK2R w KQq -</CurrentFENnotation>
+    <SANMove>Bxf7+</SANMove>
+    <AfterMoveFENnotation>rnbqkbn1/ppp2B2/3p4/7p/3PPppP/8/PPP3P1/RNBQK2R b KQq -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>efd13037-1aae-4cd3-8047-0c8c3fe6b637</CandidateMoveGUID>
+    <CurrentFENnotation>rnbqkbn1/ppp2B2/3p4/7p/3PPppP/8/PPP3P1/RNBQK2R b KQq -</CurrentFENnotation>
+    <SANMove>Kxf7</SANMove>
+    <AfterMoveFENnotation>rnbq1bn1/ppp2k2/3p4/7p/3PPppP/8/PPP3P1/RNBQK2R w KQ -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>933710f2-facd-4b27-88bf-ef3be8be4b11</CandidateMoveGUID>
+    <CurrentFENnotation>rnbq1bn1/ppp2k2/3p4/7p/3PPppP/8/PPP3P1/RNBQK2R w KQ -</CurrentFENnotation>
+    <SANMove>O-O</SANMove>
+    <AfterMoveFENnotation>rnbq1bn1/ppp2k2/3p4/7p/3PPppP/8/PPP3P1/RNBQ1RK1 b - -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>7a8ea8d5-6655-4e76-ac96-d17a9845e159</CandidateMoveGUID>
+    <CurrentFENnotation>rnbqk2r/ppp1bp2/3p3n/7p/2BPP1pP/3N1P2/PPP5/RNBQK2R w KQkq -</CurrentFENnotation>
+    <SANMove>Be3</SANMove>
+    <AfterMoveFENnotation>rnbqk2r/ppp1bp2/3p3n/7p/2BPP1pP/3NBP2/PPP5/RN1QK2R b KQkq -</AfterMoveFENnotation>
+    <Order>2</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>a21aed3e-f75c-4614-9830-0003d818eb27</CandidateMoveGUID>
+    <CurrentFENnotation>rnbqk2r/ppp1bp2/3p3n/7p/2BPP1pP/3NBP2/PPP5/RN1QK2R b KQkq -</CurrentFENnotation>
+    <SANMove>Bxh4+</SANMove>
+    <AfterMoveFENnotation>rnbqk2r/ppp2p2/3p3n/7p/2BPP1pb/3NBP2/PPP5/RN1QK2R w KQkq -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>38ff235f-01d8-424f-abed-4b17fead5efa</CandidateMoveGUID>
+    <CurrentFENnotation>rnbqk2r/ppp2p2/3p3n/7p/2BPP1pb/3NBP2/PPP5/RN1QK2R w KQkq -</CurrentFENnotation>
+    <SANMove>Kd2</SANMove>
+    <AfterMoveFENnotation>rnbqk2r/ppp2p2/3p3n/7p/2BPP1pb/3NBP2/PPPK4/RN1Q3R b kq -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>b99c7bd5-9439-4ba6-b183-5f931cf5a985</CandidateMoveGUID>
+    <CurrentFENnotation>rnbqkb1r/pppp1p1p/5n2/4N3/4PppP/8/PPPP2P1/RNBQKB1R w KQkq -</CurrentFENnotation>
+    <SANMove>Bc4</SANMove>
+    <AfterMoveFENnotation>rnbqkb1r/pppp1p1p/5n2/4N3/2B1PppP/8/PPPP2P1/RNBQK2R b KQkq -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>3755f04e-5aeb-47e1-9704-1c9c2c5b6de7</CandidateMoveGUID>
+    <CurrentFENnotation>rnbqkb1r/pppp1p1p/5n2/4N3/2B1PppP/8/PPPP2P1/RNBQK2R b KQkq -</CurrentFENnotation>
+    <SANMove>d5</SANMove>
+    <AfterMoveFENnotation>rnbqkb1r/ppp2p1p/5n2/3pN3/2B1PppP/8/PPPP2P1/RNBQK2R w KQkq -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>39fe7088-f89d-4b36-8140-b7840b869648</CandidateMoveGUID>
+    <CurrentFENnotation>rnbqkb1r/ppp2p1p/5n2/3pN3/2B1PppP/8/PPPP2P1/RNBQK2R w KQkq -</CurrentFENnotation>
+    <SANMove>exd5</SANMove>
+    <AfterMoveFENnotation>rnbqkb1r/ppp2p1p/5n2/3PN3/2B2ppP/8/PPPP2P1/RNBQK2R b KQkq -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>f7798b9c-523e-46c8-8a40-cc8f11416a55</CandidateMoveGUID>
+    <CurrentFENnotation>rnbqkb1r/ppp2p1p/5n2/3PN3/2B2ppP/8/PPPP2P1/RNBQK2R b KQkq -</CurrentFENnotation>
+    <SANMove>Bd6</SANMove>
+    <AfterMoveFENnotation>rnbqk2r/ppp2p1p/3b1n2/3PN3/2B2ppP/8/PPPP2P1/RNBQK2R w KQkq -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>d6c0442d-8e3d-4c95-98d9-53393f3e6541</CandidateMoveGUID>
+    <CurrentFENnotation>rnbqk2r/ppp2p1p/3b1n2/3PN3/2B2ppP/8/PPPP2P1/RNBQK2R w KQkq -</CurrentFENnotation>
+    <SANMove>d4</SANMove>
+    <AfterMoveFENnotation>rnbqk2r/ppp2p1p/3b1n2/3PN3/2BP1ppP/8/PPP3P1/RNBQK2R b KQkq -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>af0723b6-68c3-4721-8d72-d7fe1bd5a2f9</CandidateMoveGUID>
+    <CurrentFENnotation>rnbqk2r/ppp2p1p/3b1n2/3PN3/2B2ppP/8/PPPP2P1/RNBQK2R w KQkq -</CurrentFENnotation>
+    <SANMove>O-O</SANMove>
+    <AfterMoveFENnotation>rnbqk2r/ppp2p1p/3b1n2/3PN3/2B2ppP/8/PPPP2P1/RNBQ1RK1 b kq -</AfterMoveFENnotation>
+    <Order>2</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>0fb2c886-cd50-4066-8073-d04dd8c42afc</CandidateMoveGUID>
+    <CurrentFENnotation>rnbqk2r/ppp2p1p/3b1n2/3PN3/2B2ppP/8/PPPP2P1/RNBQ1RK1 b kq -</CurrentFENnotation>
+    <SANMove>Bxe5</SANMove>
+    <AfterMoveFENnotation>rnbqk2r/ppp2p1p/5n2/3Pb3/2B2ppP/8/PPPP2P1/RNBQ1RK1 w kq -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>c7ca7937-4317-49b1-96b3-4e80c6d2fd2d</CandidateMoveGUID>
+    <CurrentFENnotation>rnbqk2r/ppp2p1p/5n2/3Pb3/2B2ppP/8/PPPP2P1/RNBQ1RK1 w kq -</CurrentFENnotation>
+    <SANMove>Re1</SANMove>
+    <AfterMoveFENnotation>rnbqk2r/ppp2p1p/5n2/3Pb3/2B2ppP/8/PPPP2P1/RNBQR1K1 b kq -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>a0d0acf1-7cb1-4085-ad54-51d4c263c8f7</CandidateMoveGUID>
+    <CurrentFENnotation>rnbqk2r/ppp2p1p/5n2/3Pb3/2B2ppP/8/PPPP2P1/RNBQR1K1 b kq -</CurrentFENnotation>
+    <SANMove>Qe7</SANMove>
+    <AfterMoveFENnotation>rnb1k2r/ppp1qp1p/5n2/3Pb3/2B2ppP/8/PPPP2P1/RNBQR1K1 w kq -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>e6d9f5d7-b7d0-471f-896f-b5a47b93fb9a</CandidateMoveGUID>
+    <CurrentFENnotation>rnb1k2r/ppp1qp1p/5n2/3Pb3/2B2ppP/8/PPPP2P1/RNBQR1K1 w kq -</CurrentFENnotation>
+    <SANMove>c3</SANMove>
+    <AfterMoveFENnotation>rnb1k2r/ppp1qp1p/5n2/3Pb3/2B2ppP/2P5/PP1P2P1/RNBQR1K1 b kq -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>1b1e8c23-f649-4733-bfc6-0da14900affe</CandidateMoveGUID>
+    <CurrentFENnotation>rnb1k2r/ppp1qp1p/5n2/3Pb3/2B2ppP/8/PPPP2P1/RNBQR1K1 w kq -</CurrentFENnotation>
+    <SANMove>d4</SANMove>
+    <AfterMoveFENnotation>rnb1k2r/ppp1qp1p/5n2/3Pb3/2BP1ppP/8/PPP3P1/RNBQR1K1 b kq -</AfterMoveFENnotation>
+    <Order>2</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>e8c4735a-a5a0-4515-bcc2-095e443d29e8</CandidateMoveGUID>
+    <CurrentFENnotation>rnb1k2r/ppp1qp1p/5n2/3Pb3/2BP1ppP/8/PPP3P1/RNBQR1K1 b kq -</CurrentFENnotation>
+    <SANMove>Bxd4+</SANMove>
+    <AfterMoveFENnotation>rnb1k2r/ppp1qp1p/5n2/3P4/2Bb1ppP/8/PPP3P1/RNBQR1K1 w kq -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>518bc681-c78c-47a6-ab83-1df8116d471e</CandidateMoveGUID>
+    <CurrentFENnotation>rnb1k2r/ppp1qp1p/5n2/3Pb3/2B2ppP/2P5/PP1P2P1/RNBQR1K1 b kq -</CurrentFENnotation>
+    <SANMove>f3</SANMove>
+    <AfterMoveFENnotation>rnb1k2r/ppp1qp1p/5n2/3Pb3/2B3pP/2P2p2/PP1P2P1/RNBQR1K1 w kq -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>f062cf4e-b74a-4105-8b5c-e92c44f6bcc7</CandidateMoveGUID>
+    <CurrentFENnotation>rnb1k2r/ppp1qp1p/5n2/3Pb3/2B3pP/2P2p2/PP1P2P1/RNBQR1K1 w kq -</CurrentFENnotation>
+    <SANMove>d4</SANMove>
+    <AfterMoveFENnotation>rnb1k2r/ppp1qp1p/5n2/3Pb3/2BP2pP/2P2p2/PP4P1/RNBQR1K1 b kq -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>b684cbdb-61b5-44be-a273-08b650d75a87</CandidateMoveGUID>
+    <CurrentFENnotation>rnb1k2r/ppp1qp1p/5n2/3Pb3/2BP2pP/2P2p2/PP4P1/RNBQR1K1 b kq -</CurrentFENnotation>
+    <SANMove>Ne4</SANMove>
+    <AfterMoveFENnotation>rnb1k2r/ppp1qp1p/8/3Pb3/2BPn1pP/2P2p2/PP4P1/RNBQR1K1 w kq -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>450dd32d-12d1-4f94-9468-a52a1332bc46</CandidateMoveGUID>
+    <CurrentFENnotation>rnb1k2r/ppp1qp1p/8/3Pb3/2BPn1pP/2P2p2/PP4P1/RNBQR1K1 w kq -</CurrentFENnotation>
+    <SANMove>Rxe4</SANMove>
+    <AfterMoveFENnotation>rnb1k2r/ppp1qp1p/8/3Pb3/2BPR1pP/2P2p2/PP4P1/RNBQ2K1 b kq -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>8d662f62-1875-4667-bbf5-d816bfcca9b2</CandidateMoveGUID>
+    <CurrentFENnotation>rnb1k2r/ppp1qp1p/8/3Pb3/2BPR1pP/2P2p2/PP4P1/RNBQ2K1 b kq -</CurrentFENnotation>
+    <SANMove>Bh2+</SANMove>
+    <AfterMoveFENnotation>rnb1k2r/ppp1qp1p/8/3P4/2BPR1pP/2P2p2/PP4Pb/RNBQ2K1 w kq -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>caf808d1-65f5-4179-a62c-f63986cfad40</CandidateMoveGUID>
+    <CurrentFENnotation>rnb1k2r/ppp1qp1p/8/3P4/2BPR1pP/2P2p2/PP4Pb/RNBQ2K1 w kq -</CurrentFENnotation>
+    <SANMove>Kxh2</SANMove>
+    <AfterMoveFENnotation>rnb1k2r/ppp1qp1p/8/3P4/2BPR1pP/2P2p2/PP4PK/RNBQ4 b kq -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>0270b488-5aa6-486a-bacd-3ab348e03a25</CandidateMoveGUID>
+    <CurrentFENnotation>rnb1k2r/ppp1qp1p/8/3P4/2BPR1pP/2P2p2/PP4PK/RNBQ4 b kq -</CurrentFENnotation>
+    <SANMove>Qxe4</SANMove>
+    <AfterMoveFENnotation>rnb1k2r/ppp2p1p/8/3P4/2BPq1pP/2P2p2/PP4PK/RNBQ4 w kq -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>4a034c1f-7b4f-4df9-be9b-33bdd54becd8</CandidateMoveGUID>
+    <CurrentFENnotation>rnbqk2r/ppp2p1p/3b1n2/3PN3/2BP1ppP/8/PPP3P1/RNBQK2R b KQkq -</CurrentFENnotation>
+    <SANMove>Nh5</SANMove>
+    <AfterMoveFENnotation>rnbqk2r/ppp2p1p/3b4/3PN2n/2BP1ppP/8/PPP3P1/RNBQK2R w KQkq -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>14252e71-db70-40ea-8360-c3d1b76376aa</CandidateMoveGUID>
+    <CurrentFENnotation>rnbqk2r/ppp2p1p/3b4/3PN2n/2BP1ppP/8/PPP3P1/RNBQK2R w KQkq -</CurrentFENnotation>
+    <SANMove>O-O</SANMove>
+    <AfterMoveFENnotation>rnbqk2r/ppp2p1p/3b4/3PN2n/2BP1ppP/8/PPP3P1/RNBQ1RK1 b kq -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>62dd215d-d04b-41ca-b813-b43612a22a0e</CandidateMoveGUID>
+    <CurrentFENnotation>rnbqk2r/ppp2p1p/3b4/3PN2n/2BP1ppP/8/PPP3P1/RNBQ1RK1 b kq -</CurrentFENnotation>
+    <SANMove>Qxh4</SANMove>
+    <AfterMoveFENnotation>rnb1k2r/ppp2p1p/3b4/3PN2n/2BP1ppq/8/PPP3P1/RNBQ1RK1 w kq -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>9fe560ea-70b6-486b-a714-48326ff47790</CandidateMoveGUID>
+    <CurrentFENnotation>rnb1k2r/ppp2p1p/3b4/3PN2n/2BP1ppq/8/PPP3P1/RNBQ1RK1 w kq -</CurrentFENnotation>
+    <SANMove>Qe1</SANMove>
+    <AfterMoveFENnotation>rnb1k2r/ppp2p1p/3b4/3PN2n/2BP1ppq/8/PPP3P1/RNB1QRK1 b kq -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>835b6af1-b58e-468c-a111-32fbf8eea264</CandidateMoveGUID>
+    <CurrentFENnotation>rnb1k2r/ppp2p1p/3b4/3PN2n/2BP1ppq/8/PPP3P1/RNB1QRK1 b kq -</CurrentFENnotation>
+    <SANMove>Qxe1</SANMove>
+    <AfterMoveFENnotation>rnb1k2r/ppp2p1p/3b4/3PN2n/2BP1pp1/8/PPP3P1/RNB1qRK1 w kq -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>8b36d6cc-e56c-4c3b-a161-f137d4dee33e</CandidateMoveGUID>
+    <CurrentFENnotation>rnb1k2r/ppp2p1p/3b4/3PN2n/2BP1ppq/8/PPP3P1/RNB1QRK1 b kq -</CurrentFENnotation>
+    <SANMove>Ng3</SANMove>
+    <AfterMoveFENnotation>rnb1k2r/ppp2p1p/3b4/3PN3/2BP1ppq/6n1/PPP3P1/RNB1QRK1 w kq -</AfterMoveFENnotation>
+    <Order>2</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>befe752f-b798-4e2d-a4ca-9130fbe99b63</CandidateMoveGUID>
+    <CurrentFENnotation>rnb1k2r/ppp2p1p/3b4/3PN3/2BP1ppq/6n1/PPP3P1/RNB1QRK1 w kq -</CurrentFENnotation>
+    <SANMove>Ng6+</SANMove>
+    <AfterMoveFENnotation>rnb1k2r/ppp2p1p/3b2N1/3P4/2BP1ppq/6n1/PPP3P1/RNB1QRK1 b kq -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>435ea157-693e-4e9f-8388-4a8b86c57b0b</CandidateMoveGUID>
+    <CurrentFENnotation>rnb1k2r/ppp2p1p/3b4/3PN2n/2BP1pp1/8/PPP3P1/RNB1qRK1 w kq -</CurrentFENnotation>
+    <SANMove>Rxe1</SANMove>
+    <AfterMoveFENnotation>rnb1k2r/ppp2p1p/3b4/3PN2n/2BP1pp1/8/PPP3P1/RNB1R1K1 b kq -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>fcd403b1-8aef-4e2f-9868-c75d6035f69e</CandidateMoveGUID>
+    <CurrentFENnotation>rnb1k2r/ppp2p1p/3b4/3PN2n/2BP1pp1/8/PPP3P1/RNB1R1K1 b kq -</CurrentFENnotation>
+    <SANMove>O-O</SANMove>
+    <AfterMoveFENnotation>rnb2rk1/ppp2p1p/3b4/3PN2n/2BP1pp1/8/PPP3P1/RNB1R1K1 w - -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>f8f4a0ec-60a9-4b9f-a46f-b62a67ef6c80</CandidateMoveGUID>
+    <CurrentFENnotation>rnb2rk1/ppp2p1p/3b4/3PN2n/2BP1pp1/8/PPP3P1/RNB1R1K1 w - -</CurrentFENnotation>
+    <SANMove>Nc3</SANMove>
+    <AfterMoveFENnotation>rnb2rk1/ppp2p1p/3b4/3PN2n/2BP1pp1/2N5/PPP3P1/R1B1R1K1 b - -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>c46d3153-fc9e-4ade-9d4f-72a4dac172e4</CandidateMoveGUID>
+    <CurrentFENnotation>rnb2rk1/ppp2p1p/3b4/3PN2n/2BP1pp1/2N5/PPP3P1/R1B1R1K1 b - -</CurrentFENnotation>
+    <SANMove>Bf5</SANMove>
+    <AfterMoveFENnotation>rn3rk1/ppp2p1p/3b4/3PNb1n/2BP1pp1/2N5/PPP3P1/R1B1R1K1 w - -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>e71d3c4a-d79b-46e7-97f2-45e1311efae2</CandidateMoveGUID>
+    <CurrentFENnotation>rn3rk1/ppp2p1p/3b4/3PNb1n/2BP1pp1/2N5/PPP3P1/R1B1R1K1 w - -</CurrentFENnotation>
+    <SANMove>Bd3</SANMove>
+    <AfterMoveFENnotation>rn3rk1/ppp2p1p/3b4/3PNb1n/3P1pp1/2NB4/PPP3P1/R1B1R1K1 b - -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>2d8911f4-dad5-40a9-ab03-d50c21e35e4b</CandidateMoveGUID>
+    <CurrentFENnotation>rnbqkbnr/pppp1ppp/8/8/4Pp2/5N2/PPPP2PP/RNBQKB1R b KQkq -</CurrentFENnotation>
+    <SANMove>Nc6</SANMove>
+    <AfterMoveFENnotation>r1bqkbnr/pppp1ppp/2n5/8/4Pp2/5N2/PPPP2PP/RNBQKB1R w KQkq -</AfterMoveFENnotation>
+    <Order>3</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>522fd02e-dd8c-4425-94ec-b25157cbf66d</CandidateMoveGUID>
+    <CurrentFENnotation>r1bqkbnr/pppp1ppp/2n5/8/4Pp2/5N2/PPPP2PP/RNBQKB1R w KQkq -</CurrentFENnotation>
+    <SANMove>d4</SANMove>
+    <AfterMoveFENnotation>r1bqkbnr/pppp1ppp/2n5/8/3PPp2/5N2/PPP3PP/RNBQKB1R b KQkq -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>9bc6895b-43db-434e-b2ae-c4241bfaa933</CandidateMoveGUID>
+    <CurrentFENnotation>r1bqkbnr/pppp1ppp/2n5/8/3PPp2/5N2/PPP3PP/RNBQKB1R b KQkq -</CurrentFENnotation>
+    <SANMove>Nf6</SANMove>
+    <AfterMoveFENnotation>r1bqkb1r/pppp1ppp/2n2n2/8/3PPp2/5N2/PPP3PP/RNBQKB1R w KQkq -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>282d3495-ea4f-44a1-93c1-9ecf75d2b83e</CandidateMoveGUID>
+    <CurrentFENnotation>r1bqkb1r/pppp1ppp/2n2n2/8/3PPp2/5N2/PPP3PP/RNBQKB1R w KQkq -</CurrentFENnotation>
+    <SANMove>d5</SANMove>
+    <AfterMoveFENnotation>r1bqkb1r/pppp1ppp/2n2n2/3P4/4Pp2/5N2/PPP3PP/RNBQKB1R b KQkq -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>71f0a056-2aa7-4850-9b4b-c4131b2baca2</CandidateMoveGUID>
+    <CurrentFENnotation>r1bqkb1r/pppp1ppp/2n2n2/3P4/4Pp2/5N2/PPP3PP/RNBQKB1R b KQkq -</CurrentFENnotation>
+    <SANMove>Ne7</SANMove>
+    <AfterMoveFENnotation>r1bqkb1r/ppppnppp/5n2/3P4/4Pp2/5N2/PPP3PP/RNBQKB1R w KQkq -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>281c35a4-0d40-4548-a485-d231a25b6afa</CandidateMoveGUID>
+    <CurrentFENnotation>r1bqkb1r/ppppnppp/5n2/3P4/4Pp2/5N2/PPP3PP/RNBQKB1R w KQkq -</CurrentFENnotation>
+    <SANMove>Bxf4</SANMove>
+    <AfterMoveFENnotation>r1bqkb1r/ppppnppp/5n2/3P4/4PB2/5N2/PPP3PP/RN1QKB1R b KQkq -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>ffb4c5ae-8e8b-4e0e-b76f-016b532e0158</CandidateMoveGUID>
+    <CurrentFENnotation>rnbqkbnr/pppp1ppp/8/8/4Pp2/5N2/PPPP2PP/RNBQKB1R b KQkq -</CurrentFENnotation>
+    <SANMove>Be7</SANMove>
+    <AfterMoveFENnotation>rnbqk1nr/ppppbppp/8/8/4Pp2/5N2/PPPP2PP/RNBQKB1R w KQkq -</AfterMoveFENnotation>
+    <Order>4</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>c9589478-2434-4077-9118-eb24179d99c5</CandidateMoveGUID>
+    <CurrentFENnotation>rnbqk1nr/ppppbppp/8/8/4Pp2/5N2/PPPP2PP/RNBQKB1R w KQkq -</CurrentFENnotation>
+    <SANMove>Bc4</SANMove>
+    <AfterMoveFENnotation>rnbqk1nr/ppppbppp/8/8/2B1Pp2/5N2/PPPP2PP/RNBQK2R b KQkq -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>3a123f6c-a353-487d-80ad-f02748088ead</CandidateMoveGUID>
+    <CurrentFENnotation>rnbqk1nr/ppppbppp/8/8/4Pp2/5N2/PPPP2PP/RNBQKB1R w KQkq -</CurrentFENnotation>
+    <SANMove>Nc3</SANMove>
+    <AfterMoveFENnotation>rnbqk1nr/ppppbppp/8/8/4Pp2/2N2N2/PPPP2PP/R1BQKB1R b KQkq -</AfterMoveFENnotation>
+    <Order>2</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>6b5202f7-3364-4323-9e33-fee64a57361e</CandidateMoveGUID>
+    <CurrentFENnotation>rnbqk1nr/ppppbppp/8/8/2B1Pp2/5N2/PPPP2PP/RNBQK2R b KQkq -</CurrentFENnotation>
+    <SANMove>Bh4+</SANMove>
+    <AfterMoveFENnotation>rnbqk1nr/pppp1ppp/8/8/2B1Pp1b/5N2/PPPP2PP/RNBQK2R w KQkq -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>8349583f-0fc9-4d42-8bac-cc890a88ffd5</CandidateMoveGUID>
+    <CurrentFENnotation>rnbqk1nr/pppp1ppp/8/8/2B1Pp1b/5N2/PPPP2PP/RNBQK2R w KQkq -</CurrentFENnotation>
+    <SANMove>Kf1</SANMove>
+    <AfterMoveFENnotation>rnbqk1nr/pppp1ppp/8/8/2B1Pp1b/5N2/PPPP2PP/RNBQ1K1R b kq -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>d3636683-0991-4f42-b535-6e2a589ca54d</CandidateMoveGUID>
+    <CurrentFENnotation>rnbqk1nr/pppp1ppp/8/8/2B1Pp1b/5N2/PPPP2PP/RNBQ1K1R b kq -</CurrentFENnotation>
+    <SANMove>d5</SANMove>
+    <AfterMoveFENnotation>rnbqk1nr/ppp2ppp/8/3p4/2B1Pp1b/5N2/PPPP2PP/RNBQ1K1R w kq -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>41b95fb6-3391-4880-813b-00969764062f</CandidateMoveGUID>
+    <CurrentFENnotation>rnbqk1nr/ppp2ppp/8/3p4/2B1Pp1b/5N2/PPPP2PP/RNBQ1K1R w kq -</CurrentFENnotation>
+    <SANMove>Bxd5</SANMove>
+    <AfterMoveFENnotation>rnbqk1nr/ppp2ppp/8/3B4/4Pp1b/5N2/PPPP2PP/RNBQ1K1R b kq -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>65cc6df7-8f09-4d76-91e6-4da76509c65b</CandidateMoveGUID>
+    <CurrentFENnotation>rnbqk1nr/ppp2ppp/8/3B4/4Pp1b/5N2/PPPP2PP/RNBQ1K1R b kq -</CurrentFENnotation>
+    <SANMove>Nf6</SANMove>
+    <AfterMoveFENnotation>rnbqk2r/ppp2ppp/5n2/3B4/4Pp1b/5N2/PPPP2PP/RNBQ1K1R w kq -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>81f60ca4-24a2-4722-a21c-6f2c792b0a41</CandidateMoveGUID>
+    <CurrentFENnotation>rnbqk2r/ppp2ppp/5n2/3B4/4Pp1b/5N2/PPPP2PP/RNBQ1K1R w kq -</CurrentFENnotation>
+    <SANMove>Bb3</SANMove>
+    <AfterMoveFENnotation>rnbqk2r/ppp2ppp/5n2/8/4Pp1b/1B3N2/PPPP2PP/RNBQ1K1R b kq -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>7549edb8-cfea-4b01-b509-bb9a987d7391</CandidateMoveGUID>
+    <CurrentFENnotation>rnbqk2r/ppp2ppp/5n2/8/4Pp1b/1B3N2/PPPP2PP/RNBQ1K1R b kq -</CurrentFENnotation>
+    <SANMove>Nxe4</SANMove>
+    <AfterMoveFENnotation>rnbqk2r/ppp2ppp/8/8/4np1b/1B3N2/PPPP2PP/RNBQ1K1R w kq -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>f820b108-0ac9-4bab-895f-fac8f5e8a93e</CandidateMoveGUID>
+    <CurrentFENnotation>rnbqk2r/ppp2ppp/8/8/4np1b/1B3N2/PPPP2PP/RNBQ1K1R w kq -</CurrentFENnotation>
+    <SANMove>Qe2</SANMove>
+    <AfterMoveFENnotation>rnbqk2r/ppp2ppp/8/8/4np1b/1B3N2/PPPPQ1PP/RNB2K1R b kq -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>8fab299a-3cb9-41df-bd67-799f157be07f</CandidateMoveGUID>
+    <CurrentFENnotation>rnbqkbnr/pppp1ppp/8/8/4Pp2/5N2/PPPP2PP/RNBQKB1R b KQkq -</CurrentFENnotation>
+    <SANMove>d6</SANMove>
+    <AfterMoveFENnotation>rnbqkbnr/ppp2ppp/3p4/8/4Pp2/5N2/PPPP2PP/RNBQKB1R w KQkq -</AfterMoveFENnotation>
+    <Order>5</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>6468cf00-59a7-4f07-b293-472ee70e5e26</CandidateMoveGUID>
+    <CurrentFENnotation>rnbqkbnr/ppp2ppp/3p4/8/4Pp2/5N2/PPPP2PP/RNBQKB1R w KQkq -</CurrentFENnotation>
+    <SANMove>Bc4</SANMove>
+    <AfterMoveFENnotation>rnbqkbnr/ppp2ppp/3p4/8/2B1Pp2/5N2/PPPP2PP/RNBQK2R b KQkq -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>58b0fa16-7a71-4340-9bc5-974dcb153249</CandidateMoveGUID>
+    <CurrentFENnotation>rnbqkbnr/pppp1ppp/8/8/4Pp2/5N2/PPPP2PP/RNBQKB1R b KQkq -</CurrentFENnotation>
+    <SANMove>d5</SANMove>
+    <AfterMoveFENnotation>rnbqkbnr/ppp2ppp/8/3p4/4Pp2/5N2/PPPP2PP/RNBQKB1R w KQkq -</AfterMoveFENnotation>
+    <Order>6</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>a897bc14-44f6-48c4-ae7f-e1439c2fba7b</CandidateMoveGUID>
+    <CurrentFENnotation>rnbqkbnr/ppp2ppp/8/3p4/4Pp2/5N2/PPPP2PP/RNBQKB1R w KQkq -</CurrentFENnotation>
+    <SANMove>exd5</SANMove>
+    <AfterMoveFENnotation>rnbqkbnr/ppp2ppp/8/3P4/5p2/5N2/PPPP2PP/RNBQKB1R b KQkq -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>e2f09148-dfe1-4b50-af66-5573f15086b8</CandidateMoveGUID>
+    <CurrentFENnotation>rnbqkbnr/pppp1ppp/8/4p3/4PP2/8/PPPP2PP/RNBQKBNR b KQkq -</CurrentFENnotation>
+    <SANMove>Nc6</SANMove>
+    <AfterMoveFENnotation>r1bqkbnr/pppp1ppp/2n5/4p3/4PP2/8/PPPP2PP/RNBQKBNR w KQkq -</AfterMoveFENnotation>
+    <Order>2</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>3bcae3c3-1fce-47b0-befb-94ca0454031c</CandidateMoveGUID>
+    <CurrentFENnotation>rnbqkbnr/pppp1ppp/8/4p3/4PP2/8/PPPP2PP/RNBQKBNR b KQkq -</CurrentFENnotation>
+    <SANMove>Bc5</SANMove>
+    <AfterMoveFENnotation>rnbqk1nr/pppp1ppp/8/2b1p3/4PP2/8/PPPP2PP/RNBQKBNR w KQkq -</AfterMoveFENnotation>
+    <Order>3</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>1c7da551-1fea-4f90-b6d7-c612b3ef8bd3</CandidateMoveGUID>
+    <CurrentFENnotation>rnbqk1nr/pppp1ppp/8/2b1p3/4PP2/8/PPPP2PP/RNBQKBNR w KQkq -</CurrentFENnotation>
+    <SANMove>Nf3</SANMove>
+    <AfterMoveFENnotation>rnbqk1nr/pppp1ppp/8/2b1p3/4PP2/5N2/PPPP2PP/RNBQKB1R b KQkq -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>0033aba4-d203-4083-b7b7-106098632ea3</CandidateMoveGUID>
+    <CurrentFENnotation>rnbqkbnr/pppp1ppp/8/4p3/4PP2/8/PPPP2PP/RNBQKBNR b KQkq -</CurrentFENnotation>
+    <SANMove>d5</SANMove>
+    <AfterMoveFENnotation>rnbqkbnr/ppp2ppp/8/3pp3/4PP2/8/PPPP2PP/RNBQKBNR w KQkq -</AfterMoveFENnotation>
+    <Order>4</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>50abd6d0-03fa-40ef-96c7-fc85996e7b7d</CandidateMoveGUID>
+    <CurrentFENnotation>rnbqkbnr/ppp2ppp/8/3pp3/4PP2/8/PPPP2PP/RNBQKBNR w KQkq -</CurrentFENnotation>
+    <SANMove>exd5</SANMove>
+    <AfterMoveFENnotation>rnbqkbnr/ppp2ppp/8/3Pp3/5P2/8/PPPP2PP/RNBQKBNR b KQkq -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>dbade3d9-12aa-4025-b3a5-fac9d376d16c</CandidateMoveGUID>
+    <CurrentFENnotation>rnbqkbnr/ppp2ppp/8/3Pp3/5P2/8/PPPP2PP/RNBQKBNR b KQkq -</CurrentFENnotation>
+    <SANMove>e4</SANMove>
+    <AfterMoveFENnotation>rnbqkbnr/ppp2ppp/8/3P4/4pP2/8/PPPP2PP/RNBQKBNR w KQkq -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>a130805e-0953-456e-b7c8-3598bc85dfa8</CandidateMoveGUID>
+    <CurrentFENnotation>rnbqkbnr/ppp2ppp/8/3P4/4pP2/8/PPPP2PP/RNBQKBNR w KQkq -</CurrentFENnotation>
+    <SANMove>d3</SANMove>
+    <AfterMoveFENnotation>rnbqkbnr/ppp2ppp/8/3P4/4pP2/3P4/PPP3PP/RNBQKBNR b KQkq -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>36cb93aa-852c-4482-b8a8-3f4f4142a091</CandidateMoveGUID>
+    <CurrentFENnotation>rnbqkbnr/ppp2ppp/8/3P4/4pP2/3P4/PPP3PP/RNBQKBNR b KQkq -</CurrentFENnotation>
+    <SANMove>Nf6</SANMove>
+    <AfterMoveFENnotation>rnbqkb1r/ppp2ppp/5n2/3P4/4pP2/3P4/PPP3PP/RNBQKBNR w KQkq -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>c3dd4655-af2d-4d92-995c-2abea9b31b1c</CandidateMoveGUID>
+    <CurrentFENnotation>rnbqkb1r/ppp2ppp/5n2/3P4/4pP2/3P4/PPP3PP/RNBQKBNR w KQkq -</CurrentFENnotation>
+    <SANMove>dxe4</SANMove>
+    <AfterMoveFENnotation>rnbqkb1r/ppp2ppp/5n2/3P4/4PP2/8/PPP3PP/RNBQKBNR b KQkq -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>c0c3e457-8ce4-4728-a461-2eccda7c8d52</CandidateMoveGUID>
+    <CurrentFENnotation>rnbqkb1r/ppp2ppp/5n2/3P4/4PP2/8/PPP3PP/RNBQKBNR b KQkq -</CurrentFENnotation>
+    <SANMove>Nxe4</SANMove>
+    <AfterMoveFENnotation>rnbqkb1r/ppp2ppp/8/3P4/4nP2/8/PPP3PP/RNBQKBNR w KQkq -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>761dcaea-ec49-4e24-b71f-32bcc2914b40</CandidateMoveGUID>
+    <CurrentFENnotation>rnbqkb1r/ppp2ppp/8/3P4/4nP2/8/PPP3PP/RNBQKBNR w KQkq -</CurrentFENnotation>
+    <SANMove>Be3</SANMove>
+    <AfterMoveFENnotation>rnbqkb1r/ppp2ppp/8/3P4/4nP2/4B3/PPP3PP/RN1QKBNR b KQkq -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>16ce9b94-8eb0-4e7d-aafc-197821b35ddf</CandidateMoveGUID>
+    <CurrentFENnotation>rnbqkb1r/ppp2ppp/8/3P4/4nP2/4B3/PPP3PP/RN1QKBNR b KQkq -</CurrentFENnotation>
+    <SANMove>Qh4+</SANMove>
+    <AfterMoveFENnotation>rnb1kb1r/ppp2ppp/8/3P4/4nP1q/4B3/PPP3PP/RN1QKBNR w KQkq -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>4e9ab190-e80a-48ad-b93c-906d5cad358f</CandidateMoveGUID>
+    <CurrentFENnotation>rnb1kb1r/ppp2ppp/8/3P4/4nP1q/4B3/PPP3PP/RN1QKBNR w KQkq -</CurrentFENnotation>
+    <SANMove>g3</SANMove>
+    <AfterMoveFENnotation>rnb1kb1r/ppp2ppp/8/3P4/4nP1q/4B1P1/PPP4P/RN1QKBNR b KQkq -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>1b432d10-d1f2-4d8b-9fae-e3643ec25638</CandidateMoveGUID>
+    <CurrentFENnotation>rnb1kb1r/ppp2ppp/8/3P4/4nP1q/4B1P1/PPP4P/RN1QKBNR b KQkq -</CurrentFENnotation>
+    <SANMove>Nxg3</SANMove>
+    <AfterMoveFENnotation>rnb1kb1r/ppp2ppp/8/3P4/5P1q/4B1n1/PPP4P/RN1QKBNR w KQkq -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>04166cb1-16e3-4d06-9ae5-e180b0cb08ff</CandidateMoveGUID>
+    <CurrentFENnotation>rnb1kb1r/ppp2ppp/8/3P4/5P1q/4B1n1/PPP4P/RN1QKBNR w KQkq -</CurrentFENnotation>
+    <SANMove>Nf3</SANMove>
+    <AfterMoveFENnotation>rnb1kb1r/ppp2ppp/8/3P4/5P1q/4BNn1/PPP4P/RN1QKB1R b KQkq -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>be0bdeee-ed66-4fd9-9c93-1a24a68d5312</CandidateMoveGUID>
+    <CurrentFENnotation>rnb1kb1r/ppp2ppp/8/3P4/5P1q/4BNn1/PPP4P/RN1QKB1R b KQkq -</CurrentFENnotation>
+    <SANMove>Qe7</SANMove>
+    <AfterMoveFENnotation>rnb1kb1r/ppp1qppp/8/3P4/5P2/4BNn1/PPP4P/RN1QKB1R w KQkq -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>d11ef4e0-34c8-4491-8e33-e4c11cb277ec</CandidateMoveGUID>
+    <CurrentFENnotation>rnb1kb1r/ppp1qppp/8/3P4/5P2/4BNn1/PPP4P/RN1QKB1R w KQkq -</CurrentFENnotation>
+    <SANMove>hxg3</SANMove>
+    <AfterMoveFENnotation>rnb1kb1r/ppp1qppp/8/3P4/5P2/4BNP1/PPP5/RN1QKB1R b KQkq -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>619b49ec-5785-4066-acfb-bd212a7a475e</CandidateMoveGUID>
+    <CurrentFENnotation>rnb1kb1r/ppp1qppp/8/3P4/5P2/4BNP1/PPP5/RN1QKB1R b KQkq -</CurrentFENnotation>
+    <SANMove>Qxe3+</SANMove>
+    <AfterMoveFENnotation>rnb1kb1r/ppp2ppp/8/3P4/5P2/4qNP1/PPP5/RN1QKB1R w KQkq -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>bb682ec2-05c3-4508-96d6-5efb811c5e04</CandidateMoveGUID>
+    <CurrentFENnotation>rnb1kb1r/ppp2ppp/8/3P4/5P2/4qNP1/PPP5/RN1QKB1R w KQkq -</CurrentFENnotation>
+    <SANMove>Qe2</SANMove>
+    <AfterMoveFENnotation>rnb1kb1r/ppp2ppp/8/3P4/5P2/4qNP1/PPP1Q3/RN2KB1R b KQkq -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>6053eed0-f11a-448f-b4df-4a488ab336d9</CandidateMoveGUID>
+    <CurrentFENnotation>rnb1kb1r/ppp2ppp/8/3P4/5P2/4qNP1/PPP1Q3/RN2KB1R b KQkq -</CurrentFENnotation>
+    <SANMove>Qxe2+</SANMove>
+    <AfterMoveFENnotation>rnb1kb1r/ppp2ppp/8/3P4/5P2/5NP1/PPP1q3/RN2KB1R w KQkq -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>c8049f10-1bfd-44ab-a78e-a304f4c542ae</CandidateMoveGUID>
+    <CurrentFENnotation>rnb1kb1r/ppp2ppp/8/3P4/5P2/5NP1/PPP1q3/RN2KB1R w KQkq -</CurrentFENnotation>
+    <SANMove>Bxe2</SANMove>
+    <AfterMoveFENnotation>rnb1kb1r/ppp2ppp/8/3P4/5P2/5NP1/PPP1B3/RN2K2R b KQkq -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>8cf23e6c-a849-4266-8669-c284f49e53a9</CandidateMoveGUID>
+    <CurrentFENnotation>rnb1kb1r/ppp2ppp/8/3P4/5P2/5NP1/PPP1B3/RN2K2R b KQkq -</CurrentFENnotation>
+    <SANMove>Bg4</SANMove>
+    <AfterMoveFENnotation>rn2kb1r/ppp2ppp/8/3P4/5Pb1/5NP1/PPP1B3/RN2K2R w KQkq -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>f546843e-8e01-4a67-a47e-8c2f0bd84c92</CandidateMoveGUID>
+    <CurrentFENnotation>rn2kb1r/ppp2ppp/8/3P4/5Pb1/5NP1/PPP1B3/RN2K2R w KQkq -</CurrentFENnotation>
+    <SANMove>Nc3</SANMove>
+    <AfterMoveFENnotation>rn2kb1r/ppp2ppp/8/3P4/5Pb1/2N2NP1/PPP1B3/R3K2R b KQkq -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>bf78d515-303b-4cce-9355-06e5caf0773e</CandidateMoveGUID>
+    <CurrentFENnotation>rn2kb1r/ppp2ppp/8/3P4/5Pb1/2N2NP1/PPP1B3/R3K2R b KQkq -</CurrentFENnotation>
+    <SANMove>Bb4</SANMove>
+    <AfterMoveFENnotation>rn2k2r/ppp2ppp/8/3P4/1b3Pb1/2N2NP1/PPP1B3/R3K2R w KQkq -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>9b7c279f-8d49-4c0c-b001-c5ffc115eabc</CandidateMoveGUID>
+    <CurrentFENnotation>rn2k2r/ppp2ppp/8/3P4/1b3Pb1/2N2NP1/PPP1B3/R3K2R w KQkq -</CurrentFENnotation>
+    <SANMove>Ng5</SANMove>
+    <AfterMoveFENnotation>rn2k2r/ppp2ppp/8/3P2N1/1b3Pb1/2N3P1/PPP1B3/R3K2R b KQkq -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>95ca99f7-0f56-470d-b9a0-80bcdd6645d1</CandidateMoveGUID>
+    <CurrentFENnotation>rn2k2r/ppp2ppp/8/3P2N1/1b3Pb1/2N3P1/PPP1B3/R3K2R b KQkq -</CurrentFENnotation>
+    <SANMove>Bxe2</SANMove>
+    <AfterMoveFENnotation>rn2k2r/ppp2ppp/8/3P2N1/1b3P2/2N3P1/PPP1b3/R3K2R w KQkq -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>266664ba-8980-4a25-9725-ae18dcd90eed</CandidateMoveGUID>
+    <CurrentFENnotation>rn2k2r/ppp2ppp/8/3P2N1/1b3P2/2N3P1/PPP1b3/R3K2R w KQkq -</CurrentFENnotation>
+    <SANMove>Kxe2</SANMove>
+    <AfterMoveFENnotation>rn2k2r/ppp2ppp/8/3P2N1/1b3P2/2N3P1/PPP1K3/R6R b kq -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>33afc3a3-c0a0-4213-a0ec-0643b0b351af</CandidateMoveGUID>
+    <CurrentFENnotation>rn2k2r/ppp2ppp/8/3P2N1/1b3P2/2N3P1/PPP1K3/R6R b kq -</CurrentFENnotation>
+    <SANMove>Bxc3</SANMove>
+    <AfterMoveFENnotation>rn2k2r/ppp2ppp/8/3P2N1/5P2/2b3P1/PPP1K3/R6R w kq -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>fecaa1a4-eeed-41e5-beed-0051be745104</CandidateMoveGUID>
+    <CurrentFENnotation>rn2k2r/ppp2ppp/8/3P2N1/5P2/2b3P1/PPP1K3/R6R w kq -</CurrentFENnotation>
+    <SANMove>bxc3</SANMove>
+    <AfterMoveFENnotation>rn2k2r/ppp2ppp/8/3P2N1/5P2/2P3P1/P1P1K3/R6R b kq -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>96f019db-d097-41d8-9321-2efee92fe4ea</CandidateMoveGUID>
+    <CurrentFENnotation>rn2k2r/ppp2ppp/8/3P2N1/5P2/2P3P1/P1P1K3/R6R b kq -</CurrentFENnotation>
+    <SANMove>h6</SANMove>
+    <AfterMoveFENnotation>rn2k2r/ppp2pp1/7p/3P2N1/5P2/2P3P1/P1P1K3/R6R w kq -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>b9187699-4be0-4097-97be-1e5796ea8829</CandidateMoveGUID>
+    <CurrentFENnotation>rn2k2r/ppp2pp1/7p/3P2N1/5P2/2P3P1/P1P1K3/R6R w kq -</CurrentFENnotation>
+    <SANMove>Kd3</SANMove>
+    <AfterMoveFENnotation>rn2k2r/ppp2pp1/7p/3P2N1/5P2/2PK2P1/P1P5/R6R b kq -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>97616f1e-7d1e-4fa1-bcd7-d3f2d838b5aa</CandidateMoveGUID>
+    <CurrentFENnotation>rn2k2r/ppp2pp1/7p/3P2N1/5P2/2PK2P1/P1P5/R6R b kq -</CurrentFENnotation>
+    <SANMove>O-O</SANMove>
+    <AfterMoveFENnotation>rn3rk1/ppp2pp1/7p/3P2N1/5P2/2PK2P1/P1P5/R6R w - -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>6e76f7de-6c7b-444e-8570-9b87b6a21315</CandidateMoveGUID>
+    <CurrentFENnotation>rn3rk1/ppp2pp1/7p/3P2N1/5P2/2PK2P1/P1P5/R6R w - -</CurrentFENnotation>
+    <SANMove>Ne4</SANMove>
+    <AfterMoveFENnotation>rn3rk1/ppp2pp1/7p/3P4/4NP2/2PK2P1/P1P5/R6R b - -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>b9a7071a-6836-4129-98d3-490d274b8557</CandidateMoveGUID>
+    <CurrentFENnotation>rn3rk1/ppp2pp1/7p/3P4/4NP2/2PK2P1/P1P5/R6R b - -</CurrentFENnotation>
+    <SANMove>Rd8</SANMove>
+    <AfterMoveFENnotation>rn1r2k1/ppp2pp1/7p/3P4/4NP2/2PK2P1/P1P5/R6R w - -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>4e53e913-8c8b-4af2-8a5f-fb762d5a4a93</CandidateMoveGUID>
+    <CurrentFENnotation>rn1r2k1/ppp2pp1/7p/3P4/4NP2/2PK2P1/P1P5/R6R w - -</CurrentFENnotation>
+    <SANMove>c4</SANMove>
+    <AfterMoveFENnotation>rn1r2k1/ppp2pp1/7p/3P4/2P1NP2/3K2P1/P1P5/R6R b - -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>24900f68-45f4-46f3-8ab9-387c44829635</CandidateMoveGUID>
+    <CurrentFENnotation>rn1r2k1/ppp2pp1/7p/3P4/2P1NP2/3K2P1/P1P5/R6R b - -</CurrentFENnotation>
+    <SANMove>c6</SANMove>
+    <AfterMoveFENnotation>rn1r2k1/pp3pp1/2p4p/3P4/2P1NP2/3K2P1/P1P5/R6R w - -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+  <CandidateMove>
+    <CandidateMoveGUID>90e7091a-dcf5-449c-953a-2af4f333fcb7</CandidateMoveGUID>
+    <CurrentFENnotation>rn1r2k1/pp3pp1/2p4p/3P4/2P1NP2/3K2P1/P1P5/R6R w - -</CurrentFENnotation>
+    <SANMove>Rh5</SANMove>
+    <AfterMoveFENnotation>rn1r2k1/pp3pp1/2p4p/3P3R/2P1NP2/3K2P1/P1P5/R7 b - -</AfterMoveFENnotation>
+    <Order>1</Order>
+  </CandidateMove>
+</CandidateMoves>

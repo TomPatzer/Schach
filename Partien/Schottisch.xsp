@@ -1,0 +1,33 @@
+<?xml version="1.0" standalone="yes"?>
+<xs:schema id="Positions" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xs:element name="Positions" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Position">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="PositionGUID" msdata:DataType="System.Guid, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" type="xs:string" />
+              <xs:element name="FENnotation" type="xs:string" minOccurs="0" />
+              <xs:element name="ColorToMove" type="xs:int" minOccurs="0" />
+              <xs:element name="PositionEvaluation" type="xs:string" minOccurs="0" />
+              <xs:element name="Comment" type="xs:string" minOccurs="0" />
+              <xs:element name="Lable" type="xs:string" minOccurs="0" />
+              <xs:element name="TrainingResults" type="xs:string" minOccurs="0" />
+              <xs:element name="TrainingScore" type="xs:int" minOccurs="0" />
+              <xs:element name="ToDo" type="xs:int" minOccurs="0" />
+              <xs:element name="ForTraining" type="xs:boolean" minOccurs="0" />
+              <xs:element name="StartPosition" type="xs:boolean" minOccurs="0" />
+              <xs:element name="TraingLastDate" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="CE" type="xs:double" minOccurs="0" />
+              <xs:element name="PE" type="xs:double" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//Position" />
+      <xs:field xpath="PositionGUID" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

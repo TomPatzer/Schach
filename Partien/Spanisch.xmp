@@ -1,0 +1,984 @@
+<?xml version="1.0" standalone="yes"?>
+<Positions>
+  <Position>
+    <PositionGUID>0c515d57-d627-4c4b-8663-41337afe06c5</PositionGUID>
+    <FENnotation>rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq -</FENnotation>
+    <ColorToMove>0</ColorToMove>
+    <TrainingResults>0000000000</TrainingResults>
+    <TrainingScore>0</TrainingScore>
+    <ForTraining>true</ForTraining>
+    <TraingLastDate>2010-02-13T14:44:17.8149392+01:00</TraingLastDate>
+  </Position>
+  <Position>
+    <PositionGUID>8b0a7eb5-843d-4772-8a30-81ad87107801</PositionGUID>
+    <FENnotation>rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq -</FENnotation>
+    <ColorToMove>1</ColorToMove>
+    <Lable />
+    <TrainingResults>1111111111</TrainingResults>
+    <TrainingScore>10</TrainingScore>
+    <ToDo>0</ToDo>
+    <ForTraining>true</ForTraining>
+    <TraingLastDate>2010-03-13T14:52:53.6486768+01:00</TraingLastDate>
+  </Position>
+  <Position>
+    <PositionGUID>411e52fc-5dd6-4916-82cc-d23018eb9d15</PositionGUID>
+    <FENnotation>rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq -</FENnotation>
+    <ColorToMove>0</ColorToMove>
+    <Lable />
+    <TrainingResults>0000000000</TrainingResults>
+    <TrainingScore>0</TrainingScore>
+    <ToDo>0</ToDo>
+    <ForTraining>true</ForTraining>
+    <TraingLastDate>0001-01-01T00:00:00.0000000+01:00</TraingLastDate>
+  </Position>
+  <Position>
+    <PositionGUID>d1698712-f9b8-4d3f-87ff-0fedc26df2ca</PositionGUID>
+    <FENnotation>rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq -</FENnotation>
+    <ColorToMove>1</ColorToMove>
+    <Lable />
+    <TrainingResults>1111111111</TrainingResults>
+    <TrainingScore>10</TrainingScore>
+    <ToDo>0</ToDo>
+    <ForTraining>true</ForTraining>
+    <TraingLastDate>2010-03-13T14:52:55.3310960+01:00</TraingLastDate>
+  </Position>
+  <Position>
+    <PositionGUID>db35184d-102b-428e-ab3b-05e2785a4637</PositionGUID>
+    <FENnotation>r1bqkbnr/pppp1ppp/2n5/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq -</FENnotation>
+    <ColorToMove>0</ColorToMove>
+    <Lable />
+    <TrainingResults>0000000000</TrainingResults>
+    <TrainingScore>0</TrainingScore>
+    <ToDo>0</ToDo>
+    <ForTraining>true</ForTraining>
+    <TraingLastDate>0001-01-01T00:00:00.0000000+01:00</TraingLastDate>
+  </Position>
+  <Position>
+    <PositionGUID>8613ccb3-011c-49c0-86c2-ba4ff6dc3fbe</PositionGUID>
+    <FENnotation>r1bqkbnr/pppp1ppp/2n5/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R b KQkq -</FENnotation>
+    <ColorToMove>1</ColorToMove>
+    <Lable />
+    <TrainingResults>1111111111</TrainingResults>
+    <TrainingScore>10</TrainingScore>
+    <ToDo>0</ToDo>
+    <ForTraining>true</ForTraining>
+    <TraingLastDate>2010-03-13T14:52:56.7631552+01:00</TraingLastDate>
+  </Position>
+  <Position>
+    <PositionGUID>904280af-a55e-468b-a317-3203d4f79236</PositionGUID>
+    <FENnotation>r1bqkbnr/1ppp1ppp/p1n5/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq -</FENnotation>
+    <ColorToMove>0</ColorToMove>
+    <Lable />
+    <TrainingResults>0000000000</TrainingResults>
+    <TrainingScore>0</TrainingScore>
+    <ToDo>0</ToDo>
+    <ForTraining>true</ForTraining>
+    <TraingLastDate>0001-01-01T00:00:00.0000000+01:00</TraingLastDate>
+  </Position>
+  <Position>
+    <PositionGUID>701fc430-464c-4e8d-9b55-850119b75fdc</PositionGUID>
+    <FENnotation>r1bqkbnr/1ppp1ppp/p1n5/4p3/B3P3/5N2/PPPP1PPP/RNBQK2R b KQkq -</FENnotation>
+    <ColorToMove>1</ColorToMove>
+    <Lable />
+    <TrainingResults>1111111111</TrainingResults>
+    <TrainingScore>10</TrainingScore>
+    <ToDo>0</ToDo>
+    <ForTraining>true</ForTraining>
+    <TraingLastDate>2010-03-13T14:51:18.6821216+01:00</TraingLastDate>
+  </Position>
+  <Position>
+    <PositionGUID>ed85d342-695c-4dc5-b768-7bcc8065eaf8</PositionGUID>
+    <FENnotation>r1bqkb1r/1ppp1ppp/p1n2n2/4p3/B3P3/5N2/PPPP1PPP/RNBQK2R w KQkq -</FENnotation>
+    <ColorToMove>0</ColorToMove>
+    <Lable />
+    <TrainingResults>0000000000</TrainingResults>
+    <TrainingScore>0</TrainingScore>
+    <ToDo>0</ToDo>
+    <ForTraining>true</ForTraining>
+    <TraingLastDate>0001-01-01T00:00:00.0000000+01:00</TraingLastDate>
+  </Position>
+  <Position>
+    <PositionGUID>177269a6-bac3-4cc9-880f-e14566abeaea</PositionGUID>
+    <FENnotation>r1bqkb1r/1ppp1ppp/p1n2n2/4p3/B3P3/5N2/PPPP1PPP/RNBQ1RK1 b kq -</FENnotation>
+    <ColorToMove>1</ColorToMove>
+    <Lable />
+    <TrainingResults>1111111111</TrainingResults>
+    <TrainingScore>10</TrainingScore>
+    <ToDo>0</ToDo>
+    <ForTraining>true</ForTraining>
+    <TraingLastDate>2010-03-13T14:51:20.3044544+01:00</TraingLastDate>
+  </Position>
+  <Position>
+    <PositionGUID>478e8380-0f61-4794-b8b9-0f305a799ae6</PositionGUID>
+    <FENnotation>r1bqk2r/1pppbppp/p1n2n2/4p3/B3P3/5N2/PPPP1PPP/RNBQ1RK1 w kq -</FENnotation>
+    <ColorToMove>0</ColorToMove>
+    <Lable />
+    <TrainingResults>0000000000</TrainingResults>
+    <TrainingScore>0</TrainingScore>
+    <ToDo>0</ToDo>
+    <ForTraining>true</ForTraining>
+    <TraingLastDate>0001-01-01T00:00:00.0000000+01:00</TraingLastDate>
+  </Position>
+  <Position>
+    <PositionGUID>5eec6707-4890-4884-902c-cdb6aa82884e</PositionGUID>
+    <FENnotation>r1bqk2r/1pppbppp/p1n2n2/4p3/B3P3/5N2/PPPP1PPP/RNBQR1K1 b kq -</FENnotation>
+    <ColorToMove>1</ColorToMove>
+    <Lable />
+    <TrainingResults>1111110111</TrainingResults>
+    <TrainingScore>9</TrainingScore>
+    <ToDo>0</ToDo>
+    <ForTraining>true</ForTraining>
+    <TraingLastDate>2010-03-13T14:51:22.2272192+01:00</TraingLastDate>
+  </Position>
+  <Position>
+    <PositionGUID>896c1afe-c2a2-4356-88dd-8e38f7a3356c</PositionGUID>
+    <FENnotation>r1bqk2r/2ppbppp/p1n2n2/1p2p3/B3P3/5N2/PPPP1PPP/RNBQR1K1 w kq -</FENnotation>
+    <ColorToMove>0</ColorToMove>
+    <Lable />
+    <TrainingResults>0000000000</TrainingResults>
+    <TrainingScore>0</TrainingScore>
+    <ToDo>0</ToDo>
+    <ForTraining>true</ForTraining>
+    <TraingLastDate>0001-01-01T00:00:00.0000000+01:00</TraingLastDate>
+  </Position>
+  <Position>
+    <PositionGUID>669efcaf-7718-4db8-b1e8-6004bf9faa4f</PositionGUID>
+    <FENnotation>r1bqk2r/2ppbppp/p1n2n2/1p2p3/4P3/1B3N2/PPPP1PPP/RNBQR1K1 b kq -</FENnotation>
+    <ColorToMove>1</ColorToMove>
+    <Lable />
+    <TrainingResults>1111111111</TrainingResults>
+    <TrainingScore>10</TrainingScore>
+    <ToDo>0</ToDo>
+    <ForTraining>true</ForTraining>
+    <TraingLastDate>2010-03-13T14:51:24.0698688+01:00</TraingLastDate>
+  </Position>
+  <Position>
+    <PositionGUID>f0e1ba0d-3f7f-4c11-a4ca-8db2e1cae2d3</PositionGUID>
+    <FENnotation>r1bq1rk1/2ppbppp/p1n2n2/1p2p3/4P3/1B3N2/PPPP1PPP/RNBQR1K1 w - -</FENnotation>
+    <ColorToMove>0</ColorToMove>
+    <Lable />
+    <TrainingResults>0000000000</TrainingResults>
+    <TrainingScore>0</TrainingScore>
+    <ToDo>0</ToDo>
+    <ForTraining>true</ForTraining>
+    <TraingLastDate>0001-01-01T00:00:00.0000000+01:00</TraingLastDate>
+  </Position>
+  <Position>
+    <PositionGUID>d2848d98-04c0-48fc-a020-1a1626defec2</PositionGUID>
+    <FENnotation>r1bq1rk1/2ppbppp/p1n2n2/1p2p3/4P3/1BP2N2/PP1P1PPP/RNBQR1K1 b - -</FENnotation>
+    <ColorToMove>1</ColorToMove>
+    <Lable />
+    <TrainingResults>1111111111</TrainingResults>
+    <TrainingScore>10</TrainingScore>
+    <ToDo>0</ToDo>
+    <ForTraining>true</ForTraining>
+    <TraingLastDate>2010-03-13T14:51:26.5033680+01:00</TraingLastDate>
+  </Position>
+  <Position>
+    <PositionGUID>3e8139b8-a0e7-4a1a-975d-a49939359386</PositionGUID>
+    <FENnotation>r1bq1rk1/2p1bppp/p1n2n2/1p1pp3/4P3/1BP2N2/PP1P1PPP/RNBQR1K1 w - -</FENnotation>
+    <ColorToMove>0</ColorToMove>
+    <PositionEvaluation />
+    <Comment />
+    <Lable>Marshall</Lable>
+    <TrainingResults>0000000000</TrainingResults>
+    <TrainingScore>0</TrainingScore>
+    <ToDo>0</ToDo>
+    <ForTraining>true</ForTraining>
+    <TraingLastDate>0001-01-01T00:00:00.0000000+01:00</TraingLastDate>
+    <CE>-1.7976931348623157E+308</CE>
+    <PE>-1.7976931348623157E+308</PE>
+  </Position>
+  <Position>
+    <PositionGUID>383d4980-5f11-47d5-9d82-222a52f95b1c</PositionGUID>
+    <FENnotation>r1bq1rk1/2p1bppp/p1n2n2/1p1Pp3/8/1BP2N2/PP1P1PPP/RNBQR1K1 b - -</FENnotation>
+    <ColorToMove>1</ColorToMove>
+    <Lable />
+    <TrainingResults>1111111111</TrainingResults>
+    <TrainingScore>10</TrainingScore>
+    <ToDo>0</ToDo>
+    <ForTraining>true</ForTraining>
+    <TraingLastDate>2010-03-13T14:51:28.0355712+01:00</TraingLastDate>
+  </Position>
+  <Position>
+    <PositionGUID>0b50e6c2-f7b6-45d5-a205-e64f054abfd2</PositionGUID>
+    <FENnotation>r1bq1rk1/2p1bppp/p1n5/1p1np3/8/1BP2N2/PP1P1PPP/RNBQR1K1 w - -</FENnotation>
+    <ColorToMove>0</ColorToMove>
+    <Lable />
+    <TrainingResults>0000000000</TrainingResults>
+    <TrainingScore>0</TrainingScore>
+    <ToDo>0</ToDo>
+    <ForTraining>true</ForTraining>
+    <TraingLastDate>0001-01-01T00:00:00.0000000+01:00</TraingLastDate>
+  </Position>
+  <Position>
+    <PositionGUID>9551336f-0045-447d-9f5a-528dcc72b8a1</PositionGUID>
+    <FENnotation>r1bq1rk1/2p1bppp/p1n5/1p1nN3/8/1BP5/PP1P1PPP/RNBQR1K1 b - -</FENnotation>
+    <ColorToMove>1</ColorToMove>
+    <Lable />
+    <TrainingResults>1111111111</TrainingResults>
+    <TrainingScore>10</TrainingScore>
+    <ToDo>0</ToDo>
+    <ForTraining>true</ForTraining>
+    <TraingLastDate>2010-03-13T14:51:29.5978176+01:00</TraingLastDate>
+  </Position>
+  <Position>
+    <PositionGUID>0e067a32-df9a-4460-a318-03862ad108eb</PositionGUID>
+    <FENnotation>r1bq1rk1/2p1bppp/p7/1p1nn3/8/1BP5/PP1P1PPP/RNBQR1K1 w - -</FENnotation>
+    <ColorToMove>0</ColorToMove>
+    <Lable />
+    <TrainingResults>0000000000</TrainingResults>
+    <TrainingScore>0</TrainingScore>
+    <ToDo>0</ToDo>
+    <ForTraining>true</ForTraining>
+    <TraingLastDate>0001-01-01T00:00:00.0000000+01:00</TraingLastDate>
+  </Position>
+  <Position>
+    <PositionGUID>71ac581f-1298-4fb9-86f7-7ad32750e8dc</PositionGUID>
+    <FENnotation>r1bq1rk1/2p1bppp/p7/1p1nR3/8/1BP5/PP1P1PPP/RNBQ2K1 b - -</FENnotation>
+    <ColorToMove>1</ColorToMove>
+    <Lable />
+    <TrainingResults>1111111111</TrainingResults>
+    <TrainingScore>10</TrainingScore>
+    <ToDo>0</ToDo>
+    <ForTraining>true</ForTraining>
+    <TraingLastDate>2010-03-13T14:51:30.9798048+01:00</TraingLastDate>
+  </Position>
+  <Position>
+    <PositionGUID>270ed8a1-934b-4eec-be67-2cd539b6e130</PositionGUID>
+    <FENnotation>r1bq1rk1/4bppp/p1p5/1p1nR3/8/1BP5/PP1P1PPP/RNBQ2K1 w - -</FENnotation>
+    <ColorToMove>0</ColorToMove>
+    <Lable />
+    <TrainingResults>0000000000</TrainingResults>
+    <TrainingScore>0</TrainingScore>
+    <ToDo>0</ToDo>
+    <ForTraining>true</ForTraining>
+    <TraingLastDate>0001-01-01T00:00:00.0000000+01:00</TraingLastDate>
+  </Position>
+  <Position>
+    <PositionGUID>a5ddf8ee-a128-4ad9-a60d-a09be4656fa9</PositionGUID>
+    <FENnotation>r1bq1rk1/4bppp/p1p5/1p1nR3/3P4/1BP5/PP3PPP/RNBQ2K1 b - -</FENnotation>
+    <ColorToMove>1</ColorToMove>
+    <Lable />
+    <TrainingResults>1111111111</TrainingResults>
+    <TrainingScore>10</TrainingScore>
+    <ToDo>0</ToDo>
+    <ForTraining>true</ForTraining>
+    <TraingLastDate>2010-03-13T14:51:32.4218784+01:00</TraingLastDate>
+  </Position>
+  <Position>
+    <PositionGUID>f901295d-0ba4-460d-b02a-4aa678003194</PositionGUID>
+    <FENnotation>r1bq1rk1/5ppp/p1pb4/1p1nR3/3P4/1BP5/PP3PPP/RNBQ2K1 w - -</FENnotation>
+    <ColorToMove>0</ColorToMove>
+    <Lable />
+    <TrainingResults>0000000000</TrainingResults>
+    <TrainingScore>0</TrainingScore>
+    <ToDo>0</ToDo>
+    <ForTraining>true</ForTraining>
+    <TraingLastDate>0001-01-01T00:00:00.0000000+01:00</TraingLastDate>
+  </Position>
+  <Position>
+    <PositionGUID>a16d1a07-bff3-4775-a67d-a7e56d853829</PositionGUID>
+    <FENnotation>r1bq1rk1/5ppp/p1pb4/1p1n4/3P4/1BP5/PP3PPP/RNBQR1K1 b - -</FENnotation>
+    <ColorToMove>1</ColorToMove>
+    <Lable />
+    <TrainingResults>1111111111</TrainingResults>
+    <TrainingScore>10</TrainingScore>
+    <ToDo>0</ToDo>
+    <ForTraining>true</ForTraining>
+    <TraingLastDate>2010-03-13T14:51:34.1543696+01:00</TraingLastDate>
+  </Position>
+  <Position>
+    <PositionGUID>a868fefd-24c2-4673-8efd-43f3037bc8cd</PositionGUID>
+    <FENnotation>r1b2rk1/5ppp/p1pb4/1p1n4/3P3q/1BP5/PP3PPP/RNBQR1K1 w - -</FENnotation>
+    <ColorToMove>0</ColorToMove>
+    <Lable />
+    <TrainingResults>0000000000</TrainingResults>
+    <TrainingScore>0</TrainingScore>
+    <ToDo>0</ToDo>
+    <ForTraining>true</ForTraining>
+    <TraingLastDate>0001-01-01T00:00:00.0000000+01:00</TraingLastDate>
+  </Position>
+  <Position>
+    <PositionGUID>73a078a6-8a52-4249-b390-ab9521d4c437</PositionGUID>
+    <FENnotation>r1b2rk1/5ppp/p1pb4/1p1n4/3P3q/1BP3P1/PP3P1P/RNBQR1K1 b - -</FENnotation>
+    <ColorToMove>1</ColorToMove>
+    <Lable />
+    <TrainingResults>1111111111</TrainingResults>
+    <TrainingScore>10</TrainingScore>
+    <ToDo>0</ToDo>
+    <ForTraining>true</ForTraining>
+    <TraingLastDate>2010-03-13T14:51:36.0771344+01:00</TraingLastDate>
+  </Position>
+  <Position>
+    <PositionGUID>256f7d2a-2071-40f1-afae-97582c154005</PositionGUID>
+    <FENnotation>r1b2rk1/5ppp/p1pb4/1p1n4/3P4/1BP3Pq/PP3P1P/RNBQR1K1 w - -</FENnotation>
+    <ColorToMove>0</ColorToMove>
+    <Lable />
+    <TrainingResults>0000000000</TrainingResults>
+    <TrainingScore>0</TrainingScore>
+    <ToDo>0</ToDo>
+    <ForTraining>true</ForTraining>
+    <TraingLastDate>0001-01-01T00:00:00.0000000+01:00</TraingLastDate>
+  </Position>
+  <Position>
+    <PositionGUID>6ea62458-a0c3-4be5-b675-bb74212243b4</PositionGUID>
+    <FENnotation>r1b2rk1/5ppp/p1pb4/1p1n4/3P4/1BP1B1Pq/PP3P1P/RN1QR1K1 b - -</FENnotation>
+    <ColorToMove>1</ColorToMove>
+    <Lable />
+    <TrainingResults>1111111111</TrainingResults>
+    <TrainingScore>10</TrainingScore>
+    <ToDo>0</ToDo>
+    <ForTraining>true</ForTraining>
+    <TraingLastDate>2010-03-13T14:51:38.4705760+01:00</TraingLastDate>
+  </Position>
+  <Position>
+    <PositionGUID>f87fd45a-3a54-4bbd-afae-a42326a74ac2</PositionGUID>
+    <FENnotation>r4rk1/5ppp/p1pb4/1p1n4/3P2b1/1BP1B1Pq/PP3P1P/RN1QR1K1 w - -</FENnotation>
+    <ColorToMove>0</ColorToMove>
+    <Lable />
+    <TrainingResults>0000000000</TrainingResults>
+    <TrainingScore>0</TrainingScore>
+    <ToDo>0</ToDo>
+    <ForTraining>true</ForTraining>
+    <TraingLastDate>0001-01-01T00:00:00.0000000+01:00</TraingLastDate>
+  </Position>
+  <Position>
+    <PositionGUID>6985d774-caba-45b0-8794-de51b0fe8f2e</PositionGUID>
+    <FENnotation>r4rk1/5ppp/p1pb4/1p1n4/3P2b1/1BPQB1Pq/PP3P1P/RN2R1K1 b - -</FENnotation>
+    <ColorToMove>1</ColorToMove>
+    <Lable />
+    <TrainingResults>1111111011</TrainingResults>
+    <TrainingScore>9</TrainingScore>
+    <ToDo>0</ToDo>
+    <ForTraining>true</ForTraining>
+    <TraingLastDate>2010-03-13T14:51:40.6336864+01:00</TraingLastDate>
+  </Position>
+  <Position>
+    <PositionGUID>2ca89145-f8f0-4567-aa79-6716dd9752bd</PositionGUID>
+    <FENnotation>4rrk1/5ppp/p1pb4/1p1n4/3P2b1/1BPQB1Pq/PP3P1P/RN2R1K1 w - -</FENnotation>
+    <ColorToMove>0</ColorToMove>
+    <Lable />
+    <TrainingResults>0000000000</TrainingResults>
+    <TrainingScore>0</TrainingScore>
+    <ToDo>0</ToDo>
+    <ForTraining>true</ForTraining>
+    <TraingLastDate>0001-01-01T00:00:00.0000000+01:00</TraingLastDate>
+  </Position>
+  <Position>
+    <PositionGUID>0d04f631-78de-49ee-ae92-940a138e3e73</PositionGUID>
+    <FENnotation>4rrk1/5ppp/p1pb4/1p1n4/3P2b1/1BPQB1Pq/PP1N1P1P/R3R1K1 b - -</FENnotation>
+    <ColorToMove>1</ColorToMove>
+    <Lable />
+    <TrainingResults>1111111111</TrainingResults>
+    <TrainingScore>10</TrainingScore>
+    <ToDo>0</ToDo>
+    <ForTraining>true</ForTraining>
+    <TraingLastDate>2010-03-13T14:51:42.3661776+01:00</TraingLastDate>
+  </Position>
+  <Position>
+    <PositionGUID>afdc4ac1-567e-4ac6-8766-5f085874fd80</PositionGUID>
+    <FENnotation>5rk1/5ppp/p1pbr3/1p1n4/3P2b1/1BPQB1Pq/PP1N1P1P/R3R1K1 w - -</FENnotation>
+    <ColorToMove>0</ColorToMove>
+    <Lable />
+    <TrainingResults>0000000000</TrainingResults>
+    <TrainingScore>0</TrainingScore>
+    <ToDo>0</ToDo>
+    <ForTraining>true</ForTraining>
+    <TraingLastDate>0001-01-01T00:00:00.0000000+01:00</TraingLastDate>
+  </Position>
+  <Position>
+    <PositionGUID>ee38f33f-1201-42f1-9782-59b2affccbb8</PositionGUID>
+    <FENnotation>r1bqkbnr/1ppp1ppp/p1B5/4p3/4P3/5N2/PPPP1PPP/RNBQK2R b KQkq -</FENnotation>
+    <ColorToMove>1</ColorToMove>
+    <Lable />
+    <TrainingResults>1111111111</TrainingResults>
+    <TrainingScore>10</TrainingScore>
+    <ToDo>0</ToDo>
+    <ForTraining>true</ForTraining>
+    <TraingLastDate>2010-03-13T14:52:58.9162512+01:00</TraingLastDate>
+  </Position>
+  <Position>
+    <PositionGUID>4bd8e9ae-f7e5-4252-94e9-33bb1ee7257b</PositionGUID>
+    <FENnotation>r1bqkbnr/1pp2ppp/p1p5/4p3/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq -</FENnotation>
+    <ColorToMove>0</ColorToMove>
+    <Lable />
+    <TrainingResults>0000000000</TrainingResults>
+    <TrainingScore>0</TrainingScore>
+    <ToDo>0</ToDo>
+    <ForTraining>true</ForTraining>
+    <TraingLastDate>0001-01-01T00:00:00.0000000+01:00</TraingLastDate>
+  </Position>
+  <Position>
+    <PositionGUID>75a1ec30-48fa-4e1f-b667-cb2440002866</PositionGUID>
+    <FENnotation>r1bqkbnr/1pp2ppp/p1p5/4N3/4P3/8/PPPP1PPP/RNBQK2R b KQkq -</FENnotation>
+    <ColorToMove>1</ColorToMove>
+    <Lable />
+    <TrainingResults>1111111111</TrainingResults>
+    <TrainingScore>10</TrainingScore>
+    <ToDo>0</ToDo>
+    <ForTraining>true</ForTraining>
+    <TraingLastDate>2010-03-13T14:51:06.9953168+01:00</TraingLastDate>
+  </Position>
+  <Position>
+    <PositionGUID>f2b5cec0-bd89-4f3f-b129-f16032d74da1</PositionGUID>
+    <FENnotation>r1b1kbnr/1pp2ppp/p1p5/4N3/3qP3/8/PPPP1PPP/RNBQK2R w KQkq -</FENnotation>
+    <ColorToMove>0</ColorToMove>
+    <Lable />
+    <TrainingResults>0000000000</TrainingResults>
+    <TrainingScore>0</TrainingScore>
+    <ToDo>0</ToDo>
+    <ForTraining>true</ForTraining>
+    <TraingLastDate>0001-01-01T00:00:00.0000000+01:00</TraingLastDate>
+  </Position>
+  <Position>
+    <PositionGUID>b0ecc7f7-a083-4532-aa7b-25b441e8e200</PositionGUID>
+    <FENnotation>r1bqkbnr/1pp2ppp/p1p5/4p3/4P3/2N2N2/PPPP1PPP/R1BQK2R b KQkq -</FENnotation>
+    <ColorToMove>1</ColorToMove>
+    <Lable />
+    <TrainingResults>1111111111</TrainingResults>
+    <TrainingScore>10</TrainingScore>
+    <ToDo>0</ToDo>
+    <ForTraining>true</ForTraining>
+    <TraingLastDate>2010-03-13T14:50:35.3798560+01:00</TraingLastDate>
+  </Position>
+  <Position>
+    <PositionGUID>3c30666e-467a-4c57-87ea-381e154dace3</PositionGUID>
+    <FENnotation>r1bqkbnr/1pp3pp/p1p2p2/4p3/4P3/2N2N2/PPPP1PPP/R1BQK2R w KQkq -</FENnotation>
+    <ColorToMove>0</ColorToMove>
+    <Lable />
+    <TrainingResults>0000000000</TrainingResults>
+    <TrainingScore>0</TrainingScore>
+    <ToDo>0</ToDo>
+    <ForTraining>true</ForTraining>
+    <TraingLastDate>0001-01-01T00:00:00.0000000+01:00</TraingLastDate>
+  </Position>
+  <Position>
+    <PositionGUID>c88a816e-eb6b-4a35-a319-49f2d2129fc5</PositionGUID>
+    <FENnotation>r1bqkbnr/1pp3pp/p1p2p2/4p3/3PP3/2N2N2/PPP2PPP/R1BQK2R b KQkq -</FENnotation>
+    <ColorToMove>1</ColorToMove>
+    <Lable />
+    <TrainingResults>1111111111</TrainingResults>
+    <TrainingScore>10</TrainingScore>
+    <ToDo>0</ToDo>
+    <ForTraining>true</ForTraining>
+    <TraingLastDate>2010-03-13T14:50:37.9335280+01:00</TraingLastDate>
+  </Position>
+  <Position>
+    <PositionGUID>04ae731a-ac73-443e-b63a-2fb0d3ba72b1</PositionGUID>
+    <FENnotation>r1bqkbnr/1pp3pp/p1p2p2/8/3pP3/2N2N2/PPP2PPP/R1BQK2R w KQkq -</FENnotation>
+    <ColorToMove>0</ColorToMove>
+    <Lable />
+    <TrainingResults>0000000000</TrainingResults>
+    <TrainingScore>0</TrainingScore>
+    <ToDo>0</ToDo>
+    <ForTraining>true</ForTraining>
+    <TraingLastDate>0001-01-01T00:00:00.0000000+01:00</TraingLastDate>
+  </Position>
+  <Position>
+    <PositionGUID>078ddf22-2521-4e93-aede-c27279402abf</PositionGUID>
+    <FENnotation>r1bqkbnr/1pp3pp/p1p2p2/8/3QP3/2N2N2/PPP2PPP/R1B1K2R b KQkq -</FENnotation>
+    <ColorToMove>1</ColorToMove>
+    <Lable />
+    <TrainingResults>1111111111</TrainingResults>
+    <TrainingScore>10</TrainingScore>
+    <ToDo>0</ToDo>
+    <ForTraining>true</ForTraining>
+    <TraingLastDate>2010-03-13T14:50:39.9364080+01:00</TraingLastDate>
+  </Position>
+  <Position>
+    <PositionGUID>af4973dd-db46-4ab9-ae71-934e0735a78a</PositionGUID>
+    <FENnotation>r1b1kbnr/1pp3pp/p1p2p2/8/3qP3/2N2N2/PPP2PPP/R1B1K2R w KQkq -</FENnotation>
+    <ColorToMove>0</ColorToMove>
+    <Lable />
+    <TrainingResults>0000000000</TrainingResults>
+    <TrainingScore>0</TrainingScore>
+    <ToDo>0</ToDo>
+    <ForTraining>true</ForTraining>
+    <TraingLastDate>0001-01-01T00:00:00.0000000+01:00</TraingLastDate>
+  </Position>
+  <Position>
+    <PositionGUID>927150f9-7212-404e-8be8-2236e1a1a70c</PositionGUID>
+    <FENnotation>r1b1kbnr/1pp3pp/p1p2p2/8/3NP3/2N5/PPP2PPP/R1B1K2R b KQkq -</FENnotation>
+    <ColorToMove>1</ColorToMove>
+    <Lable />
+    <TrainingResults>1111111111</TrainingResults>
+    <TrainingScore>10</TrainingScore>
+    <ToDo>0</ToDo>
+    <ForTraining>true</ForTraining>
+    <TraingLastDate>2010-03-13T14:50:42.4400080+01:00</TraingLastDate>
+  </Position>
+  <Position>
+    <PositionGUID>45f833b2-4cab-404c-a989-4010e8b92cdc</PositionGUID>
+    <FENnotation>r3kbnr/1ppb2pp/p1p2p2/8/3NP3/2N5/PPP2PPP/R1B1K2R w KQkq -</FENnotation>
+    <ColorToMove>0</ColorToMove>
+    <Lable />
+    <TrainingResults>0000000000</TrainingResults>
+    <TrainingScore>0</TrainingScore>
+    <ToDo>0</ToDo>
+    <ForTraining>true</ForTraining>
+    <TraingLastDate>0001-01-01T00:00:00.0000000+01:00</TraingLastDate>
+  </Position>
+  <Position>
+    <PositionGUID>1d8f3880-4dc0-4d48-9b85-cfcf48d23273</PositionGUID>
+    <FENnotation>r3kbnr/1ppb2pp/p1p2p2/8/3NP3/2N1B3/PPP2PPP/R3K2R b KQkq -</FENnotation>
+    <ColorToMove>1</ColorToMove>
+    <Lable />
+    <TrainingResults>1111111111</TrainingResults>
+    <TrainingScore>10</TrainingScore>
+    <ToDo>0</ToDo>
+    <ForTraining>true</ForTraining>
+    <TraingLastDate>2010-03-13T14:50:43.8820816+01:00</TraingLastDate>
+  </Position>
+  <Position>
+    <PositionGUID>80baffd0-b440-49e5-a853-16c595e7203a</PositionGUID>
+    <FENnotation>2kr1bnr/1ppb2pp/p1p2p2/8/3NP3/2N1B3/PPP2PPP/R3K2R w KQ -</FENnotation>
+    <ColorToMove>0</ColorToMove>
+    <Lable />
+    <TrainingResults>0000000000</TrainingResults>
+    <TrainingScore>0</TrainingScore>
+    <ToDo>0</ToDo>
+    <ForTraining>true</ForTraining>
+    <TraingLastDate>0001-01-01T00:00:00.0000000+01:00</TraingLastDate>
+  </Position>
+  <Position>
+    <PositionGUID>555988e3-fdd9-4d3a-a20a-ef376d820a76</PositionGUID>
+    <FENnotation>2kr1bnr/1ppb2pp/p1p2p2/8/3NP3/2N1B3/PPP2PPP/2KR3R b - -</FENnotation>
+    <ColorToMove>1</ColorToMove>
+    <Lable />
+    <TrainingResults>1111111111</TrainingResults>
+    <TrainingScore>10</TrainingScore>
+    <ToDo>0</ToDo>
+    <ForTraining>true</ForTraining>
+    <TraingLastDate>2010-03-13T14:50:45.6446160+01:00</TraingLastDate>
+  </Position>
+  <Position>
+    <PositionGUID>a476050e-4d5b-4fa1-a008-8dbc0cdeabbd</PositionGUID>
+    <FENnotation>2kr1b1r/1ppbn1pp/p1p2p2/8/3NP3/2N1B3/PPP2PPP/2KR3R w - -</FENnotation>
+    <ColorToMove>0</ColorToMove>
+    <Lable />
+    <TrainingResults>0000000000</TrainingResults>
+    <TrainingScore>0</TrainingScore>
+    <ToDo>0</ToDo>
+    <ForTraining>true</ForTraining>
+    <TraingLastDate>0001-01-01T00:00:00.0000000+01:00</TraingLastDate>
+  </Position>
+  <Position>
+    <PositionGUID>95f8c07c-aed0-4565-a8b7-c7c5c70f1f2c</PositionGUID>
+    <FENnotation>2kr1b1r/1ppbn1pp/p1p2p2/8/3NP3/2N1B2P/PPP2PP1/2KR3R b - -</FENnotation>
+    <ColorToMove>1</ColorToMove>
+    <Lable />
+    <TrainingResults>1111111111</TrainingResults>
+    <TrainingScore>10</TrainingScore>
+    <ToDo>0</ToDo>
+    <ForTraining>true</ForTraining>
+    <TraingLastDate>2010-03-13T14:50:47.2569344+01:00</TraingLastDate>
+  </Position>
+  <Position>
+    <PositionGUID>fefd6a7f-7c3c-4066-b750-cb35034cdae1</PositionGUID>
+    <FENnotation>2kr1b1r/1ppb2pp/p1p2pn1/8/3NP3/2N1B2P/PPP2PP1/2KR3R w - -</FENnotation>
+    <ColorToMove>0</ColorToMove>
+    <Lable />
+    <TrainingResults>0000000000</TrainingResults>
+    <TrainingScore>0</TrainingScore>
+    <ToDo>0</ToDo>
+    <ForTraining>true</ForTraining>
+    <TraingLastDate>0001-01-01T00:00:00.0000000+01:00</TraingLastDate>
+  </Position>
+  <Position>
+    <PositionGUID>d2c710a3-5182-4b32-8ba1-6dab05610c92</PositionGUID>
+    <FENnotation>2kr1b1r/1ppb2pp/p1p2pn1/8/4P3/1NN1B2P/PPP2PP1/2KR3R b - -</FENnotation>
+    <ColorToMove>1</ColorToMove>
+    <Lable />
+    <TrainingResults>1111111111</TrainingResults>
+    <TrainingScore>10</TrainingScore>
+    <ToDo>0</ToDo>
+    <ForTraining>true</ForTraining>
+    <TraingLastDate>2010-03-13T14:50:50.0108944+01:00</TraingLastDate>
+  </Position>
+  <Position>
+    <PositionGUID>050c54d2-b865-4442-9c6a-4f1f829dd6e4</PositionGUID>
+    <FENnotation>2kr3r/1ppb2pp/p1p2pn1/8/1b2P3/1NN1B2P/PPP2PP1/2KR3R w - -</FENnotation>
+    <ColorToMove>0</ColorToMove>
+    <Lable />
+    <TrainingResults>0000000000</TrainingResults>
+    <TrainingScore>0</TrainingScore>
+    <ToDo>0</ToDo>
+    <ForTraining>true</ForTraining>
+    <TraingLastDate>0001-01-01T00:00:00.0000000+01:00</TraingLastDate>
+  </Position>
+  <Position>
+    <PositionGUID>c2d1ef9e-6637-4d73-bb6d-3604b0d7bd2b</PositionGUID>
+    <FENnotation>2kr3r/1ppb2pp/p1p2pn1/8/1b2P3/1N2B2P/PPP1NPP1/2KR3R b - -</FENnotation>
+    <ColorToMove>1</ColorToMove>
+    <Lable />
+    <TrainingResults>1111111111</TrainingResults>
+    <TrainingScore>10</TrainingScore>
+    <ToDo>0</ToDo>
+    <ForTraining>true</ForTraining>
+    <TraingLastDate>2010-03-13T14:50:53.2355312+01:00</TraingLastDate>
+  </Position>
+  <Position>
+    <PositionGUID>014c6f24-b126-4ee3-94a9-65ea668ef42f</PositionGUID>
+    <FENnotation>2krr3/1ppb2pp/p1p2pn1/8/1b2P3/1N2B2P/PPP1NPP1/2KR3R w - -</FENnotation>
+    <ColorToMove>0</ColorToMove>
+    <Lable />
+    <TrainingResults>0000000000</TrainingResults>
+    <TrainingScore>0</TrainingScore>
+    <ToDo>0</ToDo>
+    <ForTraining>true</ForTraining>
+    <TraingLastDate>0001-01-01T00:00:00.0000000+01:00</TraingLastDate>
+  </Position>
+  <Position>
+    <PositionGUID>8bd6fe54-eada-482e-be7c-7ba36f0647ee</PositionGUID>
+    <FENnotation>r1bqkbnr/1pp2ppp/p1p5/4p3/4P3/5N2/PPPP1PPP/RNBQ1RK1 b kq -</FENnotation>
+    <ColorToMove>1</ColorToMove>
+    <Lable />
+    <TrainingResults>1111111111</TrainingResults>
+    <TrainingScore>10</TrainingScore>
+    <ToDo>0</ToDo>
+    <ForTraining>true</ForTraining>
+    <TraingLastDate>2010-03-13T14:53:02.5414640+01:00</TraingLastDate>
+  </Position>
+  <Position>
+    <PositionGUID>d10d16ac-b1e4-478a-b89c-8b57e463833e</PositionGUID>
+    <FENnotation>r2qkbnr/1pp2ppp/p1p5/4p3/4P1b1/5N2/PPPP1PPP/RNBQ1RK1 w kq -</FENnotation>
+    <ColorToMove>0</ColorToMove>
+    <Lable />
+    <TrainingResults>0000000000</TrainingResults>
+    <TrainingScore>0</TrainingScore>
+    <ToDo>0</ToDo>
+    <ForTraining>true</ForTraining>
+    <TraingLastDate>0001-01-01T00:00:00.0000000+01:00</TraingLastDate>
+  </Position>
+  <Position>
+    <PositionGUID>d951d59d-c8e5-4a04-bfce-7b71e4945de5</PositionGUID>
+    <FENnotation>r2qkbnr/1pp2ppp/p1p5/4p3/4P1b1/5N1P/PPPP1PP1/RNBQ1RK1 b kq -</FENnotation>
+    <ColorToMove>1</ColorToMove>
+    <Lable />
+    <TrainingResults>1111111111</TrainingResults>
+    <TrainingScore>10</TrainingScore>
+    <ToDo>0</ToDo>
+    <ForTraining>true</ForTraining>
+    <TraingLastDate>2010-03-13T14:53:04.3941280+01:00</TraingLastDate>
+  </Position>
+  <Position>
+    <PositionGUID>78bc1631-1efe-4618-a2ee-3ea692d4c71d</PositionGUID>
+    <FENnotation>r2qkbnr/1pp2pp1/p1p5/4p2p/4P1b1/5N1P/PPPP1PP1/RNBQ1RK1 w kq -</FENnotation>
+    <ColorToMove>0</ColorToMove>
+    <Lable />
+    <TrainingResults>0000000000</TrainingResults>
+    <TrainingScore>0</TrainingScore>
+    <ToDo>0</ToDo>
+    <ForTraining>true</ForTraining>
+    <TraingLastDate>0001-01-01T00:00:00.0000000+01:00</TraingLastDate>
+  </Position>
+  <Position>
+    <PositionGUID>f1acd98a-56b5-4c0d-b527-791c3dbb8c18</PositionGUID>
+    <FENnotation>r2qkbnr/1pp2pp1/p1p5/4p2p/4P1b1/3P1N1P/PPP2PP1/RNBQ1RK1 b kq -</FENnotation>
+    <ColorToMove>1</ColorToMove>
+    <Lable />
+    <TrainingResults>1111111111</TrainingResults>
+    <TrainingScore>10</TrainingScore>
+    <ToDo>0</ToDo>
+    <ForTraining>true</ForTraining>
+    <TraingLastDate>2010-03-13T14:53:06.9978720+01:00</TraingLastDate>
+  </Position>
+  <Position>
+    <PositionGUID>fe996268-3858-4a19-9610-c63d8e2274db</PositionGUID>
+    <FENnotation>r3kbnr/1pp2pp1/p1p2q2/4p2p/4P1b1/3P1N1P/PPP2PP1/RNBQ1RK1 w kq -</FENnotation>
+    <ColorToMove>0</ColorToMove>
+    <Lable />
+    <TrainingResults>0000000000</TrainingResults>
+    <TrainingScore>0</TrainingScore>
+    <ToDo>0</ToDo>
+    <ForTraining>true</ForTraining>
+    <TraingLastDate>0001-01-01T00:00:00.0000000+01:00</TraingLastDate>
+  </Position>
+  <Position>
+    <PositionGUID>44930256-18e7-4131-8923-7d9fc9bff4e0</PositionGUID>
+    <FENnotation>r3kbnr/1pp2pp1/p1p2q2/4p2p/4P1b1/3P1N1P/PPPN1PP1/R1BQ1RK1 b kq -</FENnotation>
+    <ColorToMove>1</ColorToMove>
+    <Lable />
+    <TrainingResults>1111111111</TrainingResults>
+    <TrainingScore>10</TrainingScore>
+    <ToDo>0</ToDo>
+    <ForTraining>true</ForTraining>
+    <TraingLastDate>2010-03-13T14:53:09.6216448+01:00</TraingLastDate>
+  </Position>
+  <Position>
+    <PositionGUID>40e7e813-8ea0-4272-9603-4802fa60fd42</PositionGUID>
+    <FENnotation>r3kb1r/1pp1npp1/p1p2q2/4p2p/4P1b1/3P1N1P/PPPN1PP1/R1BQ1RK1 w kq -</FENnotation>
+    <ColorToMove>0</ColorToMove>
+    <Lable />
+    <TrainingResults>0000000000</TrainingResults>
+    <TrainingScore>0</TrainingScore>
+    <ToDo>0</ToDo>
+    <ForTraining>true</ForTraining>
+    <TraingLastDate>0001-01-01T00:00:00.0000000+01:00</TraingLastDate>
+  </Position>
+  <Position>
+    <PositionGUID>abdcb42a-d8f4-454d-bf9b-ac73aff91fa3</PositionGUID>
+    <FENnotation>r3kb1r/1pp1npp1/p1p2q2/4p2p/4P1b1/3P1N1P/PPPN1PP1/R1BQR1K1 b kq -</FENnotation>
+    <ColorToMove>1</ColorToMove>
+    <Lable />
+    <TrainingResults>1111111111</TrainingResults>
+    <TrainingScore>10</TrainingScore>
+    <ToDo>0</ToDo>
+    <ForTraining>true</ForTraining>
+    <TraingLastDate>2010-03-13T14:53:13.1166704+01:00</TraingLastDate>
+  </Position>
+  <Position>
+    <PositionGUID>ab8112fd-6fbb-4dd4-9cbd-5e53c97688ef</PositionGUID>
+    <FENnotation>r3kb1r/1pp2pp1/p1p2qn1/4p2p/4P1b1/3P1N1P/PPPN1PP1/R1BQR1K1 w kq -</FENnotation>
+    <ColorToMove>0</ColorToMove>
+    <Lable />
+    <TrainingResults>0000000000</TrainingResults>
+    <TrainingScore>0</TrainingScore>
+    <ToDo>0</ToDo>
+    <ForTraining>true</ForTraining>
+    <TraingLastDate>0001-01-01T00:00:00.0000000+01:00</TraingLastDate>
+  </Position>
+  <Position>
+    <PositionGUID>9b3b19c7-f5e8-4356-8be2-0cef39c401be</PositionGUID>
+    <FENnotation>r3kb1r/1pp2pp1/p1p2qn1/4p2p/3PP1b1/5N1P/PPPN1PP1/R1BQR1K1 b kq -</FENnotation>
+    <ColorToMove>1</ColorToMove>
+    <Lable />
+    <TrainingResults>1111010111</TrainingResults>
+    <TrainingScore>8</TrainingScore>
+    <ToDo>0</ToDo>
+    <ForTraining>true</ForTraining>
+    <TraingLastDate>2010-03-13T14:53:20.7376288+01:00</TraingLastDate>
+  </Position>
+  <Position>
+    <PositionGUID>50f2f93f-cecc-4a92-9755-4a97fddb0279</PositionGUID>
+    <FENnotation>r3k2r/1pp2pp1/p1pb1qn1/4p2p/3PP1b1/5N1P/PPPN1PP1/R1BQR1K1 w kq -</FENnotation>
+    <ColorToMove>0</ColorToMove>
+    <Lable />
+    <TrainingResults>0000000000</TrainingResults>
+    <TrainingScore>0</TrainingScore>
+    <ToDo>0</ToDo>
+    <ForTraining>true</ForTraining>
+    <TraingLastDate>0001-01-01T00:00:00.0000000+01:00</TraingLastDate>
+  </Position>
+  <Position>
+    <PositionGUID>83f4477c-9049-4164-a887-e10dc3b8cdec</PositionGUID>
+    <FENnotation>r3k2r/1pp2pp1/p1pb1qn1/4p2p/3PP1P1/5N2/PPPN1PP1/R1BQR1K1 b kq -</FENnotation>
+    <ColorToMove>1</ColorToMove>
+    <Lable />
+    <TrainingResults>1111111111</TrainingResults>
+    <TrainingScore>10</TrainingScore>
+    <ToDo>0</ToDo>
+    <ForTraining>true</ForTraining>
+    <TraingLastDate>2010-03-13T14:53:23.0910128+01:00</TraingLastDate>
+  </Position>
+  <Position>
+    <PositionGUID>0a1a46f8-21fa-44c4-86a8-2903fa5e567d</PositionGUID>
+    <FENnotation>r3k2r/1pp2pp1/p1pb1qn1/4p3/3PP1p1/5N2/PPPN1PP1/R1BQR1K1 w kq -</FENnotation>
+    <ColorToMove>0</ColorToMove>
+    <Lable />
+    <TrainingResults>0000000000</TrainingResults>
+    <TrainingScore>0</TrainingScore>
+    <ToDo>0</ToDo>
+    <ForTraining>true</ForTraining>
+    <TraingLastDate>0001-01-01T00:00:00.0000000+01:00</TraingLastDate>
+  </Position>
+  <Position>
+    <PositionGUID>928b3e92-8eb1-4b54-931e-2a649595f405</PositionGUID>
+    <FENnotation>r3k2r/1pp2pp1/p1pb1qn1/4p3/3PP1p1/8/PPPN1PPN/R1BQR1K1 b kq -</FENnotation>
+    <ColorToMove>1</ColorToMove>
+    <Lable />
+    <TrainingResults>1111111111</TrainingResults>
+    <TrainingScore>10</TrainingScore>
+    <ToDo>0</ToDo>
+    <ForTraining>true</ForTraining>
+    <TraingLastDate>2010-03-13T14:53:28.0481408+01:00</TraingLastDate>
+  </Position>
+  <Position>
+    <PositionGUID>4ed4fa7d-403e-4d10-98d8-aa36671feb4a</PositionGUID>
+    <FENnotation>r3k3/1pp2pp1/p1pb1qn1/4p3/3PP1p1/8/PPPN1PPr/R1BQR1K1 w q -</FENnotation>
+    <ColorToMove>0</ColorToMove>
+    <Lable />
+    <TrainingResults>0000000000</TrainingResults>
+    <TrainingScore>0</TrainingScore>
+    <ToDo>0</ToDo>
+    <ForTraining>true</ForTraining>
+    <TraingLastDate>0001-01-01T00:00:00.0000000+01:00</TraingLastDate>
+  </Position>
+  <Position>
+    <PositionGUID>eeaf024f-401d-467f-8049-83e879acd9e1</PositionGUID>
+    <FENnotation>r3k3/1pp2pp1/p1pb1qn1/4p3/3PP1Q1/8/PPPN1PPr/R1B1R1K1 b q -</FENnotation>
+    <ColorToMove>1</ColorToMove>
+    <Lable />
+    <TrainingResults>1111111111</TrainingResults>
+    <TrainingScore>10</TrainingScore>
+    <ToDo>0</ToDo>
+    <ForTraining>true</ForTraining>
+    <TraingLastDate>2010-03-13T14:53:31.0124032+01:00</TraingLastDate>
+  </Position>
+  <Position>
+    <PositionGUID>eaa83a56-5c2c-4577-8b2c-65613c1cd085</PositionGUID>
+    <FENnotation>r3k3/1pp2pp1/p1pb2n1/4p3/3PP1Qq/8/PPPN1PPr/R1B1R1K1 w q -</FENnotation>
+    <ColorToMove>0</ColorToMove>
+    <Lable />
+    <TrainingResults>0000000000</TrainingResults>
+    <TrainingScore>0</TrainingScore>
+    <ToDo>0</ToDo>
+    <ForTraining>true</ForTraining>
+    <TraingLastDate>0001-01-01T00:00:00.0000000+01:00</TraingLastDate>
+  </Position>
+  <Position>
+    <PositionGUID>80f439a6-41b7-4f68-a728-9561adb165b8</PositionGUID>
+    <FENnotation>r3k3/1pp2pp1/p1pb2n1/4p3/3PP2Q/8/PPPN1PPr/R1B1R1K1 b q -</FENnotation>
+    <ColorToMove>1</ColorToMove>
+    <Lable />
+    <TrainingResults>1111111111</TrainingResults>
+    <TrainingScore>10</TrainingScore>
+    <ToDo>0</ToDo>
+    <ForTraining>true</ForTraining>
+    <TraingLastDate>2010-03-13T14:53:34.0367520+01:00</TraingLastDate>
+  </Position>
+  <Position>
+    <PositionGUID>58efabb4-c3e7-466e-92d3-3dd5b24d38f3</PositionGUID>
+    <FENnotation>r3k3/1pp2pp1/p1pb2n1/4p3/3PP2r/8/PPPN1PP1/R1B1R1K1 w q -</FENnotation>
+    <ColorToMove>0</ColorToMove>
+    <Lable />
+    <TrainingResults>0000000000</TrainingResults>
+    <TrainingScore>0</TrainingScore>
+    <ToDo>0</ToDo>
+    <ForTraining>true</ForTraining>
+    <TraingLastDate>0001-01-01T00:00:00.0000000+01:00</TraingLastDate>
+  </Position>
+  <Position>
+    <PositionGUID>5b25b2f1-acae-42b5-b091-8078517c226d</PositionGUID>
+    <FENnotation>r3k3/1pp2pp1/p1pb2n1/4p3/3PP2r/5N2/PPP2PP1/R1B1R1K1 b q -</FENnotation>
+    <ColorToMove>1</ColorToMove>
+    <Lable />
+    <TrainingResults>1111111111</TrainingResults>
+    <TrainingScore>10</TrainingScore>
+    <ToDo>0</ToDo>
+    <ForTraining>true</ForTraining>
+    <TraingLastDate>2010-03-13T14:53:36.1798336+01:00</TraingLastDate>
+  </Position>
+  <Position>
+    <PositionGUID>6480c4f0-163f-4449-9c53-b3030c1b3fde</PositionGUID>
+    <FENnotation>r3k2r/1pp2pp1/p1pb2n1/4p3/3PP3/5N2/PPP2PP1/R1B1R1K1 w q -</FENnotation>
+    <ColorToMove>0</ColorToMove>
+    <Lable />
+    <TrainingResults>0000000000</TrainingResults>
+    <TrainingScore>0</TrainingScore>
+    <ToDo>0</ToDo>
+    <ForTraining>true</ForTraining>
+    <TraingLastDate>0001-01-01T00:00:00.0000000+01:00</TraingLastDate>
+  </Position>
+  <Position>
+    <PositionGUID>b803b323-89d4-4c8d-989d-0abbefc20105</PositionGUID>
+    <FENnotation>r3k2r/1pp2pp1/p1pb2n1/4p3/3PP3/4BN2/PPP2PP1/R3R1K1 b q -</FENnotation>
+    <ColorToMove>1</ColorToMove>
+    <Lable />
+    <TrainingResults>1111111111</TrainingResults>
+    <TrainingScore>10</TrainingScore>
+    <ToDo>0</ToDo>
+    <ForTraining>true</ForTraining>
+    <TraingLastDate>2010-03-13T14:53:37.8622528+01:00</TraingLastDate>
+  </Position>
+  <Position>
+    <PositionGUID>6f0fc591-2d73-43eb-924a-ea32716d5d76</PositionGUID>
+    <FENnotation>r3k2r/1pp3p1/p1pb1pn1/4p3/3PP3/4BN2/PPP2PP1/R3R1K1 w q -</FENnotation>
+    <ColorToMove>0</ColorToMove>
+    <Lable />
+    <TrainingResults>0000000000</TrainingResults>
+    <TrainingScore>0</TrainingScore>
+    <ToDo>0</ToDo>
+    <ForTraining>true</ForTraining>
+    <TraingLastDate>0001-01-01T00:00:00.0000000+01:00</TraingLastDate>
+  </Position>
+  <Position>
+    <PositionGUID>ebdabf87-7b90-4d2b-8d94-722b77b631c9</PositionGUID>
+    <FENnotation>r3k2r/1pp3p1/p1pb1pn1/4p3/3PP3/4BNP1/PPP2P2/R3R1K1 b q -</FENnotation>
+    <ColorToMove>1</ColorToMove>
+    <Lable />
+    <TrainingResults>1111111111</TrainingResults>
+    <TrainingScore>10</TrainingScore>
+    <ToDo>0</ToDo>
+    <ForTraining>true</ForTraining>
+    <TraingLastDate>2010-03-13T14:53:40.1154928+01:00</TraingLastDate>
+  </Position>
+  <Position>
+    <PositionGUID>89fb9198-72b6-462b-b4cc-5b989b5ce88f</PositionGUID>
+    <FENnotation>2kr3r/1pp3p1/p1pb1pn1/4p3/3PP3/4BNP1/PPP2P2/R3R1K1 w - -</FENnotation>
+    <ColorToMove>0</ColorToMove>
+    <Lable />
+    <TrainingResults>0000000000</TrainingResults>
+    <TrainingScore>0</TrainingScore>
+    <ToDo>0</ToDo>
+    <ForTraining>true</ForTraining>
+    <TraingLastDate>0001-01-01T00:00:00.0000000+01:00</TraingLastDate>
+  </Position>
+  <Position>
+    <PositionGUID>d7a1087e-dd0c-43c9-bed9-5e3cc1c3015a</PositionGUID>
+    <FENnotation>r3kbnr/1pp2pp1/p1p2q2/4p2p/4P1P1/3P1N2/PPP2PP1/RNBQ1RK1 b kq -</FENnotation>
+    <ColorToMove>1</ColorToMove>
+    <Lable />
+    <TrainingResults>1111111111</TrainingResults>
+    <TrainingScore>10</TrainingScore>
+    <ToDo>0</ToDo>
+    <ForTraining>true</ForTraining>
+    <TraingLastDate>2010-03-13T14:47:25.1663424+01:00</TraingLastDate>
+  </Position>
+  <Position>
+    <PositionGUID>96ddaafe-ad62-4b7a-9eba-e39ec2565625</PositionGUID>
+    <FENnotation>r3kbnr/1pp2pp1/p1p2q2/4p3/4P1p1/3P1N2/PPP2PP1/RNBQ1RK1 w kq -</FENnotation>
+    <ColorToMove>0</ColorToMove>
+    <Lable />
+    <TrainingResults>0000000000</TrainingResults>
+    <TrainingScore>0</TrainingScore>
+    <ToDo>0</ToDo>
+    <ForTraining>true</ForTraining>
+    <TraingLastDate>0001-01-01T00:00:00.0000000+01:00</TraingLastDate>
+  </Position>
+  <Position>
+    <PositionGUID>c4ca8d8e-130e-426f-b584-ce9987983df4</PositionGUID>
+    <FENnotation>r3kbnr/1pp2pp1/p1p2q2/4p1N1/4P1p1/3P4/PPP2PP1/RNBQ1RK1 b kq -</FENnotation>
+    <ColorToMove>1</ColorToMove>
+    <Lable />
+    <TrainingResults>1111111111</TrainingResults>
+    <TrainingScore>10</TrainingScore>
+    <ToDo>0</ToDo>
+    <ForTraining>true</ForTraining>
+    <TraingLastDate>2010-03-13T14:47:32.0762784+01:00</TraingLastDate>
+  </Position>
+  <Position>
+    <PositionGUID>0647bc2b-06ee-47f1-8c38-784a7382eb7b</PositionGUID>
+    <FENnotation>r3kbnr/1pp2pp1/p1p4q/4p1N1/4P1p1/3P4/PPP2PP1/RNBQ1RK1 w kq -</FENnotation>
+    <ColorToMove>0</ColorToMove>
+    <Lable />
+    <TrainingResults>0000000000</TrainingResults>
+    <TrainingScore>0</TrainingScore>
+    <ToDo>0</ToDo>
+    <ForTraining>true</ForTraining>
+    <TraingLastDate>0001-01-01T00:00:00.0000000+01:00</TraingLastDate>
+  </Position>
+  <Position>
+    <PositionGUID>dd34a58a-6f6e-4392-ade2-735c7ad7589c</PositionGUID>
+    <FENnotation>r3kbnr/1pp2pp1/p1p4q/4p3/4P1p1/3P3N/PPP2PP1/RNBQ1RK1 b kq -</FENnotation>
+    <ColorToMove>1</ColorToMove>
+    <Lable />
+    <TrainingResults>1111110111</TrainingResults>
+    <TrainingScore>9</TrainingScore>
+    <ToDo>0</ToDo>
+    <ForTraining>true</ForTraining>
+    <TraingLastDate>2010-03-13T14:47:40.5985328+01:00</TraingLastDate>
+  </Position>
+  <Position>
+    <PositionGUID>522b63a7-563a-489d-ab1b-0704e2ac6d18</PositionGUID>
+    <FENnotation>r3kbnr/1pp2pp1/p1p5/4p3/4P1pq/3P3N/PPP2PP1/RNBQ1RK1 w kq -</FENnotation>
+    <ColorToMove>0</ColorToMove>
+    <Lable />
+    <TrainingResults>0000000000</TrainingResults>
+    <TrainingScore>0</TrainingScore>
+    <ToDo>0</ToDo>
+    <ForTraining>true</ForTraining>
+    <TraingLastDate>0001-01-01T00:00:00.0000000+01:00</TraingLastDate>
+  </Position>
+</Positions>

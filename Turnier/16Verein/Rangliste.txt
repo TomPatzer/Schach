@@ -1,0 +1,10 @@
+﻿Tabellenstand nach Runde 5 - 09.09.2016 - Normal ranking.
+Pl. Name                 Sp.   1 1/2   0   Pkte   SoBe
+  1 Hahne Jonas            5   4   1   0    4,5   8,75
+  2 Weber Jonas            5   3   1   1    3,5   6,25
+  3 Bachtrop Max           5   3   0   2    3,0   4,50
+  4 Lozbin Anton           5   3   0   2    3,0   4,00
+  5 Stübbe Alexander       5   1   0   4    1,0   0,00
+  6 Jeisfeld Jens          5   0   0   5    0,0   0,00
+
+

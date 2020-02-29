@@ -1,0 +1,115 @@
+<?xml version="1.0" standalone="yes"?>
+<Repertoires>
+  <Repertoire>
+    <RepertoireGUID>2237b1b0-9225-4bdc-ac81-ad9ec0256fff</RepertoireGUID>
+    <Name>Königsgambit</Name>
+    <Version>1.0</Version>
+    <Color>0</Color>
+    <ColorToStart>0</ColorToStart>
+    <Comment />
+    <LastFENnotation>rn1r2k1/pp3pp1/2p4p/3P3R/2P1NP2/3K2P1/P1P5/R7 b - -</LastFENnotation>
+    <LastMovesWhite>e4,f4,exd5,d3,dxe4,Be3,g3,Nf3,hxg3,Qe2,Bxe2,Nc3,Ng5,Kxe2,bxc3,Kd3,Ne4,c4,Rh5</LastMovesWhite>
+    <LastMovesBlack>e5,d5,e4,Nf6,Nxe4,Qh4+,Nxg3,Qe7,Qxe3+,Qxe2+,Bg4,Bb4,Bxe2,Bxc3,h6,O-O,Rd8,c6</LastMovesBlack>
+    <LastPositionsWhite>rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq -,rnbqkbnr/pppp1ppp/8/4p3/4PP2/8/PPPP2PP/RNBQKBNR b KQkq -,rnbqkbnr/ppp2ppp/8/3Pp3/5P2/8/PPPP2PP/RNBQKBNR b KQkq -,rnbqkbnr/ppp2ppp/8/3P4/4pP2/3P4/PPP3PP/RNBQKBNR b KQkq -,rnbqkb1r/ppp2ppp/5n2/3P4/4PP2/8/PPP3PP/RNBQKBNR b KQkq -,rnbqkb1r/ppp2ppp/8/3P4/4nP2/4B3/PPP3PP/RN1QKBNR b KQkq -,rnb1kb1r/ppp2ppp/8/3P4/4nP1q/4B1P1/PPP4P/RN1QKBNR b KQkq -,rnb1kb1r/ppp2ppp/8/3P4/5P1q/4BNn1/PPP4P/RN1QKB1R b KQkq -,rnb1kb1r/ppp1qppp/8/3P4/5P2/4BNP1/PPP5/RN1QKB1R b KQkq -,rnb1kb1r/ppp2ppp/8/3P4/5P2/4qNP1/PPP1Q3/RN2KB1R b KQkq -,rnb1kb1r/ppp2ppp/8/3P4/5P2/5NP1/PPP1B3/RN2K2R b KQkq -,rn2kb1r/ppp2ppp/8/3P4/5Pb1/2N2NP1/PPP1B3/R3K2R b KQkq -,rn2k2r/ppp2ppp/8/3P2N1/1b3Pb1/2N3P1/PPP1B3/R3K2R b KQkq -,rn2k2r/ppp2ppp/8/3P2N1/1b3P2/2N3P1/PPP1K3/R6R b kq -,rn2k2r/ppp2ppp/8/3P2N1/5P2/2P3P1/P1P1K3/R6R b kq -,rn2k2r/ppp2pp1/7p/3P2N1/5P2/2PK2P1/P1P5/R6R b kq -,rn3rk1/ppp2pp1/7p/3P4/4NP2/2PK2P1/P1P5/R6R b - -,rn1r2k1/ppp2pp1/7p/3P4/2P1NP2/3K2P1/P1P5/R6R b - -,rn1r2k1/pp3pp1/2p4p/3P3R/2P1NP2/3K2P1/P1P5/R7 b - -</LastPositionsWhite>
+    <LastPositionsBlack>rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq -,rnbqkbnr/ppp2ppp/8/3pp3/4PP2/8/PPPP2PP/RNBQKBNR w KQkq -,rnbqkbnr/ppp2ppp/8/3P4/4pP2/8/PPPP2PP/RNBQKBNR w KQkq -,rnbqkb1r/ppp2ppp/5n2/3P4/4pP2/3P4/PPP3PP/RNBQKBNR w KQkq -,rnbqkb1r/ppp2ppp/8/3P4/4nP2/8/PPP3PP/RNBQKBNR w KQkq -,rnb1kb1r/ppp2ppp/8/3P4/4nP1q/4B3/PPP3PP/RN1QKBNR w KQkq -,rnb1kb1r/ppp2ppp/8/3P4/5P1q/4B1n1/PPP4P/RN1QKBNR w KQkq -,rnb1kb1r/ppp1qppp/8/3P4/5P2/4BNn1/PPP4P/RN1QKB1R w KQkq -,rnb1kb1r/ppp2ppp/8/3P4/5P2/4qNP1/PPP5/RN1QKB1R w KQkq -,rnb1kb1r/ppp2ppp/8/3P4/5P2/5NP1/PPP1q3/RN2KB1R w KQkq -,rn2kb1r/ppp2ppp/8/3P4/5Pb1/5NP1/PPP1B3/RN2K2R w KQkq -,rn2k2r/ppp2ppp/8/3P4/1b3Pb1/2N2NP1/PPP1B3/R3K2R w KQkq -,rn2k2r/ppp2ppp/8/3P2N1/1b3P2/2N3P1/PPP1b3/R3K2R w KQkq -,rn2k2r/ppp2ppp/8/3P2N1/5P2/2b3P1/PPP1K3/R6R w kq -,rn2k2r/ppp2pp1/7p/3P2N1/5P2/2P3P1/P1P1K3/R6R w kq -,rn3rk1/ppp2pp1/7p/3P2N1/5P2/2PK2P1/P1P5/R6R w - -,rn1r2k1/ppp2pp1/7p/3P4/4NP2/2PK2P1/P1P5/R6R w - -,rn1r2k1/pp3pp1/2p4p/3P4/2P1NP2/3K2P1/P1P5/R6R w - -</LastPositionsBlack>
+    <StartPosition>rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq -</StartPosition>
+    <Hide>false</Hide>
+    <Active>false</Active>
+  </Repertoire>
+  <Repertoire>
+    <RepertoireGUID>bfa60f28-23c7-47f0-a7c7-8273d82db900</RepertoireGUID>
+    <Name>Französisch</Name>
+    <Version>1.0</Version>
+    <Color>0</Color>
+    <ColorToStart>1</ColorToStart>
+    <Comment />
+    <LastFENnotation>rn1qkbnr/pppb1ppp/4p3/1B2P3/3p1P2/8/PPPPQ1PP/RNB1K1NR b KQkq -</LastFENnotation>
+    <LastMovesWhite>...,e5,Bb5+,Qe2</LastMovesWhite>
+    <LastMovesBlack>d5,d4,Bd7</LastMovesBlack>
+    <LastPositionsWhite>,rnbqkbnr/ppp2ppp/4p3/3pP3/5P2/8/PPPP2PP/RNBQKBNR b KQkq -,rnbqkbnr/ppp2ppp/4p3/1B2P3/3p1P2/8/PPPP2PP/RNBQK1NR b KQkq -,rn1qkbnr/pppb1ppp/4p3/1B2P3/3p1P2/8/PPPPQ1PP/RNB1K1NR b KQkq -</LastPositionsWhite>
+    <LastPositionsBlack>rnbqkbnr/ppp2ppp/4p3/3p4/4PP2/8/PPPP2PP/RNBQKBNR w KQkq -,rnbqkbnr/ppp2ppp/4p3/4P3/3p1P2/8/PPPP2PP/RNBQKBNR w KQkq -,rn1qkbnr/pppb1ppp/4p3/1B2P3/3p1P2/8/PPPP2PP/RNBQK1NR w KQkq -</LastPositionsBlack>
+    <StartPosition>rnbqkbnr/pppp1ppp/4p3/8/4PP2/8/PPPP2PP/RNBQKBNR b KQkq -</StartPosition>
+    <Hide>false</Hide>
+    <Active>false</Active>
+  </Repertoire>
+  <Repertoire>
+    <RepertoireGUID>c6e97264-73b6-4208-8635-4cc820108171</RepertoireGUID>
+    <Name>Traxler</Name>
+    <Version>1.0</Version>
+    <Color>1</Color>
+    <ColorToStart>0</ColorToStart>
+    <Comment />
+    <LastFENnotation>r1bq1r2/ppppk1pp/2n2n2/2bBp1N1/4P3/8/PPPP1PPP/RNBQ1RK1 b - -</LastFENnotation>
+    <LastMovesWhite>e4,Nf3,Bc4,Ng5,Bxf7+,Bd5,O-O</LastMovesWhite>
+    <LastMovesBlack>e5,Nc6,Nf6,Bc5,Ke7,Rf8</LastMovesBlack>
+    <LastPositionsWhite>rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq -,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq -,r1bqkbnr/pppp1ppp/2n5/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R b KQkq -,r1bqkb1r/pppp1ppp/2n2n2/4p1N1/2B1P3/8/PPPP1PPP/RNBQK2R b KQkq -,r1bqk2r/pppp1Bpp/2n2n2/2b1p1N1/4P3/8/PPPP1PPP/RNBQK2R b KQkq -,r1bq3r/ppppk1pp/2n2n2/2bBp1N1/4P3/8/PPPP1PPP/RNBQK2R b KQ -,r1bq1r2/ppppk1pp/2n2n2/2bBp1N1/4P3/8/PPPP1PPP/RNBQ1RK1 b - -</LastPositionsWhite>
+    <LastPositionsBlack>rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq -,r1bqkbnr/pppp1ppp/2n5/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq -,r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq -,r1bqk2r/pppp1ppp/2n2n2/2b1p1N1/2B1P3/8/PPPP1PPP/RNBQK2R w KQkq -,r1bq3r/ppppkBpp/2n2n2/2b1p1N1/4P3/8/PPPP1PPP/RNBQK2R w KQ -,r1bq1r2/ppppk1pp/2n2n2/2bBp1N1/4P3/8/PPPP1PPP/RNBQK2R w KQ -</LastPositionsBlack>
+    <StartPosition>rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq -</StartPosition>
+    <Hide>false</Hide>
+    <Active>false</Active>
+  </Repertoire>
+  <Repertoire>
+    <RepertoireGUID>4028c053-fa73-47e0-88be-bbf6641e9d67</RepertoireGUID>
+    <Name>Spanisch</Name>
+    <Version>1.0</Version>
+    <Color>1</Color>
+    <ColorToStart>0</ColorToStart>
+    <Comment />
+    <LastFENnotation />
+    <LastMovesWhite>Bxc6</LastMovesWhite>
+    <LastMovesBlack />
+    <LastPositionsWhite>r1bqkbnr/1ppp1ppp/p1B5/4p3/4P3/5N2/PPPP1PPP/RNBQK2R b KQkq -</LastPositionsWhite>
+    <LastPositionsBlack />
+    <StartPosition>rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq -</StartPosition>
+    <Hide>false</Hide>
+    <Active>false</Active>
+  </Repertoire>
+  <Repertoire>
+    <RepertoireGUID>5f94a780-b9b8-4f80-9697-d572c1b956fa</RepertoireGUID>
+    <Name>Holländisch</Name>
+    <Version>1.0</Version>
+    <Color>1</Color>
+    <ColorToStart>0</ColorToStart>
+    <Comment />
+    <LastFENnotation>r1bq1rk1/pp2p1bp/2np1np1/2p5/2P1PP2/2N3P1/PP2N1BP/R1BQ1RK1 b - -</LastFENnotation>
+    <LastMovesWhite>c4,Nc3,g3,Bg2,d3,e4,dxe4,Nge2,O-O,f4</LastMovesWhite>
+    <LastMovesBlack>f5,Nf6,g6,Bg7,O-O,fxe4,d6,c5,Nc6</LastMovesBlack>
+    <LastPositionsWhite>rnbqkbnr/pppppppp/8/8/2P5/8/PP1PPPPP/RNBQKBNR b KQkq -,rnbqkbnr/ppppp1pp/8/5p2/2P5/2N5/PP1PPPPP/R1BQKBNR b KQkq -,rnbqkb1r/ppppp1pp/5n2/5p2/2P5/2N3P1/PP1PPP1P/R1BQKBNR b KQkq -,rnbqkb1r/ppppp2p/5np1/5p2/2P5/2N3P1/PP1PPPBP/R1BQK1NR b KQkq -,rnbqk2r/ppppp1bp/5np1/5p2/2P5/2NP2P1/PP2PPBP/R1BQK1NR b KQkq -,rnbq1rk1/ppppp1bp/5np1/5p2/2P1P3/2NP2P1/PP3PBP/R1BQK1NR b KQ -,rnbq1rk1/ppppp1bp/5np1/8/2P1P3/2N3P1/PP3PBP/R1BQK1NR b KQ -,rnbq1rk1/ppp1p1bp/3p1np1/8/2P1P3/2N3P1/PP2NPBP/R1BQK2R b KQ -,rnbq1rk1/pp2p1bp/3p1np1/2p5/2P1P3/2N3P1/PP2NPBP/R1BQ1RK1 b - -,r1bq1rk1/pp2p1bp/2np1np1/2p5/2P1PP2/2N3P1/PP2N1BP/R1BQ1RK1 b - -</LastPositionsWhite>
+    <LastPositionsBlack>rnbqkbnr/ppppp1pp/8/5p2/2P5/8/PP1PPPPP/RNBQKBNR w KQkq -,rnbqkb1r/ppppp1pp/5n2/5p2/2P5/2N5/PP1PPPPP/R1BQKBNR w KQkq -,rnbqkb1r/ppppp2p/5np1/5p2/2P5/2N3P1/PP1PPP1P/R1BQKBNR w KQkq -,rnbqk2r/ppppp1bp/5np1/5p2/2P5/2N3P1/PP1PPPBP/R1BQK1NR w KQkq -,rnbq1rk1/ppppp1bp/5np1/5p2/2P5/2NP2P1/PP2PPBP/R1BQK1NR w KQ -,rnbq1rk1/ppppp1bp/5np1/8/2P1p3/2NP2P1/PP3PBP/R1BQK1NR w KQ -,rnbq1rk1/ppp1p1bp/3p1np1/8/2P1P3/2N3P1/PP3PBP/R1BQK1NR w KQ -,rnbq1rk1/pp2p1bp/3p1np1/2p5/2P1P3/2N3P1/PP2NPBP/R1BQK2R w KQ -,r1bq1rk1/pp2p1bp/2np1np1/2p5/2P1P3/2N3P1/PP2NPBP/R1BQ1RK1 w - -</LastPositionsBlack>
+    <StartPosition>rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq -</StartPosition>
+    <Hide>false</Hide>
+    <Active>true</Active>
+  </Repertoire>
+  <Repertoire>
+    <RepertoireGUID>dce5cc77-b9fb-49f3-984a-0cc18adef45d</RepertoireGUID>
+    <Name>Schottisch</Name>
+    <Version>1.0</Version>
+    <Color>1</Color>
+    <ColorToStart>0</ColorToStart>
+    <Comment />
+    <LastFENnotation>r1bqk1nr/pppp1ppp/2n5/2b5/3NP3/8/PPP2PPP/RNBQKB1R w KQkq -</LastFENnotation>
+    <LastMovesWhite>e4,Nf3,d4,Nxd4</LastMovesWhite>
+    <LastMovesBlack>e5,Nc6,exd4,Bc5</LastMovesBlack>
+    <LastPositionsWhite>rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq -,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq -,r1bqkbnr/pppp1ppp/2n5/4p3/3PP3/5N2/PPP2PPP/RNBQKB1R b KQkq -,r1bqkbnr/pppp1ppp/2n5/8/3NP3/8/PPP2PPP/RNBQKB1R b KQkq -</LastPositionsWhite>
+    <LastPositionsBlack>rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq -,r1bqkbnr/pppp1ppp/2n5/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq -,r1bqkbnr/pppp1ppp/2n5/8/3pP3/5N2/PPP2PPP/RNBQKB1R w KQkq -,r1bqk1nr/pppp1ppp/2n5/2b5/3NP3/8/PPP2PPP/RNBQKB1R w KQkq -</LastPositionsBlack>
+    <StartPosition>rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq -</StartPosition>
+    <Hide>false</Hide>
+    <Active>false</Active>
+  </Repertoire>
+  <Repertoire>
+    <RepertoireGUID>ae178f86-da62-497d-a328-7ab688e9a2af</RepertoireGUID>
+    <Name>Grand_Prix</Name>
+    <Version>1.0</Version>
+    <Color>0</Color>
+    <ColorToStart>0</ColorToStart>
+    <Comment />
+    <LastFENnotation>rnbqkbnr/pp1p1ppp/4p3/2p5/4PP2/2N5/PPPP2PP/R1BQKBNR b KQkq -</LastFENnotation>
+    <LastMovesWhite>e4,Nc3,f4</LastMovesWhite>
+    <LastMovesBlack>c5,e6</LastMovesBlack>
+    <LastPositionsWhite>rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq -,rnbqkbnr/pp1ppppp/8/2p5/4P3/2N5/PPPP1PPP/R1BQKBNR b KQkq -,rnbqkbnr/pp1p1ppp/4p3/2p5/4PP2/2N5/PPPP2PP/R1BQKBNR b KQkq -</LastPositionsWhite>
+    <LastPositionsBlack>rnbqkbnr/pp1ppppp/8/2p5/4P3/8/PPPP1PPP/RNBQKBNR w KQkq -,rnbqkbnr/pp1p1ppp/4p3/2p5/4P3/2N5/PPPP1PPP/R1BQKBNR w KQkq -</LastPositionsBlack>
+    <StartPosition>rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq -</StartPosition>
+    <Hide>false</Hide>
+    <Active>false</Active>
+  </Repertoire>
+</Repertoires>
