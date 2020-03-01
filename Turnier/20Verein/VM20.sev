@@ -5,11 +5,11 @@
     <AppVsn>18.3.2</AppVsn>
     <Version>7.1.0</Version>
     <FileType>Competition file</FileType>
-    <Created>25.02.2020 08:44:08</Created>
+    <Created>01.03.2020 14:45:02</Created>
   </Contents>
   <Comp>
     <Name>VM 2020</Name>
-    <FileName>Z:\\Sandkasten\\Privat\\Privat-Schach\\Turnier\\20Verein\\VM20.sev</FileName>
+    <FileName>Z:\\Sandkasten\\Git\\Schach\\Turnier\\20Verein\\VM20.sev</FileName>
     <License>Thomas Kluth</License>
     <CfgFile>C:\\Users\\Thomas Kluth\\AppData\\Roaming\\JBF Software\\Sevilla\\Sevilla.set</CfgFile>
     <ID></ID>
@@ -677,7 +677,7 @@
       <NrMcMahonRules>0</NrMcMahonRules>
       <NrRounds>4</NrRounds>
       <ActPlayer>17</ActPlayer>
-      <ActRound>3</ActRound>
+      <ActRound>0</ActRound>
       <Player>
         <ID>0</ID>
         <PlayerID></PlayerID>
@@ -1106,7 +1106,7 @@
       <Player>
         <ID>17</ID>
         <PlayerID></PlayerID>
-        <First>Christian T.</First>
+        <First>Theo</First>
         <Prefix></Prefix>
         <Last>Korbeck</Last>
         <Initials></Initials>
