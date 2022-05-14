@@ -1,0 +1,20 @@
+﻿VM 2022 -  - Gruppe 1
+
+Tabellenstand nach Runde 2 - 20.05.2022 - Normal ranking.
+Pl. Name                 Sp.   S   R   N   Pkte   Bhlz  IRtg F.-A
+  1 Yannic Bröker          1   1   0   0    1,0    0,0  1783  0
+  2 Jo Bars                1   1   0   0    1,0    0,0  1694  0
+  3 Paul Fischer           1   1   0   0    1,0    0,0  1559  0
+  4 Arne Saphörster        1   1   0   0    1,0    0,0  1532  0
+  5 Kiara Walter           1   1   0   0    1,0    0,0  1485  0
+  6 Johann Dik             1   1   0   0    1,0    0,0  1393  2
+  7 Werner Elkendorf       1   0   1   0    0,5    0,5  1360  0
+  8 Heribert Leuckert      1   0   1   0    0,5    0,5  1281  0
+  9 Hubert Gregorius       1   0   0   1    0,0    1,0  1605  0
+ 10 Thomas Kluth           1   0   0   1    0,0    1,0  1397  0
+ 11 Moritz Tilllkorn       1   0   0   1    0,0    1,0  1396  0
+ 12 Kiron Walter           1   0   0   1    0,0    1,0  1137  0
+ 13 Hans Joachim Golz      1   0   0   1    0,0    1,0  1125  0
+ 14 Tim Berhoff            1   0   0   1    0,0    1,0     0 -2
+
+
