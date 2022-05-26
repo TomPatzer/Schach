@@ -5,7 +5,7 @@
     <AppVsn>18.3.2</AppVsn>
     <Version>7.1.0</Version>
     <FileType>Competition file</FileType>
-    <Created>14.05.2022 11:53:16</Created>
+    <Created>21.05.2022 06:45:42</Created>
   </Contents>
   <Comp>
     <Name>VM 2022</Name>
@@ -1103,7 +1103,7 @@
           <GameID>1125</GameID>
           <White>0</White>
           <Black>5</Black>
-          <Res>0</Res>
+          <Res>1</Res>
           <Type>1</Type>
         </Game>
         <Game>
@@ -1117,35 +1117,35 @@
           <GameID>1127</GameID>
           <White>8</White>
           <Black>3</Black>
-          <Res>0</Res>
+          <Res>1</Res>
           <Type>1</Type>
         </Game>
         <Game>
           <GameID>1128</GameID>
           <White>2</White>
           <Black>9</Black>
-          <Res>0</Res>
+          <Res>2</Res>
           <Type>1</Type>
         </Game>
         <Game>
           <GameID>1129</GameID>
           <White>10</White>
           <Black>6</Black>
-          <Res>0</Res>
+          <Res>2</Res>
           <Type>1</Type>
         </Game>
         <Game>
           <GameID>1130</GameID>
           <White>7</White>
           <Black>12</Black>
-          <Res>0</Res>
+          <Res>6</Res>
           <Type>1</Type>
         </Game>
         <Game>
           <GameID>1131</GameID>
           <White>11</White>
           <Black>13</Black>
-          <Res>0</Res>
+          <Res>3</Res>
           <Type>1</Type>
         </Game>
       </Round>
