@@ -5,11 +5,11 @@
     <AppVsn>18.3.2</AppVsn>
     <Version>7.1.0</Version>
     <FileType>Competition file</FileType>
-    <Created>03.06.2022 22:23:28</Created>
+    <Created>04.06.2022 10:02:27</Created>
   </Contents>
   <Comp>
     <Name>VM 2022</Name>
-    <FileName>\\\\VBOXSVR\\thomas\\sandbox\\privat\\schach\\Turnier\\22Verein\\VM22.sev</FileName>
+    <FileName>Z:\\Sandbox\\Privat\\schach\\Turnier\\22Verein\\VM22.sev</FileName>
     <License>Thomas Kluth</License>
     <CfgFile>C:\\Users\\Thomas Kluth\\AppData\\Roaming\\JBF Software\\Sevilla\\Sevilla.set</CfgFile>
     <ID></ID>
@@ -676,7 +676,7 @@
       <NrPlayerProhibiteds>0</NrPlayerProhibiteds>
       <NrMcMahonRules>0</NrMcMahonRules>
       <NrRounds>4</NrRounds>
-      <ActRound>3</ActRound>
+      <ActRound>2</ActRound>
       <Player>
         <ID>0</ID>
         <PlayerID></PlayerID>
@@ -1192,7 +1192,7 @@
           <GameID>1136</GameID>
           <White>13</White>
           <Black>9</Black>
-          <Res>2</Res>
+          <Res>0</Res>
           <Type>1</Type>
         </Game>
         <Game>
