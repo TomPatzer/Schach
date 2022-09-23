@@ -5,23 +5,23 @@
     <AppVsn>18.3.2</AppVsn>
     <Version>7.1.0</Version>
     <FileType>Competition file</FileType>
-    <Created>17.09.2022 08:31:34</Created>
+    <Created>23.09.2022 18:55:33</Created>
   </Contents>
   <Comp>
-    <Name>VM 2022</Name>
-    <FileName>Z:\\Sandbox\\Privat\\schach\\Turnier\\22Verein\\VM22.sev</FileName>
+    <Name>Test the Keizer</Name>
+    <FileName>Z:\\Sandbox\\Privat\\schach\\Turnier\\22Verein\\Keizer1.sev</FileName>
     <License>Thomas Kluth</License>
     <CfgFile>C:\\Users\\Thomas Kluth\\AppData\\Roaming\\JBF Software\\Sevilla\\Sevilla.set</CfgFile>
     <ID></ID>
     <Site></Site>
-    <CountryCode>de</CountryCode>
+    <CountryCode></CountryCode>
     <Organisation></Organisation>
     <OrganisationEMail></OrganisationEMail>
     <SpeedOfPlay></SpeedOfPlay>
     <City></City>
     <DateFormatString>dd.MM.yyyy</DateFormatString>
-    <StartDate>09.02.2018</StartDate>
-    <EndDate>09.02.2018</EndDate>
+    <StartDate>20.09.2022</StartDate>
+    <EndDate>20.09.2022</EndDate>
     <MinAge>3</MinAge>
     <MaxAge>150</MaxAge>
     <DisplayYearOfBirth>0</DisplayYearOfBirth>
@@ -33,17 +33,17 @@
     <MoveInputLanguage>en</MoveInputLanguage>
     <MoveDisplayLanguage>en</MoveDisplayLanguage>
     <MoveDisplayType>0</MoveDisplayType>
-    <PairingSyst>0</PairingSyst>
+    <PairingSyst>1</PairingSyst>
     <SwsVar>0</SwsVar>
     <KzrVar>0</KzrVar>
     <RRMeth>0</RRMeth>
-    <FIDEMode>1</FIDEMode>
+    <FIDEMode>0</FIDEMode>
     <FIDEModeFlags>0000</FIDEModeFlags>
     <AccelGroupRounding>5</AccelGroupRounding>
     <AccelerateOnAvailability>1</AccelerateOnAvailability>
     <AccelerateOnFirstRoundAvailability>1</AccelerateOnFirstRoundAvailability>
-    <MaxSamePair>1</MaxSamePair>
-    <MaxSamePairPerPeriod>1</MaxSamePairPerPeriod>
+    <MaxSamePair>4</MaxSamePair>
+    <MaxSamePairPerPeriod>4</MaxSamePairPerPeriod>
     <MinRdBetwPair>10</MinRdBetwPair>
     <MinPlayBetwPair>0</MinPlayBetwPair>
     <MaxPosDif>0</MaxPosDif>
@@ -62,19 +62,19 @@
     <AColPrefCol>0</AColPrefCol>
     <AColFirstCol>0</AColFirstCol>
     <MutualPref>2</MutualPref>
-    <ByeChoice>3</ByeChoice>
+    <ByeChoice>0</ByeChoice>
     <SGCheck>2</SGCheck>
     <SGTrying>1</SGTrying>
     <IgnAbsRounds>1</IgnAbsRounds>
-    <StopWhenOutOfGames>1</StopWhenOutOfGames>
+    <StopWhenOutOfGames>0</StopWhenOutOfGames>
     <UseColorPerc>0</UseColorPerc>
     <PickOnStrength>0</PickOnStrength>
-    <PreferredPlayer>4</PreferredPlayer>
+    <PreferredPlayer>1</PreferredPlayer>
     <AdjColorOnForfeit>0</AdjColorOnForfeit>
     <AdjColorOnAdjourned>1</AdjColorOnAdjourned>
     <AutoAdjustToFinished>0</AutoAdjustToFinished>
     <ResumeAdjourned>0</ResumeAdjourned>
-    <AllowBU>0</AllowBU>
+    <AllowBU>1</AllowBU>
     <ByeForfeitWins>0</ByeForfeitWins>
     <ByeForfeitDraws>1</ByeForfeitDraws>
     <ByeForfeitLosses>1</ByeForfeitLosses>
@@ -87,8 +87,8 @@
     <SortPairing>1</SortPairing>
     <FixedOnTop>0</FixedOnTop>
     <AssignVenues>0</AssignVenues>
-    <ScoreFormula>0</ScoreFormula>
-    <PercFormula>1</PercFormula>
+    <ScoreFormula>2</ScoreFormula>
+    <PercFormula>0</PercFormula>
     <AddInitialValue>1</AddInitialValue>
     <UseSevPerc>0</UseSevPerc>
     <KzrAlgorithm>0</KzrAlgorithm>
@@ -123,7 +123,7 @@
     <ValueExpMinimum>0</ValueExpMinimum>
     <ValueExpReference>1600</ValueExpReference>
     <ValueExpSlope>850</ValueExpSlope>
-    <Recalc>0</Recalc>
+    <Recalc>1</Recalc>
     <ValueIterLim>20</ValueIterLim>
     <ValueChangeTol>0.01</ValueChangeTol>
     <TopValue>100</TopValue>
@@ -148,8 +148,8 @@
     <ERSLossSc>0</ERSLossSc>
     <ERSDrawPlSc>0.5</ERSDrawPlSc>
     <ERSDrawMnSc>0.5</ERSDrawMnSc>
-    <ERSAdjournedSc>0.5</ERSAdjournedSc>
-    <ERSDefaultSc>0</ERSDefaultSc>
+    <ERSAdjournedSc>0.3333</ERSAdjournedSc>
+    <ERSDefaultSc>0.6667</ERSDefaultSc>
     <BoardWinSc>1</BoardWinSc>
     <BoardDrawSc>0.5</BoardDrawSc>
     <BoardLossSc>0</BoardLossSc>
@@ -163,7 +163,7 @@
     <IgnoreFloats>0</IgnoreFloats>
     <LastFloatOnly>0</LastFloatOnly>
     <IgnoreColorPrefs>0</IgnoreColorPrefs>
-    <IgnoreMildColorPrefs>0</IgnoreMildColorPrefs>
+    <IgnoreMildColorPrefs>1</IgnoreMildColorPrefs>
     <AllowBacktracking>1</AllowBacktracking>
     <AllowUnpairableBacktrack>0</AllowUnpairableBacktrack>
     <AllowSGLoss>0</AllowSGLoss>
@@ -375,7 +375,7 @@
     <ReprWin>1</ReprWin>
     <ReprDraw>½</ReprDraw>
     <ReprLoss>0</ReprLoss>
-    <ReprForfeit>R</ReprForfeit>
+    <ReprForfeit>F</ReprForfeit>
     <ReprForfeitWin>1</ReprForfeitWin>
     <ReprForfeitDraw>½</ReprForfeitDraw>
     <ReprForfeitLoss>0</ReprForfeitLoss>
@@ -386,11 +386,11 @@
     <Link1>Web site</Link1>
     <Link2>Facebook</Link2>
     <Link3>FIDE profile</Link3>
-    <Other1Lbl>Andere 1</Other1Lbl>
-    <Other2Lbl>Andere 2</Other2Lbl>
-    <Other3Lbl>Andere 3</Other3Lbl>
-    <Other4Lbl>Andere 4</Other4Lbl>
-    <Other5Lbl>Andere 5</Other5Lbl>
+    <Other1Lbl>Other 1</Other1Lbl>
+    <Other2Lbl>Other 2</Other2Lbl>
+    <Other3Lbl>Other 3</Other3Lbl>
+    <Other4Lbl>Other 4</Other4Lbl>
+    <Other5Lbl>Other 5</Other5Lbl>
     <Privacy>1003</Privacy>
     <SensitiveData>0B13</SensitiveData>
     <FTPSite></FTPSite>
@@ -401,7 +401,7 @@
     <FTPPassive>0</FTPPassive>
     <FTPOptions>0000</FTPOptions>
     <UseSFTP>0</UseSFTP>
-    <WebValues>~index.html~sevilla.css~1~1~0~0~1~0~1~1~1~0~5~0~0~0~0~0~0~1~0~1~0~1~0~~0~30~30~120~120~0~0~1~0~0~0~1~0~0~0~C:\\Program Files (x86)\\JBF Software\\Sevilla\\CSS~~1~1~1~1~0~0~1~1~1~1~1~1~1~1~0~0~32~21~0~0~0~0~0~1~0~1~0~0~0~0~0~1~0~0</WebValues>
+    <WebValues></WebValues>
     <ExcelExchValues></ExcelExchValues>
     <MRepSelection></MRepSelection>
     <SimType>2</SimType>
@@ -416,7 +416,7 @@
     <RetireRate>0</RetireRate>
     <UserDrawProbFormula>P</UserDrawProbFormula>
     <ShowUnfinishedGamesOnly>0</ShowUnfinishedGamesOnly>
-    <GameIDCount>1222</GameIDCount>
+    <GameIDCount>1046</GameIDCount>
     <Picture>
       <Format>0</Format>
       <Encoding>2</Encoding>
@@ -455,14 +455,14 @@
       <ForfDrawSc>0.5</ForfDrawSc>
       <ForfLossSc>0</ForfLossSc>
       <ForfScores>0</ForfScores>
-      <AdjournedSc>0.5</AdjournedSc>
+      <AdjournedSc>0.3333</AdjournedSc>
       <PresenceSc>0</PresenceSc>
-      <AClubSc>0</AClubSc>
-      <AClubOthSc>0</AClubOthSc>
-      <AMsgSc>0</AMsgSc>
+      <AClubSc>0.6667</AClubSc>
+      <AClubOthSc>0.5</AClubOthSc>
+      <AMsgSc>0.3333</AMsgSc>
       <AMsg2Sc>0</AMsg2Sc>
       <ANoMsgSc>0</ANoMsgSc>
-      <ByeSc>1</ByeSc>
+      <ByeSc>0.6667</ByeSc>
       <Other1Sc>0</Other1Sc>
       <Other2Sc>0</Other2Sc>
       <Other3Sc>0</Other3Sc>
@@ -504,14 +504,14 @@
       <ForfDrawSc>0.5</ForfDrawSc>
       <ForfLossSc>0</ForfLossSc>
       <ForfScores>0</ForfScores>
-      <AdjournedSc>0.5</AdjournedSc>
+      <AdjournedSc>0.3333</AdjournedSc>
       <PresenceSc>0</PresenceSc>
-      <AClubSc>0</AClubSc>
-      <AClubOthSc>0</AClubOthSc>
-      <AMsgSc>0</AMsgSc>
+      <AClubSc>0.6667</AClubSc>
+      <AClubOthSc>0.5</AClubOthSc>
+      <AMsgSc>0.3333</AMsgSc>
       <AMsg2Sc>0</AMsg2Sc>
       <ANoMsgSc>0</ANoMsgSc>
-      <ByeSc>1</ByeSc>
+      <ByeSc>0.6667</ByeSc>
       <Other1Sc>0</Other1Sc>
       <Other2Sc>0</Other2Sc>
       <Other3Sc>0</Other3Sc>
@@ -548,12 +548,7 @@
       <Name>Normal ranking</Name>
       <NrSGCrits>1</NrSGCrits>
       <RankCrit>1</RankCrit>
-      <RankCrit>14</RankCrit>
-      <RankCrit>12</RankCrit>
-      <RankCrit>46</RankCrit>
-      <RankCrit>47</RankCrit>
-      <RankCrit>50</RankCrit>
-      <RevCrits>000000</RevCrits>
+      <RevCrits>0</RevCrits>
       <RepeatCrits>0</RepeatCrits>
     </RankOrder>
     <RankLayout>
@@ -574,9 +569,13 @@
       <RankItem>4</RankItem>
       <RankItem>5</RankItem>
       <RankItem>8</RankItem>
-      <RankItem>14</RankItem>
-      <RankItem>18</RankItem>
+      <RankItem>10</RankItem>
+      <RankItem>21</RankItem>
       <RankItem>11</RankItem>
+      <RankItem>12</RankItem>
+      <RankItem>16</RankItem>
+      <RankItem>17</RankItem>
+      <RankItem>91</RankItem>
     </RankLayout>
     <PlayerLayout>
       <PlayerLayoutItem>0</PlayerLayoutItem>
@@ -588,20 +587,19 @@
       <PlayerListLayoutItem>1</PlayerListLayoutItem>
       <PlayerListLayoutItem>2</PlayerListLayoutItem>
       <PlayerListLayoutItem>3</PlayerListLayoutItem>
+      <PlayerListLayoutItem>10</PlayerListLayoutItem>
       <PlayerListLayoutItem>4</PlayerListLayoutItem>
-      <PlayerListLayoutItem>5</PlayerListLayoutItem>
-      <PlayerListLayoutItem>6</PlayerListLayoutItem>
-      <PlayerListLayoutItem>7</PlayerListLayoutItem>
+      <PlayerListLayoutItem>19</PlayerListLayoutItem>
       <PlayerListLayoutItem>8</PlayerListLayoutItem>
     </PlayerListLayout>
     <Period>
       <ID>0</ID>
-      <Name>Periode 1</Name>
+      <Name>Period 1</Name>
     </Period>
     <PeriodIndex>-1</PeriodIndex>
     <Category>
       <ID>0</ID>
-      <Name>Kategorie 1</Name>
+      <Name>Category 1</Name>
       <ShortName>001</ShortName>
       <CategoryList></CategoryList>
       <Hotkey>0</Hotkey>
@@ -630,12 +628,12 @@
     </Title>
     <Title>
       <ID>4</ID>
-      <Name>FM</Name>
+      <Name>WIM</Name>
       <Value>50</Value>
     </Title>
     <Title>
       <ID>5</ID>
-      <Name>WIM</Name>
+      <Name>FM</Name>
       <Value>60</Value>
     </Title>
     <Title>
@@ -661,29 +659,29 @@
     </Team>
     <Venue>
       <ID>0</ID>
-      <Name>Veranstaltungsort 1</Name>
+      <Name>Venue 1</Name>
       <VenueCode></VenueCode>
       <Capacity>0</Capacity>
       <Hotkey>0</Hotkey>
     </Venue>
     <Group>
       <ID>0</ID>
-      <Name>Gruppe 1</Name>
+      <Name>Group 1</Name>
       <Boards>1</Boards>
       <EstRounds>9</EstRounds>
-      <AltSeed>0</AltSeed>
-      <NrPlayers>14</NrPlayers>
+      <AltSeed>1</AltSeed>
+      <NrPlayers>12</NrPlayers>
       <NrPlayerProhibiteds>0</NrPlayerProhibiteds>
       <NrMcMahonRules>0</NrMcMahonRules>
       <NrRounds>7</NrRounds>
-      <ActPlayer>13</ActPlayer>
+      <ActPlayer>11</ActPlayer>
       <ActRound>6</ActRound>
       <Player>
         <ID>0</ID>
         <PlayerID></PlayerID>
-        <First>Yannic</First>
+        <First>Anre</First>
         <Prefix></Prefix>
-        <Last>Bröker</Last>
+        <Last></Last>
         <Initials></Initials>
         <PairingNr>0</PairingNr>
         <AltID></AltID>
@@ -692,7 +690,7 @@
         <EMail></EMail>
         <SendMail>1</SendMail>
         <Gender>0</Gender>
-        <Rating>1783</Rating>
+        <Rating>1640</Rating>
         <RatedGames>0</RatedGames>
         <AltRating>0</AltRating>
         <KFact>0</KFact>
@@ -706,18 +704,18 @@
       <Player>
         <ID>1</ID>
         <PlayerID></PlayerID>
-        <First>Jo</First>
+        <First>Maurice</First>
         <Prefix></Prefix>
-        <Last>Bars</Last>
+        <Last></Last>
         <Initials></Initials>
         <PairingNr>1</PairingNr>
         <AltID></AltID>
-        <CountryCode>de</CountryCode>
+        <CountryCode></CountryCode>
         <City></City>
         <EMail></EMail>
         <SendMail>1</SendMail>
         <Gender>0</Gender>
-        <Rating>1694</Rating>
+        <Rating>1630</Rating>
         <RatedGames>0</RatedGames>
         <AltRating>0</AltRating>
         <KFact>0</KFact>
@@ -731,18 +729,18 @@
       <Player>
         <ID>2</ID>
         <PlayerID></PlayerID>
-        <First>Hubert</First>
+        <First>Kiara</First>
         <Prefix></Prefix>
-        <Last>Gregorius</Last>
-        <Initials>G</Initials>
+        <Last></Last>
+        <Initials></Initials>
         <PairingNr>2</PairingNr>
         <AltID></AltID>
-        <CountryCode>de</CountryCode>
+        <CountryCode></CountryCode>
         <City></City>
         <EMail></EMail>
         <SendMail>1</SendMail>
         <Gender>0</Gender>
-        <Rating>1605</Rating>
+        <Rating>1550</Rating>
         <RatedGames>0</RatedGames>
         <AltRating>0</AltRating>
         <KFact>0</KFact>
@@ -756,9 +754,9 @@
       <Player>
         <ID>3</ID>
         <PlayerID></PlayerID>
-        <First>Paul</First>
+        <First>Moritz</First>
         <Prefix></Prefix>
-        <Last>Fischer</Last>
+        <Last></Last>
         <Initials></Initials>
         <PairingNr>3</PairingNr>
         <AltID></AltID>
@@ -767,7 +765,7 @@
         <EMail></EMail>
         <SendMail>1</SendMail>
         <Gender>0</Gender>
-        <Rating>1559</Rating>
+        <Rating>1500</Rating>
         <RatedGames>0</RatedGames>
         <AltRating>0</AltRating>
         <KFact>0</KFact>
@@ -781,9 +779,9 @@
       <Player>
         <ID>4</ID>
         <PlayerID></PlayerID>
-        <First>Arne</First>
+        <First>Tim</First>
         <Prefix></Prefix>
-        <Last>Saphörster</Last>
+        <Last></Last>
         <Initials></Initials>
         <PairingNr>4</PairingNr>
         <AltID></AltID>
@@ -792,8 +790,8 @@
         <EMail></EMail>
         <SendMail>1</SendMail>
         <Gender>0</Gender>
-        <Rating>1532</Rating>
-        <RatedGames>1293</RatedGames>
+        <Rating>1400</Rating>
+        <RatedGames>0</RatedGames>
         <AltRating>0</AltRating>
         <KFact>0</KFact>
         <CategoryList>0</CategoryList>
@@ -806,18 +804,18 @@
       <Player>
         <ID>5</ID>
         <PlayerID></PlayerID>
-        <First>Kiara</First>
+        <First>Kiron</First>
         <Prefix></Prefix>
-        <Last>Walter</Last>
+        <Last></Last>
         <Initials></Initials>
         <PairingNr>5</PairingNr>
         <AltID></AltID>
-        <CountryCode>de</CountryCode>
+        <CountryCode></CountryCode>
         <City></City>
         <EMail></EMail>
         <SendMail>1</SendMail>
         <Gender>0</Gender>
-        <Rating>1485</Rating>
+        <Rating>1200</Rating>
         <RatedGames>0</RatedGames>
         <AltRating>0</AltRating>
         <KFact>0</KFact>
@@ -831,9 +829,9 @@
       <Player>
         <ID>6</ID>
         <PlayerID></PlayerID>
-        <First>Thomas</First>
+        <First>Henri</First>
         <Prefix></Prefix>
-        <Last>Kluth</Last>
+        <Last></Last>
         <Initials></Initials>
         <PairingNr>6</PairingNr>
         <AltID></AltID>
@@ -842,7 +840,7 @@
         <EMail></EMail>
         <SendMail>1</SendMail>
         <Gender>0</Gender>
-        <Rating>1397</Rating>
+        <Rating>1100</Rating>
         <RatedGames>0</RatedGames>
         <AltRating>0</AltRating>
         <KFact>0</KFact>
@@ -856,18 +854,18 @@
       <Player>
         <ID>7</ID>
         <PlayerID></PlayerID>
-        <First>Moritz</First>
+        <First>Johann</First>
         <Prefix></Prefix>
-        <Last>Tilllkorn</Last>
+        <Last></Last>
         <Initials></Initials>
         <PairingNr>7</PairingNr>
         <AltID></AltID>
-        <CountryCode>de</CountryCode>
+        <CountryCode></CountryCode>
         <City></City>
         <EMail></EMail>
         <SendMail>1</SendMail>
         <Gender>0</Gender>
-        <Rating>1396</Rating>
+        <Rating>1000</Rating>
         <RatedGames>0</RatedGames>
         <AltRating>0</AltRating>
         <KFact>0</KFact>
@@ -881,9 +879,9 @@
       <Player>
         <ID>8</ID>
         <PlayerID></PlayerID>
-        <First>Johann</First>
+        <First>Levin</First>
         <Prefix></Prefix>
-        <Last>Dik</Last>
+        <Last></Last>
         <Initials></Initials>
         <PairingNr>8</PairingNr>
         <AltID></AltID>
@@ -892,7 +890,7 @@
         <EMail></EMail>
         <SendMail>1</SendMail>
         <Gender>0</Gender>
-        <Rating>1393</Rating>
+        <Rating>950</Rating>
         <RatedGames>0</RatedGames>
         <AltRating>0</AltRating>
         <KFact>0</KFact>
@@ -906,10 +904,10 @@
       <Player>
         <ID>9</ID>
         <PlayerID></PlayerID>
-        <First>Werner</First>
+        <First>Noah</First>
         <Prefix></Prefix>
-        <Last>Elkendorf</Last>
-        <Initials></Initials>
+        <Last></Last>
+        <Initials>N</Initials>
         <PairingNr>9</PairingNr>
         <AltID></AltID>
         <CountryCode></CountryCode>
@@ -917,7 +915,7 @@
         <EMail></EMail>
         <SendMail>1</SendMail>
         <Gender>0</Gender>
-        <Rating>1360</Rating>
+        <Rating>900</Rating>
         <RatedGames>0</RatedGames>
         <AltRating>0</AltRating>
         <KFact>0</KFact>
@@ -931,9 +929,9 @@
       <Player>
         <ID>10</ID>
         <PlayerID></PlayerID>
-        <First>Heribert</First>
+        <First>Lukas</First>
         <Prefix></Prefix>
-        <Last>Leuckert</Last>
+        <Last></Last>
         <Initials></Initials>
         <PairingNr>10</PairingNr>
         <AltID></AltID>
@@ -942,7 +940,7 @@
         <EMail></EMail>
         <SendMail>1</SendMail>
         <Gender>0</Gender>
-        <Rating>1281</Rating>
+        <Rating>850</Rating>
         <RatedGames>0</RatedGames>
         <AltRating>0</AltRating>
         <KFact>0</KFact>
@@ -956,68 +954,18 @@
       <Player>
         <ID>11</ID>
         <PlayerID></PlayerID>
-        <First>Kiron</First>
+        <First>Justus</First>
         <Prefix></Prefix>
-        <Last>Walter</Last>
+        <Last></Last>
         <Initials></Initials>
         <PairingNr>11</PairingNr>
         <AltID></AltID>
-        <CountryCode>de</CountryCode>
-        <City></City>
-        <EMail></EMail>
-        <SendMail>1</SendMail>
-        <Gender>0</Gender>
-        <Rating>1137</Rating>
-        <RatedGames>0</RatedGames>
-        <AltRating>0</AltRating>
-        <KFact>0</KFact>
-        <CategoryList>0</CategoryList>
-        <Title>0</Title>
-        <Team>0</Team>
-        <Stat>0</Stat>
-        <CorrFact>0</CorrFact>
-        <Corr>0</Corr>
-      </Player>
-      <Player>
-        <ID>12</ID>
-        <PlayerID></PlayerID>
-        <First>Hans Joachim</First>
-        <Prefix></Prefix>
-        <Last>Golz</Last>
-        <Initials>HJG</Initials>
-        <PairingNr>12</PairingNr>
-        <AltID>1049</AltID>
         <CountryCode></CountryCode>
         <City></City>
         <EMail></EMail>
         <SendMail>1</SendMail>
         <Gender>0</Gender>
-        <Rating>1125</Rating>
-        <RatedGames>0</RatedGames>
-        <AltRating>0</AltRating>
-        <KFact>0</KFact>
-        <CategoryList>0</CategoryList>
-        <Title>0</Title>
-        <Team>0</Team>
-        <Stat>0</Stat>
-        <CorrFact>0</CorrFact>
-        <Corr>0</Corr>
-      </Player>
-      <Player>
-        <ID>13</ID>
-        <PlayerID></PlayerID>
-        <First>Tim</First>
-        <Prefix></Prefix>
-        <Last>Berkhoff</Last>
-        <Initials></Initials>
-        <PairingNr>13</PairingNr>
-        <AltID></AltID>
-        <CountryCode>de</CountryCode>
-        <City></City>
-        <EMail></EMail>
-        <SendMail>1</SendMail>
-        <Gender>0</Gender>
-        <Rating>0</Rating>
+        <Rating>700</Rating>
         <RatedGames>0</RatedGames>
         <AltRating>0</AltRating>
         <KFact>0</KFact>
@@ -1030,365 +978,326 @@
       </Player>
       <Round>
         <ID>0</ID>
-        <Name>Runde 1</Name>
-        <Date>29.04.2022</Date>
+        <Name>Round 1</Name>
+        <Date>20.09.2022</Date>
         <Period>0</Period>
         <Confirmed>1</Confirmed>
         <ResetScores>0</ResetScores>
         <Ranking>0</Ranking>
         <NrAbsences>0</NrAbsences>
-        <NrGames>7</NrGames>
+        <NrGames>6</NrGames>
         <NrByes>0</NrByes>
         <Game>
-          <GameID>1119</GameID>
-          <White>6</White>
-          <Black>0</Black>
-          <Res>3</Res>
-          <Type>1</Type>
-        </Game>
-        <Game>
-          <GameID>1120</GameID>
-          <White>1</White>
-          <Black>7</Black>
-          <Res>1</Res>
-          <Type>1</Type>
-        </Game>
-        <Game>
-          <GameID>1121</GameID>
-          <White>8</White>
-          <Black>2</Black>
-          <Res>1</Res>
-          <Type>1</Type>
-        </Game>
-        <Game>
-          <GameID>1122</GameID>
-          <White>3</White>
-          <Black>11</Black>
-          <Res>1</Res>
-          <Type>1</Type>
-        </Game>
-        <Game>
-          <GameID>1123</GameID>
-          <White>12</White>
-          <Black>4</Black>
-          <Res>3</Res>
-          <Type>1</Type>
-        </Game>
-        <Game>
-          <GameID>1124</GameID>
-          <White>5</White>
-          <Black>13</Black>
-          <Res>1</Res>
-          <Type>1</Type>
-        </Game>
-        <Game>
-          <GameID>1118</GameID>
-          <White>9</White>
-          <Black>10</Black>
-          <Res>2</Res>
-          <Type>0</Type>
-        </Game>
-      </Round>
-      <Round>
-        <ID>1</ID>
-        <Name>Runde 2</Name>
-        <Date>20.05.2022</Date>
-        <Period>0</Period>
-        <Confirmed>1</Confirmed>
-        <ResetScores>0</ResetScores>
-        <Ranking>0</Ranking>
-        <NrAbsences>0</NrAbsences>
-        <NrGames>7</NrGames>
-        <NrByes>0</NrByes>
-        <Game>
-          <GameID>1125</GameID>
+          <GameID>1001</GameID>
           <White>0</White>
-          <Black>5</Black>
-          <Res>1</Res>
-          <Type>1</Type>
-        </Game>
-        <Game>
-          <GameID>1126</GameID>
-          <White>4</White>
           <Black>1</Black>
           <Res>2</Res>
           <Type>1</Type>
         </Game>
         <Game>
-          <GameID>1127</GameID>
-          <White>8</White>
+          <GameID>1002</GameID>
+          <White>2</White>
           <Black>3</Black>
           <Res>1</Res>
           <Type>1</Type>
         </Game>
         <Game>
-          <GameID>1128</GameID>
-          <White>2</White>
+          <GameID>1003</GameID>
+          <White>4</White>
+          <Black>5</Black>
+          <Res>1</Res>
+          <Type>1</Type>
+        </Game>
+        <Game>
+          <GameID>1004</GameID>
+          <White>6</White>
+          <Black>7</Black>
+          <Res>1</Res>
+          <Type>1</Type>
+        </Game>
+        <Game>
+          <GameID>1005</GameID>
+          <White>8</White>
           <Black>9</Black>
-          <Res>2</Res>
+          <Res>1</Res>
           <Type>1</Type>
         </Game>
         <Game>
-          <GameID>1129</GameID>
+          <GameID>1006</GameID>
           <White>10</White>
-          <Black>6</Black>
-          <Res>2</Res>
-          <Type>1</Type>
-        </Game>
-        <Game>
-          <GameID>1130</GameID>
-          <White>7</White>
-          <Black>12</Black>
-          <Res>6</Res>
-          <Type>1</Type>
-        </Game>
-        <Game>
-          <GameID>1131</GameID>
-          <White>11</White>
-          <Black>13</Black>
+          <Black>11</Black>
           <Res>3</Res>
           <Type>1</Type>
         </Game>
       </Round>
       <Round>
-        <ID>2</ID>
-        <Name>Runde 3</Name>
-        <Date>03.06.2022</Date>
+        <ID>1</ID>
+        <Name>Round 2</Name>
+        <Date>20.09.2022</Date>
         <Period>0</Period>
         <Confirmed>1</Confirmed>
         <ResetScores>0</ResetScores>
         <Ranking>0</Ranking>
         <NrAbsences>0</NrAbsences>
-        <NrGames>7</NrGames>
+        <NrGames>6</NrGames>
         <NrByes>0</NrByes>
         <Game>
-          <GameID>1132</GameID>
-          <White>0</White>
-          <Black>8</Black>
+          <GameID>1007</GameID>
+          <White>4</White>
+          <Black>2</Black>
           <Res>1</Res>
           <Type>1</Type>
         </Game>
         <Game>
-          <GameID>1133</GameID>
+          <GameID>1008</GameID>
+          <White>8</White>
+          <Black>6</Black>
+          <Res>1</Res>
+          <Type>1</Type>
+        </Game>
+        <Game>
+          <GameID>1009</GameID>
+          <White>11</White>
+          <Black>0</Black>
+          <Res>3</Res>
+          <Type>1</Type>
+        </Game>
+        <Game>
+          <GameID>1010</GameID>
           <White>1</White>
           <Black>3</Black>
           <Res>1</Res>
           <Type>1</Type>
         </Game>
         <Game>
-          <GameID>1134</GameID>
+          <GameID>1011</GameID>
           <White>5</White>
+          <Black>7</Black>
+          <Res>1</Res>
+          <Type>1</Type>
+        </Game>
+        <Game>
+          <GameID>1012</GameID>
+          <White>9</White>
+          <Black>10</Black>
+          <Res>1</Res>
+          <Type>1</Type>
+        </Game>
+      </Round>
+      <Round>
+        <ID>2</ID>
+        <Name>Round 3</Name>
+        <Date>20.09.2022</Date>
+        <Period>0</Period>
+        <Confirmed>1</Confirmed>
+        <ResetScores>0</ResetScores>
+        <Ranking>0</Ranking>
+        <NrAbsences>0</NrAbsences>
+        <NrGames>6</NrGames>
+        <NrByes>0</NrByes>
+        <Game>
+          <GameID>1013</GameID>
+          <White>0</White>
           <Black>4</Black>
           <Res>1</Res>
           <Type>1</Type>
         </Game>
         <Game>
-          <GameID>1135</GameID>
-          <White>7</White>
-          <Black>10</Black>
-          <Res>2</Res>
+          <GameID>1014</GameID>
+          <White>1</White>
+          <Black>8</Black>
+          <Res>1</Res>
           <Type>1</Type>
         </Game>
         <Game>
-          <GameID>1136</GameID>
-          <White>13</White>
+          <GameID>1015</GameID>
+          <White>2</White>
+          <Black>6</Black>
+          <Res>1</Res>
+          <Type>1</Type>
+        </Game>
+        <Game>
+          <GameID>1016</GameID>
+          <White>5</White>
+          <Black>11</Black>
+          <Res>1</Res>
+          <Type>1</Type>
+        </Game>
+        <Game>
+          <GameID>1017</GameID>
+          <White>3</White>
           <Black>9</Black>
           <Res>1</Res>
           <Type>1</Type>
         </Game>
         <Game>
-          <GameID>1137</GameID>
-          <White>6</White>
-          <Black>2</Black>
-          <Res>3</Res>
-          <Type>1</Type>
-        </Game>
-        <Game>
-          <GameID>1138</GameID>
-          <White>11</White>
-          <Black>12</Black>
+          <GameID>1018</GameID>
+          <White>7</White>
+          <Black>10</Black>
           <Res>1</Res>
           <Type>1</Type>
         </Game>
       </Round>
       <Round>
         <ID>3</ID>
-        <Name>Runde 4</Name>
-        <Date>10.06.2022</Date>
+        <Name>Round 4</Name>
+        <Date>20.09.2022</Date>
         <Period>0</Period>
         <Confirmed>1</Confirmed>
         <ResetScores>0</ResetScores>
         <Ranking>0</Ranking>
-        <NrAbsences>0</NrAbsences>
-        <NrGames>7</NrGames>
+        <NrAbsences>2</NrAbsences>
+        <NrGames>5</NrGames>
         <NrByes>0</NrByes>
+        <Abs>
+          <Player>0</Player>
+          <Reason>1</Reason>
+        </Abs>
+        <Abs>
+          <Player>10</Player>
+          <Reason>0</Reason>
+        </Abs>
         <Game>
-          <GameID>1139</GameID>
-          <White>1</White>
-          <Black>0</Black>
+          <GameID>1019</GameID>
+          <White>4</White>
+          <Black>1</Black>
           <Res>3</Res>
           <Type>1</Type>
         </Game>
         <Game>
-          <GameID>1140</GameID>
+          <GameID>1020</GameID>
           <White>8</White>
-          <Black>5</Black>
-          <Res>1</Res>
-          <Type>1</Type>
-        </Game>
-        <Game>
-          <GameID>1141</GameID>
-          <White>2</White>
-          <Black>10</Black>
-          <Res>1</Res>
-          <Type>1</Type>
-        </Game>
-        <Game>
-          <GameID>1142</GameID>
-          <White>9</White>
-          <Black>4</Black>
+          <Black>2</Black>
           <Res>3</Res>
           <Type>1</Type>
         </Game>
         <Game>
-          <GameID>1143</GameID>
-          <White>13</White>
-          <Black>7</Black>
-          <Res>2</Res>
-          <Type>1</Type>
-        </Game>
-        <Game>
-          <GameID>1144</GameID>
+          <GameID>1021</GameID>
           <White>6</White>
-          <Black>11</Black>
-          <Res>1</Res>
+          <Black>5</Black>
+          <Res>3</Res>
           <Type>1</Type>
         </Game>
         <Game>
-          <GameID>1145</GameID>
-          <White>3</White>
-          <Black>12</Black>
-          <Res>1</Res>
+          <GameID>1022</GameID>
+          <White>11</White>
+          <Black>3</Black>
+          <Res>3</Res>
+          <Type>1</Type>
+        </Game>
+        <Game>
+          <GameID>1023</GameID>
+          <White>9</White>
+          <Black>7</Black>
+          <Res>3</Res>
           <Type>1</Type>
         </Game>
       </Round>
       <Round>
         <ID>4</ID>
-        <Name>Runde 5</Name>
-        <Date>19.08.2022</Date>
+        <Name>Round 5</Name>
+        <Date>20.09.2022</Date>
         <Period>0</Period>
         <Confirmed>1</Confirmed>
         <ResetScores>0</ResetScores>
         <Ranking>0</Ranking>
-        <NrAbsences>0</NrAbsences>
-        <NrGames>7</NrGames>
-        <NrByes>0</NrByes>
+        <NrAbsences>2</NrAbsences>
+        <NrGames>5</NrGames>
+        <NrByes>1</NrByes>
+        <Abs>
+          <Player>3</Player>
+          <Reason>1</Reason>
+        </Abs>
+        <Abs>
+          <Player>10</Player>
+          <Reason>5</Reason>
+        </Abs>
         <Game>
-          <GameID>1181</GameID>
-          <White>0</White>
-          <Black>13</Black>
-          <Res>1</Res>
-          <Type>1</Type>
-        </Game>
-        <Game>
-          <GameID>1182</GameID>
-          <White>4</White>
-          <Black>8</Black>
-          <Res>3</Res>
-          <Type>1</Type>
-        </Game>
-        <Game>
-          <GameID>1183</GameID>
+          <GameID>1024</GameID>
           <White>2</White>
           <Black>1</Black>
           <Res>2</Res>
           <Type>1</Type>
         </Game>
         <Game>
-          <GameID>1184</GameID>
+          <GameID>1025</GameID>
           <White>5</White>
-          <Black>3</Black>
-          <Res>1</Res>
-          <Type>1</Type>
-        </Game>
-        <Game>
-          <GameID>1185</GameID>
-          <White>7</White>
-          <Black>6</Black>
-          <Res>1</Res>
-          <Type>1</Type>
-        </Game>
-        <Game>
-          <GameID>1186</GameID>
-          <White>10</White>
-          <Black>11</Black>
-          <Res>2</Res>
-          <Type>1</Type>
-        </Game>
-        <Game>
-          <GameID>1187</GameID>
-          <White>12</White>
-          <Black>9</Black>
+          <Black>0</Black>
           <Res>3</Res>
           <Type>1</Type>
         </Game>
+        <Game>
+          <GameID>1026</GameID>
+          <White>6</White>
+          <Black>4</Black>
+          <Res>3</Res>
+          <Type>1</Type>
+        </Game>
+        <Game>
+          <GameID>1027</GameID>
+          <White>7</White>
+          <Black>8</Black>
+          <Res>1</Res>
+          <Type>1</Type>
+        </Game>
+        <Game>
+          <GameID>1028</GameID>
+          <White>9</White>
+          <Black>11</Black>
+          <Res>1</Res>
+          <Type>1</Type>
+        </Game>
+        <Bye>10</Bye>
       </Round>
       <Round>
         <ID>5</ID>
-        <Name>Runde 6</Name>
-        <Date>02.09.2022</Date>
+        <Name>Round 6</Name>
+        <Date>20.09.2022</Date>
         <Period>0</Period>
         <Confirmed>1</Confirmed>
         <ResetScores>0</ResetScores>
         <Ranking>0</Ranking>
         <NrAbsences>0</NrAbsences>
-        <NrGames>7</NrGames>
+        <NrGames>6</NrGames>
         <NrByes>0</NrByes>
         <Game>
-          <GameID>1188</GameID>
+          <GameID>1029</GameID>
+          <White>1</White>
+          <Black>5</Black>
+          <Res>1</Res>
+          <Type>1</Type>
+        </Game>
+        <Game>
+          <GameID>1030</GameID>
           <White>0</White>
           <Black>2</Black>
           <Res>2</Res>
           <Type>1</Type>
         </Game>
         <Game>
-          <GameID>1189</GameID>
-          <White>8</White>
-          <Black>1</Black>
-          <Res>3</Res>
-          <Type>1</Type>
-        </Game>
-        <Game>
-          <GameID>1190</GameID>
-          <White>7</White>
-          <Black>5</Black>
-          <Res>2</Res>
-          <Type>1</Type>
-        </Game>
-        <Game>
-          <GameID>1191</GameID>
-          <White>13</White>
-          <Black>4</Black>
-          <Res>1</Res>
-          <Type>1</Type>
-        </Game>
-        <Game>
-          <GameID>1192</GameID>
-          <White>3</White>
-          <Black>10</Black>
-          <Res>1</Res>
-          <Type>1</Type>
-        </Game>
-        <Game>
-          <GameID>1193</GameID>
-          <White>11</White>
+          <GameID>1031</GameID>
+          <White>4</White>
           <Black>9</Black>
           <Res>1</Res>
           <Type>1</Type>
         </Game>
         <Game>
-          <GameID>1194</GameID>
-          <White>12</White>
+          <GameID>1032</GameID>
+          <White>3</White>
+          <Black>7</Black>
+          <Res>1</Res>
+          <Type>1</Type>
+        </Game>
+        <Game>
+          <GameID>1033</GameID>
+          <White>11</White>
+          <Black>8</Black>
+          <Res>3</Res>
+          <Type>1</Type>
+        </Game>
+        <Game>
+          <GameID>1034</GameID>
+          <White>10</White>
           <Black>6</Black>
           <Res>3</Res>
           <Type>1</Type>
@@ -1397,60 +1306,53 @@
       <Round>
         <ID>6</ID>
         <Name>Runde 7</Name>
-        <Date>16.09.2022</Date>
+        <Date>23.09.2022</Date>
         <Period>0</Period>
         <Confirmed>1</Confirmed>
         <ResetScores>0</ResetScores>
         <Ranking>0</Ranking>
         <NrAbsences>0</NrAbsences>
-        <NrGames>7</NrGames>
+        <NrGames>6</NrGames>
         <NrByes>0</NrByes>
         <Game>
-          <GameID>1216</GameID>
-          <White>9</White>
+          <GameID>1041</GameID>
+          <White>7</White>
+          <Black>1</Black>
+          <Res>0</Res>
+          <Type>1</Type>
+        </Game>
+        <Game>
+          <GameID>1043</GameID>
+          <White>3</White>
           <Black>0</Black>
           <Res>0</Res>
           <Type>1</Type>
         </Game>
         <Game>
-          <GameID>1217</GameID>
-          <White>1</White>
+          <GameID>1045</GameID>
+          <White>2</White>
           <Black>5</Black>
           <Res>0</Res>
           <Type>1</Type>
         </Game>
         <Game>
-          <GameID>1218</GameID>
-          <White>13</White>
-          <Black>8</Black>
-          <Res>1</Res>
-          <Type>1</Type>
-        </Game>
-        <Game>
-          <GameID>1219</GameID>
-          <White>2</White>
-          <Black>7</Black>
-          <Res>3</Res>
-          <Type>1</Type>
-        </Game>
-        <Game>
-          <GameID>1220</GameID>
-          <White>6</White>
-          <Black>3</Black>
-          <Res>3</Res>
-          <Type>1</Type>
-        </Game>
-        <Game>
-          <GameID>1221</GameID>
-          <White>4</White>
-          <Black>11</Black>
+          <GameID>1044</GameID>
+          <White>11</White>
+          <Black>4</Black>
           <Res>0</Res>
           <Type>1</Type>
         </Game>
         <Game>
-          <GameID>1222</GameID>
-          <White>10</White>
-          <Black>12</Black>
+          <GameID>1042</GameID>
+          <White>8</White>
+          <Black>10</Black>
+          <Res>0</Res>
+          <Type>1</Type>
+        </Game>
+        <Game>
+          <GameID>1046</GameID>
+          <White>6</White>
+          <Black>9</Black>
           <Res>0</Res>
           <Type>1</Type>
         </Game>
