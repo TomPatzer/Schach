@@ -30,3 +30,13 @@ Turnier/21GrandPrix/Ausschreibung.pdf
 Turnier/22Verein/VM22.sbk
 
 Turnier/22Verein/Spiele1.txt
+
+*.aux
+
+*.gz
+
+*.out
+
+*.log
+
+*.pdf
