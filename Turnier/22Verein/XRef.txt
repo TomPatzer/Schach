@@ -1,0 +1,18 @@
+﻿VM 2022 -  - Gruppe 1
+Kreuztabelle nach Runde 7 - 16.09.2022.
+Pl. Name                   Pkte  1   2   3   4   5   6   7   8   9   10  11  12  13  14
+  1 Yannic Bröker           6,5  ×   1   1       1   1       ½       1           1     
+  2 Jo Bars                 4,5  0   ×       1   ½   1   1   ½   ½                     
+  3 Tim Berkhoff            4,5  0       ×   ½   0   1           1       1       1     
+  4 Moritz Tilllkorn        4,5      0   ½   ×   ½           1       1       ½       + 
+  5 Kiara Walter            4,0  0   ½   1   ½   ×   0   1       1                     
+  6 Johann Dik              4,0  0   0   0       1   ×   1   1   1                     
+  7 Paul Fischer            4,0      0           0   0   ×           1   1   1       1 
+  8 Hubert Gregorius        3,5  ½   ½       0       0       ×       1       1   ½     
+  9 Arne Saphörster         3,5      ½   0       0   0           ×       1       1   1 
+ 10 Thomas Kluth            2,5  0           0           0   0       ×   1   ½       1 
+ 11 Kiron Walter            2,5          0               0       0   0   ×   ½   1   1 
+ 12 Heribert Leuckert       2,5              ½           0   0       ½   ½   ×   ½   ½ 
+ 13 Werner Elkendorf        2,0  0       0                   ½   0       0   ½   ×   1 
+ 14 Hans Joachim Golz       0,5              -           0       0   0   0   ½   0   × 
+
