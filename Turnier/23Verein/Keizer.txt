@@ -1,0 +1,27 @@
+Keizer
+
+
+Das Keizer-System
+
+Bei dem vom Niederländer J.-H. Keizer entwickeltem Sytem Keizer handelt es sich um ein Turnierverwaltungsprogramm. Es werden bei diesem Paarungssystem, die Paarungen, ähnlich wie beim Schweizer-System, für jede Runde neu nach einem speziellen Algorithmus ermittelt. Das besondere an diesem System ist, dass nicht immer alle Teilnehmer zur jeweiligen Runde anwesend sein müssen. Teilnehmer die entschuldigt fehlen, können für diese Runde eine bestimmte Anzahl an Keizerpunkten (in Turniereinstellungen einstellbar) erhalten. Dies führt natürlich dazu, dass diese Spieler weniger Keizerpunkte erhalten, als wenn sie gespielt und gewonnen hätten, aber mehr Punkte, als wenn sie für diese Runde genullt worden wären.
+
+Der Turnierleiter stellt unmittelbar vor der Ermittlung jeder neuen Runde fest, welche Teilnehmer anwesend sind und welche nicht. Die nichtanwesenden Spieler werden markiert und nehmen an der Paarungsermittlung dieser Runde nicht teil. Die Paarungen für die anwesenden Teilnehmer werden anschließend vorgenommen.
+
+Das System hat vor allem den Vorteil, das keiner der anwesenden Spieler umsonst erschienen ist, weil sein vorgesehener Gegener nicht gekommen ist. Die einzige Ausnahme ist natürlich, wenn es sich bei den anwesenden Spielern um eine ungerade Anzahl handelt. Es ist möglich, nach den ersten Runden Vereinsmitglieder oder Gäste neu in das Turnier aufzunehmen.
+
+Der Paarungsalgorithmus ist so definiert, dass nach Möglichkeit die Tabellennachbarn gegeneinander spielen. Die einzige Beschränkung bei der Swiss-Chess-Version ist (wie beim Schweizer-System), das keine Paarung mehr als einmal vorkommen darf.
+
+In der ersten Runde spielt 1-2, 3-4, 5-6 usw. Es wird praktisch nur gegen Gegner gespielt, deren Spielstärke nicht zu sehr von der eigenen abweicht. Damit gibt es kaum leichte Partien.
+
+In der niederländischen Version von Henk den Bos können identische Paarungen auch häufiger vorkommen (in Turnierstellungen einstellbar). Dadurch spielt man noch häufiger gegen gleichstarke Gegner.
+
+Die Rangliste und damit auch die Reihenfolge für die Paarungen der nächsten Runde wird nicht duch die erzielten Spielpunkte, sondern durch Keizerpunkte ermittelt. Das besondere an der Ermittlung der Keizerpunkte ist, dass es sich dabei um ein iteratives Verfahren handelt, bei dem die Keizerpunkte auch von den Gegnerplatzierungen der vorhergehenden Runden abhängen und deshalb jeweils neu berechnet werden müssen.
+
+Da dieses iterative Berechnungsverfahren und die sich daraus ergebenden Paarungen bei manueller Auswertung durch den Turnierleiter kaum in akzeptabler Zeit durchzuführen ist, ist es eigentlich erst mit der Hilfe von Computerprogrammen möglich diese Turnierform zur allseitigen Zufriedenheit durchzuführen.
+
+Keizerpunkte (Wertungspunkte):
+Anders als bei den klassischen Turniersystemen werden nicht die normalen Gewinn- oder Remispunkte gezählt, sondern ein Gewinn oder Remis wird mit der aktuellen Ranglistenposition des Gegners bewertet.
+
+Dazu wird vor der ersten Runde eine nach Spielstärke sortierte Startrangliste erstellt. Anschließend wird jeder Position in der Rangliste eine abnehmende Anzahl von Wertungspunkten zugeordnet. Diese Rangwertungsziffern (RWZ) bleiben während des gesamten Turniers gleich und sind unabhängig vom Spieler, der (zeitweise) einen bestimmten Platz in der Rangliste einnimmt.
+
+In der ersten Runde spielt 1-2, 3-4, 5-6, usw. Der Gewinner erhält die aktuelle Rang-Wertungsziffer seines Gegners, bei Remis erhalten beide die halbe Rangwertungsziffer (RWZ) des Gegners. Der Verlierer erhält keine Wertungspunkte.
