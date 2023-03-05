@@ -5,7 +5,7 @@
     <AppVsn>19.3.1</AppVsn>
     <Version>7.2.0</Version>
     <FileType>Competition file</FileType>
-    <Created>24.02.2023 22:30:23</Created>
+    <Created>05.03.2023 08:37:36</Created>
   </Contents>
   <Comp>
     <Name>VM 2023</Name>
@@ -441,7 +441,7 @@
     <SPPar1>0</SPPar1>
     <SPPar2>0</SPPar2>
     <ShowUnfinishedGamesOnly>0</ShowUnfinishedGamesOnly>
-    <GameIDCount>1054</GameIDCount>
+    <GameIDCount>1059</GameIDCount>
     <Picture>
       <Format>0</Format>
       <Encoding>1</Encoding>
@@ -702,8 +702,9 @@
       <NrPlayers>13</NrPlayers>
       <NrPlayerProhibiteds>0</NrPlayerProhibiteds>
       <NrMcMahonRules>0</NrMcMahonRules>
-      <NrRounds>1</NrRounds>
-      <ActRound>0</ActRound>
+      <NrRounds>3</NrRounds>
+      <ActPlayer>2</ActPlayer>
+      <ActRound>1</ActRound>
       <Player>
         <ID>0</ID>
         <PlayerID></PlayerID>
@@ -768,7 +769,7 @@
         <Alias></Alias>
         <PairingNr>2</PairingNr>
         <AltID></AltID>
-        <CountryCode>eg</CountryCode>
+        <CountryCode></CountryCode>
         <City></City>
         <EMail></EMail>
         <SendMail>1</SendMail>
@@ -1033,7 +1034,7 @@
         <PlayerID></PlayerID>
         <First>Kilian</First>
         <Prefix></Prefix>
-        <Last>von Elten</Last>
+        <Last>van Elten</Last>
         <Initials></Initials>
         <Alias></Alias>
         <PairingNr>12</PairingNr>
@@ -1113,6 +1114,79 @@
           <Res>1</Res>
           <Type>1</Type>
         </Game>
+      </Round>
+      <Round>
+        <ID>1</ID>
+        <Name>Runde 2</Name>
+        <Date>03.03.2023</Date>
+        <Time></Time>
+        <Period>0</Period>
+        <Confirmed>1</Confirmed>
+        <ResetScores>0</ResetScores>
+        <Ranking>0</Ranking>
+        <NrAbsences>3</NrAbsences>
+        <NrGames>5</NrGames>
+        <NrByes>0</NrByes>
+        <Abs>
+          <Player>3</Player>
+          <Reason>1</Reason>
+        </Abs>
+        <Abs>
+          <Player>8</Player>
+          <Reason>1</Reason>
+        </Abs>
+        <Abs>
+          <Player>1</Player>
+          <Reason>1</Reason>
+        </Abs>
+        <Game>
+          <GameID>1055</GameID>
+          <White>0</White>
+          <Black>5</Black>
+          <Res>3</Res>
+          <Type>1</Type>
+        </Game>
+        <Game>
+          <GameID>1057</GameID>
+          <White>6</White>
+          <Black>9</Black>
+          <Res>2</Res>
+          <Type>1</Type>
+        </Game>
+        <Game>
+          <GameID>1059</GameID>
+          <White>2</White>
+          <Black>12</Black>
+          <Res>2</Res>
+          <Type>1</Type>
+        </Game>
+        <Game>
+          <GameID>1058</GameID>
+          <White>4</White>
+          <Black>7</Black>
+          <Res>3</Res>
+          <Type>1</Type>
+        </Game>
+        <Game>
+          <GameID>1056</GameID>
+          <White>10</White>
+          <Black>11</Black>
+          <Res>1</Res>
+          <Type>1</Type>
+        </Game>
+      </Round>
+      <Round>
+        <ID>2</ID>
+        <Name>Runde 3</Name>
+        <Date>17.03.2023</Date>
+        <Time></Time>
+        <Period>0</Period>
+        <Confirmed>1</Confirmed>
+        <ResetScores>0</ResetScores>
+        <Ranking>0</Ranking>
+        <NrAbsences>0</NrAbsences>
+        <NrGames>0</NrGames>
+        <NrByes>0</NrByes>
       </Round>
     </Group>
   </Comp>
