@@ -5,7 +5,7 @@
     <AppVsn>19.3.1</AppVsn>
     <Version>7.2.0</Version>
     <FileType>Competition file</FileType>
-    <Created>05.03.2023 08:37:36</Created>
+    <Created>17.03.2023 22:11:50</Created>
   </Contents>
   <Comp>
     <Name>VM 2023</Name>
@@ -422,7 +422,7 @@
     <FTPUseTLS>0</FTPUseTLS>
     <FTPOptions>0000</FTPOptions>
     <UseSFTP>0</UseSFTP>
-    <WebValues></WebValues>
+    <WebValues>Z:\\Sandbox\\Privat\\Schach\\Turnier\\23Verein\\Webseite~index.html~sevilla.css~1~1~0~0~1~0~1~1~1~0~5~0~0~0~0~0~0~~0~~0~~0~~0~30~30~120~120~0~0~1~0~0~0~2~0~0~0~C:\\Program Files\\JBF Software\\Sevilla\\CSS~~1~1~1~1~0~0~1~1~1~1~1~1~1~1~0~0~32~21~0~0~0~0~0~1~0~1~0~1~0~0~0~1~0~1~0~0~1~1~1~0~1~0~0~0</WebValues>
     <ExcelExchValues></ExcelExchValues>
     <MRepSelection></MRepSelection>
     <SimType>2</SimType>
@@ -441,7 +441,7 @@
     <SPPar1>0</SPPar1>
     <SPPar2>0</SPPar2>
     <ShowUnfinishedGamesOnly>0</ShowUnfinishedGamesOnly>
-    <GameIDCount>1059</GameIDCount>
+    <GameIDCount>1082</GameIDCount>
     <Picture>
       <Format>0</Format>
       <Encoding>1</Encoding>
@@ -702,9 +702,9 @@
       <NrPlayers>13</NrPlayers>
       <NrPlayerProhibiteds>0</NrPlayerProhibiteds>
       <NrMcMahonRules>0</NrMcMahonRules>
-      <NrRounds>3</NrRounds>
+      <NrRounds>4</NrRounds>
       <ActPlayer>2</ActPlayer>
-      <ActRound>1</ActRound>
+      <ActRound>2</ActRound>
       <Player>
         <ID>0</ID>
         <PlayerID></PlayerID>
@@ -1184,9 +1184,116 @@
         <Confirmed>1</Confirmed>
         <ResetScores>0</ResetScores>
         <Ranking>0</Ranking>
-        <NrAbsences>0</NrAbsences>
-        <NrGames>0</NrGames>
-        <NrByes>0</NrByes>
+        <NrAbsences>1</NrAbsences>
+        <NrGames>6</NrGames>
+        <NrByes>1</NrByes>
+        <Abs>
+          <Player>1</Player>
+          <Reason>1</Reason>
+        </Abs>
+        <Game>
+          <GameID>1065</GameID>
+          <White>5</White>
+          <Black>6</Black>
+          <Res>3</Res>
+          <Type>1</Type>
+        </Game>
+        <Game>
+          <GameID>1067</GameID>
+          <White>9</White>
+          <Black>12</Black>
+          <Res>2</Res>
+          <Type>1</Type>
+        </Game>
+        <Game>
+          <GameID>1069</GameID>
+          <White>0</White>
+          <Black>3</Black>
+          <Res>3</Res>
+          <Type>1</Type>
+        </Game>
+        <Game>
+          <GameID>1070</GameID>
+          <White>7</White>
+          <Black>10</Black>
+          <Res>1</Res>
+          <Type>1</Type>
+        </Game>
+        <Game>
+          <GameID>1068</GameID>
+          <White>8</White>
+          <Black>2</Black>
+          <Res>3</Res>
+          <Type>1</Type>
+        </Game>
+        <Game>
+          <GameID>1066</GameID>
+          <White>11</White>
+          <Black>4</Black>
+          <Res>3</Res>
+          <Type>1</Type>
+        </Game>
+        <Bye>11</Bye>
+      </Round>
+      <Round>
+        <ID>3</ID>
+        <Name>Runde 4</Name>
+        <Date>24.03.2023</Date>
+        <Time></Time>
+        <Period>0</Period>
+        <Confirmed>1</Confirmed>
+        <ResetScores>0</ResetScores>
+        <Ranking>0</Ranking>
+        <NrAbsences>1</NrAbsences>
+        <NrGames>6</NrGames>
+        <NrByes>1</NrByes>
+        <Abs>
+          <Player>3</Player>
+          <Reason>5</Reason>
+        </Abs>
+        <Game>
+          <GameID>1077</GameID>
+          <White>12</White>
+          <Black>6</Black>
+          <Res>0</Res>
+          <Type>1</Type>
+        </Game>
+        <Game>
+          <GameID>1079</GameID>
+          <White>5</White>
+          <Black>9</Black>
+          <Res>0</Res>
+          <Type>1</Type>
+        </Game>
+        <Game>
+          <GameID>1081</GameID>
+          <White>2</White>
+          <Black>7</Black>
+          <Res>0</Res>
+          <Type>1</Type>
+        </Game>
+        <Game>
+          <GameID>1082</GameID>
+          <White>10</White>
+          <Black>0</Black>
+          <Res>0</Res>
+          <Type>1</Type>
+        </Game>
+        <Game>
+          <GameID>1080</GameID>
+          <White>4</White>
+          <Black>1</Black>
+          <Res>0</Res>
+          <Type>1</Type>
+        </Game>
+        <Game>
+          <GameID>1078</GameID>
+          <White>11</White>
+          <Black>8</Black>
+          <Res>0</Res>
+          <Type>1</Type>
+        </Game>
+        <Bye>3</Bye>
       </Round>
     </Group>
   </Comp>
