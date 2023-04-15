@@ -5,7 +5,7 @@
     <AppVsn>19.3.1</AppVsn>
     <Version>7.2.0</Version>
     <FileType>Competition file</FileType>
-    <Created>17.03.2023 22:11:50</Created>
+    <Created>15.04.2023 14:05:16</Created>
   </Contents>
   <Comp>
     <Name>VM 2023</Name>
@@ -45,8 +45,8 @@
     <AccelerateOnFirstRoundAvailability>1</AccelerateOnFirstRoundAvailability>
     <MaxSamePair>4</MaxSamePair>
     <MaxSamePairPerPeriod>4</MaxSamePairPerPeriod>
-    <MinRdBetwPair>10</MinRdBetwPair>
-    <MinPlayBetwPair>0</MinPlayBetwPair>
+    <MinRdBetwPair>4</MinRdBetwPair>
+    <MinPlayBetwPair>2</MinPlayBetwPair>
     <MaxPosDif>0</MaxPosDif>
     <MaxPosDifType>0</MaxPosDifType>
     <PosDifLimit>1000</PosDifLimit>
@@ -54,7 +54,7 @@
     <PosDifCountAll>0</PosDifCountAll>
     <MaxColDif>2</MaxColDif>
     <MaxSameCol>2</MaxSameCol>
-    <NoBye>0</NoBye>
+    <NoBye>1</NoBye>
     <Delay>0</Delay>
     <AnticipateDelay>0005</AnticipateDelay>
     <AnticipateRatingLim>200</AnticipateRatingLim>
@@ -441,7 +441,7 @@
     <SPPar1>0</SPPar1>
     <SPPar2>0</SPPar2>
     <ShowUnfinishedGamesOnly>0</ShowUnfinishedGamesOnly>
-    <GameIDCount>1082</GameIDCount>
+    <GameIDCount>1099</GameIDCount>
     <Picture>
       <Format>0</Format>
       <Encoding>1</Encoding>
@@ -702,9 +702,9 @@
       <NrPlayers>13</NrPlayers>
       <NrPlayerProhibiteds>0</NrPlayerProhibiteds>
       <NrMcMahonRules>0</NrMcMahonRules>
-      <NrRounds>4</NrRounds>
+      <NrRounds>5</NrRounds>
       <ActPlayer>2</ActPlayer>
-      <ActRound>2</ActRound>
+      <ActRound>4</ActRound>
       <Player>
         <ID>0</ID>
         <PlayerID></PlayerID>
@@ -1244,56 +1244,74 @@
         <Confirmed>1</Confirmed>
         <ResetScores>0</ResetScores>
         <Ranking>0</Ranking>
-        <NrAbsences>1</NrAbsences>
-        <NrGames>6</NrGames>
+        <NrAbsences>3</NrAbsences>
+        <NrGames>5</NrGames>
         <NrByes>1</NrByes>
         <Abs>
           <Player>3</Player>
-          <Reason>5</Reason>
+          <Reason>1</Reason>
+        </Abs>
+        <Abs>
+          <Player>10</Player>
+          <Reason>1</Reason>
+        </Abs>
+        <Abs>
+          <Player>5</Player>
+          <Reason>1</Reason>
         </Abs>
         <Game>
-          <GameID>1077</GameID>
+          <GameID>1089</GameID>
           <White>12</White>
           <Black>6</Black>
-          <Res>0</Res>
+          <Res>1</Res>
           <Type>1</Type>
         </Game>
         <Game>
-          <GameID>1079</GameID>
-          <White>5</White>
+          <GameID>1091</GameID>
+          <White>7</White>
           <Black>9</Black>
-          <Res>0</Res>
+          <Res>3</Res>
           <Type>1</Type>
         </Game>
         <Game>
-          <GameID>1081</GameID>
+          <GameID>1093</GameID>
           <White>2</White>
-          <Black>7</Black>
-          <Res>0</Res>
-          <Type>1</Type>
-        </Game>
-        <Game>
-          <GameID>1082</GameID>
-          <White>10</White>
           <Black>0</Black>
-          <Res>0</Res>
+          <Res>2</Res>
           <Type>1</Type>
         </Game>
         <Game>
-          <GameID>1080</GameID>
+          <GameID>1092</GameID>
           <White>4</White>
           <Black>1</Black>
-          <Res>0</Res>
+          <Res>3</Res>
           <Type>1</Type>
         </Game>
         <Game>
-          <GameID>1078</GameID>
+          <GameID>1090</GameID>
           <White>11</White>
           <Black>8</Black>
-          <Res>0</Res>
+          <Res>2</Res>
           <Type>1</Type>
         </Game>
         <Bye>3</Bye>
+      </Round>
+      <Round>
+        <ID>4</ID>
+        <Name>Runde 5</Name>
+        <Date>21.04.2023</Date>
+        <Time></Time>
+        <Period>0</Period>
+        <Confirmed>1</Confirmed>
+        <ResetScores>0</ResetScores>
+        <Ranking>0</Ranking>
+        <NrAbsences>1</NrAbsences>
+        <NrGames>0</NrGames>
+        <NrByes>0</NrByes>
+        <Abs>
+          <Player>10</Player>
+          <Reason>1</Reason>
+        </Abs>
       </Round>
     </Group>
   </Comp>
