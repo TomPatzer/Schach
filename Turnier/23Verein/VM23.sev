@@ -5,7 +5,7 @@
     <AppVsn>19.3.1</AppVsn>
     <Version>7.2.0</Version>
     <FileType>Competition file</FileType>
-    <Created>22.04.2023 10:36:44</Created>
+    <Created>28.04.2023 19:25:15</Created>
   </Contents>
   <Comp>
     <Name>VM 2023</Name>
@@ -441,7 +441,7 @@
     <SPPar1>0</SPPar1>
     <SPPar2>0</SPPar2>
     <ShowUnfinishedGamesOnly>0</ShowUnfinishedGamesOnly>
-    <GameIDCount>1115</GameIDCount>
+    <GameIDCount>1124</GameIDCount>
     <Picture>
       <Format>0</Format>
       <Encoding>1</Encoding>
@@ -702,9 +702,9 @@
       <NrPlayers>13</NrPlayers>
       <NrPlayerProhibiteds>0</NrPlayerProhibiteds>
       <NrMcMahonRules>0</NrMcMahonRules>
-      <NrRounds>5</NrRounds>
+      <NrRounds>6</NrRounds>
       <ActPlayer>0</ActPlayer>
-      <ActRound>4</ActRound>
+      <ActRound>5</ActRound>
       <Player>
         <ID>0</ID>
         <PlayerID></PlayerID>
@@ -1357,6 +1357,68 @@
           <Type>1</Type>
         </Game>
         <Bye>0</Bye>
+      </Round>
+      <Round>
+        <ID>5</ID>
+        <Name>Runde 6</Name>
+        <Date>28.04.2023</Date>
+        <Time></Time>
+        <Period>0</Period>
+        <Confirmed>1</Confirmed>
+        <ResetScores>0</ResetScores>
+        <Ranking>0</Ranking>
+        <NrAbsences>5</NrAbsences>
+        <NrGames>4</NrGames>
+        <NrByes>1</NrByes>
+        <Abs>
+          <Player>3</Player>
+          <Reason>1</Reason>
+        </Abs>
+        <Abs>
+          <Player>8</Player>
+          <Reason>1</Reason>
+        </Abs>
+        <Abs>
+          <Player>9</Player>
+          <Reason>1</Reason>
+        </Abs>
+        <Abs>
+          <Player>1</Player>
+          <Reason>1</Reason>
+        </Abs>
+        <Abs>
+          <Player>11</Player>
+          <Reason>5</Reason>
+        </Abs>
+        <Game>
+          <GameID>1121</GameID>
+          <White>12</White>
+          <Black>5</Black>
+          <Res>0</Res>
+          <Type>1</Type>
+        </Game>
+        <Game>
+          <GameID>1123</GameID>
+          <White>2</White>
+          <Black>6</Black>
+          <Res>0</Res>
+          <Type>1</Type>
+        </Game>
+        <Game>
+          <GameID>1124</GameID>
+          <White>0</White>
+          <Black>7</Black>
+          <Res>0</Res>
+          <Type>1</Type>
+        </Game>
+        <Game>
+          <GameID>1122</GameID>
+          <White>10</White>
+          <Black>4</Black>
+          <Res>0</Res>
+          <Type>1</Type>
+        </Game>
+        <Bye>11</Bye>
       </Round>
     </Group>
   </Comp>
