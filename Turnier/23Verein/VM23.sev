@@ -2,10 +2,10 @@
 <SevillaCmp xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="sevillacmp.xsd">
   <Contents>
     <App>SEVILLA</App>
-    <AppVsn>19.3.1</AppVsn>
-    <Version>7.2.0</Version>
+    <AppVsn>18.3.2</AppVsn>
+    <Version>7.1.0</Version>
     <FileType>Competition file</FileType>
-    <Created>28.04.2023 19:25:15</Created>
+    <Created>07.05.2023 07:04:43</Created>
   </Contents>
   <Comp>
     <Name>VM 2023</Name>
@@ -14,11 +14,9 @@
     <CfgFile>C:\\Users\\Thomas Kluth\\AppData\\Roaming\\JBF Software\\Sevilla\\Sevilla.set</CfgFile>
     <ID></ID>
     <Site></Site>
-    <FederationType>4</FederationType>
-    <FederationSubst>0000</FederationSubst>
     <CountryCode>de</CountryCode>
-    <Organization></Organization>
-    <OrganizationEMail></OrganizationEMail>
+    <Organisation></Organisation>
+    <OrganisationEMail></OrganisationEMail>
     <SpeedOfPlay></SpeedOfPlay>
     <City></City>
     <DateFormatString>dd.MM.yyyy</DateFormatString>
@@ -29,6 +27,8 @@
     <DisplayYearOfBirth>0</DisplayYearOfBirth>
     <ChiefArbiter></ChiefArbiter>
     <DeputyArbiter></DeputyArbiter>
+    <FederationType>4</FederationType>
+    <FederationSubst>0</FederationSubst>
     <StyleSheet></StyleSheet>
     <MoveInputLanguage>en</MoveInputLanguage>
     <MoveDisplayLanguage>en</MoveDisplayLanguage>
@@ -37,7 +37,6 @@
     <SwsVar>0</SwsVar>
     <KzrVar>0</KzrVar>
     <RRMeth>0</RRMeth>
-    <RRVar>1</RRVar>
     <FIDEMode>0</FIDEMode>
     <FIDEModeFlags>0000</FIDEModeFlags>
     <AccelGroupRounding>5</AccelGroupRounding>
@@ -99,8 +98,6 @@
     <UseIndividuals>0</UseIndividuals>
     <UseBoardsMinor>0</UseBoardsMinor>
     <UseAlt>0</UseAlt>
-    <UseTimes>0</UseTimes>
-    <TimeOptions>0010</TimeOptions>
     <TRFOptions>0000</TRFOptions>
     <ResultDisplay>0</ResultDisplay>
     <UseAbsMinor>0</UseAbsMinor>
@@ -112,16 +109,13 @@
     <BhlzAgainstOpp>0</BhlzAgainstOpp>
     <BhlzMethod>2</BhlzMethod>
     <BhlzForRobinAbs>0</BhlzForRobinAbs>
-    <RecBhlzType>1</RecBhlzType>
     <ResetProgressive>0</ResetProgressive>
     <ZeroBhlzForAbs>0</ZeroBhlzForAbs>
-    <SaldoLimit>0</SaldoLimit>
     <AllRoundsConf>1</AllRoundsConf>
     <ValMethod>0</ValMethod>
     <ValueCalc>0</ValueCalc>
     <ValueInit>0</ValueInit>
     <KzrVarOpt>103</KzrVarOpt>
-    <RankOpt>0000</RankOpt>
     <SValType>2</SValType>
     <CorrectValuesForHist>1</CorrectValuesForHist>
     <HistFixed>0000</HistFixed>
@@ -257,8 +251,6 @@
     <TPRChangeTol>5</TPRChangeTol>
     <RatingIterLim>25</RatingIterLim>
     <TPRIterLim>50</TPRIterLim>
-    <RecBhlzIterLim>50</RecBhlzIterLim>
-    <RecBhlzTol>5E-5</RecBhlzTol>
     <ECFGameLim>30</ECFGameLim>
     <ECFDifLim>40</ECFDifLim>
     <ECFGain>50</ECFGain>
@@ -317,8 +309,6 @@
     <MinorDecimals>1</MinorDecimals>
     <BoardMinorDigits>2</BoardMinorDigits>
     <BoardMinorDecimals>1</BoardMinorDecimals>
-    <AltScoreDigits>4</AltScoreDigits>
-    <AltScoreDecimals>1</AltScoreDecimals>
     <PercDecimals>1</PercDecimals>
     <PointMultiplier>1</PointMultiplier>
     <SBMultiplier>1</SBMultiplier>
@@ -326,10 +316,6 @@
     <BhlzDecimals>1</BhlzDecimals>
     <SBrgrDigits>7</SBrgrDigits>
     <SBrgrDecimals>2</SBrgrDecimals>
-    <BhlzSumDigits>6</BhlzSumDigits>
-    <BhlzSumDecimals>1</BhlzSumDecimals>
-    <RecBhlzDigits>6</RecBhlzDigits>
-    <RecBhlzDecimals>3</RecBhlzDecimals>
     <ValueDigits>7</ValueDigits>
     <ValueDecimals>1</ValueDecimals>
     <DisplayDateFormat>0</DisplayDateFormat>
@@ -339,7 +325,6 @@
     <NameInputOrder>0</NameInputOrder>
     <ForceSNComma>1</ForceSNComma>
     <InitialsMaxLength>3</InitialsMaxLength>
-    <SummaryMaxLength>30</SummaryMaxLength>
     <DateAsRoundName>0</DateAsRoundName>
     <BarcodeNr>2</BarcodeNr>
     <BcFact>1</BcFact>
@@ -363,17 +348,15 @@
     <ReportAllGames>1</ReportAllGames>
     <ReportForfeits>0</ReportForfeits>
     <StartRating>0</StartRating>
-    <XTblCont>0</XTblCont>
+    <XRefCont>0</XRefCont>
     <MatrixHeader>0</MatrixHeader>
     <IncludeMovesInPGN>1</IncludeMovesInPGN>
     <IncludeIdentifierInPGN>1</IncludeIdentifierInPGN>
-    <PGNIdentType>0</PGNIdentType>
-    <PGNIdentChar>\\</PGNIdentChar>
+    <TagIdentifier>0</TagIdentifier>
     <PGNIdentifierTag>Annotator</PGNIdentifierTag>
     <PGNEscapeString>SevillaID</PGNEscapeString>
     <TruncateIfNess>0</TruncateIfNess>
     <GameReportBreak>1</GameReportBreak>
-    <ReportAllGroups>0</ReportAllGroups>
     <StackResultForms>1</StackResultForms>
     <FreezeNoMemValues>0</FreezeNoMemValues>
     <UseSortNameForPlRem>0</UseSortNameForPlRem>
@@ -403,9 +386,6 @@
     <Link1>Web site</Link1>
     <Link2>Facebook</Link2>
     <Link3>FIDE profile</Link3>
-    <AliasLink>0</AliasLink>
-    <IDLink>0</IDLink>
-    <AltIDLink>0</AltIDLink>
     <Other1Lbl>Andere 1</Other1Lbl>
     <Other2Lbl>Andere 2</Other2Lbl>
     <Other3Lbl>Andere 3</Other3Lbl>
@@ -419,7 +399,6 @@
     <FTPUsername></FTPUsername>
     <FTPPswrd>??</FTPPswrd>
     <FTPPassive>0</FTPPassive>
-    <FTPUseTLS>0</FTPUseTLS>
     <FTPOptions>0000</FTPOptions>
     <UseSFTP>0</UseSFTP>
     <WebValues>Z:\\Sandbox\\Privat\\Schach\\Turnier\\23Verein\\Webseite~index.html~sevilla.css~1~1~0~0~1~0~1~1~1~0~5~0~0~0~0~0~0~~0~~0~~0~~0~30~30~120~120~0~0~1~0~0~0~2~0~0~0~C:\\Program Files\\JBF Software\\Sevilla\\CSS~~1~1~1~1~0~0~1~1~1~1~1~1~1~1~0~0~32~21~0~0~0~0~0~1~0~1~0~1~0~0~0~1~0~1~0~0~1~1~1~0~1~0~0~0</WebValues>
@@ -436,12 +415,8 @@
     <ForfeitRate>0</ForfeitRate>
     <RetireRate>0</RetireRate>
     <UserDrawProbFormula>P</UserDrawProbFormula>
-    <SP1>0</SP1>
-    <SP2>0</SP2>
-    <SPPar1>0</SPPar1>
-    <SPPar2>0</SPPar2>
     <ShowUnfinishedGamesOnly>0</ShowUnfinishedGamesOnly>
-    <GameIDCount>1124</GameIDCount>
+    <GameIDCount>1130</GameIDCount>
     <Picture>
       <Format>0</Format>
       <Encoding>1</Encoding>
@@ -456,7 +431,6 @@
     <Checks>0~0~0~0~0</Checks>
     <NrRankOrders>1</NrRankOrders>
     <NrRankLayouts>1</NrRankLayouts>
-    <NrPlayerListLayouts>1</NrPlayerListLayouts>
     <NrPeriods>1</NrPeriods>
     <NrCategories>1</NrCategories>
     <NrGameTypes>0</NrGameTypes>
@@ -603,9 +577,12 @@
       <RankItem>17</RankItem>
       <RankItem>91</RankItem>
     </RankLayout>
+    <PlayerLayout>
+      <PlayerLayoutItem>0</PlayerLayoutItem>
+      <UseCompression>0</UseCompression>
+      <ResultBetweenPlayers>0</ResultBetweenPlayers>
+    </PlayerLayout>
     <PlayerListLayout>
-      <ID>0</ID>
-      <Name>Layout 1</Name>
       <PlayerListLayoutItem>0</PlayerListLayoutItem>
       <PlayerListLayoutItem>1</PlayerListLayoutItem>
       <PlayerListLayoutItem>2</PlayerListLayoutItem>
@@ -615,11 +592,6 @@
       <PlayerListLayoutItem>19</PlayerListLayoutItem>
       <PlayerListLayoutItem>8</PlayerListLayoutItem>
     </PlayerListLayout>
-    <PlayerLayout>
-      <PlayerLayoutItem>0</PlayerLayoutItem>
-      <UseCompression>0</UseCompression>
-      <ResultBetweenPlayers>0</ResultBetweenPlayers>
-    </PlayerLayout>
     <Period>
       <ID>0</ID>
       <Name>Periode 1</Name>
@@ -697,14 +669,13 @@
       <Name>Gruppe 1</Name>
       <Boards>1</Boards>
       <EstRounds>9</EstRounds>
-      <Publish>1</Publish>
       <AltSeed>0</AltSeed>
       <NrPlayers>13</NrPlayers>
       <NrPlayerProhibiteds>0</NrPlayerProhibiteds>
       <NrMcMahonRules>0</NrMcMahonRules>
-      <NrRounds>6</NrRounds>
+      <NrRounds>7</NrRounds>
       <ActPlayer>0</ActPlayer>
-      <ActRound>5</ActRound>
+      <ActRound>6</ActRound>
       <Player>
         <ID>0</ID>
         <PlayerID></PlayerID>
@@ -712,7 +683,6 @@
         <Prefix></Prefix>
         <Last>Prokscha</Last>
         <Initials></Initials>
-        <Alias></Alias>
         <PairingNr>0</PairingNr>
         <AltID></AltID>
         <CountryCode></CountryCode>
@@ -730,7 +700,6 @@
         <Stat>0</Stat>
         <CorrFact>0</CorrFact>
         <Corr>0</Corr>
-        <AltStart>0</AltStart>
       </Player>
       <Player>
         <ID>1</ID>
@@ -739,7 +708,6 @@
         <Prefix></Prefix>
         <Last>Walter</Last>
         <Initials></Initials>
-        <Alias></Alias>
         <PairingNr>1</PairingNr>
         <AltID></AltID>
         <CountryCode></CountryCode>
@@ -757,7 +725,6 @@
         <Stat>0</Stat>
         <CorrFact>0</CorrFact>
         <Corr>0</Corr>
-        <AltStart>0</AltStart>
       </Player>
       <Player>
         <ID>2</ID>
@@ -766,7 +733,6 @@
         <Prefix></Prefix>
         <Last>Fischer</Last>
         <Initials></Initials>
-        <Alias></Alias>
         <PairingNr>2</PairingNr>
         <AltID></AltID>
         <CountryCode></CountryCode>
@@ -784,7 +750,6 @@
         <Stat>0</Stat>
         <CorrFact>0</CorrFact>
         <Corr>0</Corr>
-        <AltStart>0</AltStart>
       </Player>
       <Player>
         <ID>3</ID>
@@ -793,7 +758,6 @@
         <Prefix></Prefix>
         <Last>Röser</Last>
         <Initials></Initials>
-        <Alias></Alias>
         <PairingNr>3</PairingNr>
         <AltID></AltID>
         <CountryCode></CountryCode>
@@ -811,7 +775,6 @@
         <Stat>0</Stat>
         <CorrFact>0</CorrFact>
         <Corr>0</Corr>
-        <AltStart>0</AltStart>
       </Player>
       <Player>
         <ID>4</ID>
@@ -820,7 +783,6 @@
         <Prefix></Prefix>
         <Last>Dik</Last>
         <Initials></Initials>
-        <Alias></Alias>
         <PairingNr>4</PairingNr>
         <AltID></AltID>
         <CountryCode></CountryCode>
@@ -838,7 +800,6 @@
         <Stat>0</Stat>
         <CorrFact>0</CorrFact>
         <Corr>0</Corr>
-        <AltStart>0</AltStart>
       </Player>
       <Player>
         <ID>5</ID>
@@ -847,7 +808,6 @@
         <Prefix></Prefix>
         <Last>Saphörster</Last>
         <Initials>AS</Initials>
-        <Alias></Alias>
         <PairingNr>5</PairingNr>
         <AltID></AltID>
         <CountryCode></CountryCode>
@@ -865,7 +825,6 @@
         <Stat>0</Stat>
         <CorrFact>0</CorrFact>
         <Corr>0</Corr>
-        <AltStart>0</AltStart>
       </Player>
       <Player>
         <ID>6</ID>
@@ -874,7 +833,6 @@
         <Prefix></Prefix>
         <Last>Berkhoff</Last>
         <Initials>TB</Initials>
-        <Alias></Alias>
         <PairingNr>6</PairingNr>
         <AltID></AltID>
         <CountryCode></CountryCode>
@@ -892,7 +850,6 @@
         <Stat>0</Stat>
         <CorrFact>0</CorrFact>
         <Corr>0</Corr>
-        <AltStart>0</AltStart>
       </Player>
       <Player>
         <ID>7</ID>
@@ -901,7 +858,6 @@
         <Prefix></Prefix>
         <Last>Tilkorn</Last>
         <Initials></Initials>
-        <Alias></Alias>
         <PairingNr>7</PairingNr>
         <AltID></AltID>
         <CountryCode></CountryCode>
@@ -919,7 +875,6 @@
         <Stat>0</Stat>
         <CorrFact>0</CorrFact>
         <Corr>0</Corr>
-        <AltStart>0</AltStart>
       </Player>
       <Player>
         <ID>8</ID>
@@ -928,7 +883,6 @@
         <Prefix></Prefix>
         <Last>Kluth</Last>
         <Initials></Initials>
-        <Alias></Alias>
         <PairingNr>8</PairingNr>
         <AltID></AltID>
         <CountryCode></CountryCode>
@@ -946,7 +900,6 @@
         <Stat>0</Stat>
         <CorrFact>0</CorrFact>
         <Corr>0</Corr>
-        <AltStart>0</AltStart>
       </Player>
       <Player>
         <ID>9</ID>
@@ -955,7 +908,6 @@
         <Prefix></Prefix>
         <Last>Walter</Last>
         <Initials></Initials>
-        <Alias></Alias>
         <PairingNr>9</PairingNr>
         <AltID></AltID>
         <CountryCode></CountryCode>
@@ -973,7 +925,6 @@
         <Stat>0</Stat>
         <CorrFact>0</CorrFact>
         <Corr>0</Corr>
-        <AltStart>0</AltStart>
       </Player>
       <Player>
         <ID>10</ID>
@@ -982,7 +933,6 @@
         <Prefix></Prefix>
         <Last>Elkendorf</Last>
         <Initials></Initials>
-        <Alias></Alias>
         <PairingNr>10</PairingNr>
         <AltID></AltID>
         <CountryCode></CountryCode>
@@ -1000,7 +950,6 @@
         <Stat>0</Stat>
         <CorrFact>0</CorrFact>
         <Corr>0</Corr>
-        <AltStart>0</AltStart>
       </Player>
       <Player>
         <ID>11</ID>
@@ -1009,7 +958,6 @@
         <Prefix></Prefix>
         <Last>Bretsheid</Last>
         <Initials></Initials>
-        <Alias></Alias>
         <PairingNr>11</PairingNr>
         <AltID></AltID>
         <CountryCode></CountryCode>
@@ -1027,7 +975,6 @@
         <Stat>0</Stat>
         <CorrFact>0</CorrFact>
         <Corr>0</Corr>
-        <AltStart>0</AltStart>
       </Player>
       <Player>
         <ID>12</ID>
@@ -1036,7 +983,6 @@
         <Prefix></Prefix>
         <Last>van Elten</Last>
         <Initials></Initials>
-        <Alias></Alias>
         <PairingNr>12</PairingNr>
         <AltID></AltID>
         <CountryCode></CountryCode>
@@ -1054,13 +1000,11 @@
         <Stat>0</Stat>
         <CorrFact>0</CorrFact>
         <Corr>0</Corr>
-        <AltStart>0</AltStart>
       </Player>
       <Round>
         <ID>0</ID>
         <Name>Runde 1</Name>
         <Date>24.02.2023</Date>
-        <Time></Time>
         <Period>0</Period>
         <Confirmed>1</Confirmed>
         <ResetScores>0</ResetScores>
@@ -1119,7 +1063,6 @@
         <ID>1</ID>
         <Name>Runde 2</Name>
         <Date>03.03.2023</Date>
-        <Time></Time>
         <Period>0</Period>
         <Confirmed>1</Confirmed>
         <ResetScores>0</ResetScores>
@@ -1179,7 +1122,6 @@
         <ID>2</ID>
         <Name>Runde 3</Name>
         <Date>17.03.2023</Date>
-        <Time></Time>
         <Period>0</Period>
         <Confirmed>1</Confirmed>
         <ResetScores>0</ResetScores>
@@ -1239,7 +1181,6 @@
         <ID>3</ID>
         <Name>Runde 4</Name>
         <Date>24.03.2023</Date>
-        <Time></Time>
         <Period>0</Period>
         <Confirmed>1</Confirmed>
         <ResetScores>0</ResetScores>
@@ -1300,7 +1241,6 @@
         <ID>4</ID>
         <Name>Runde 5</Name>
         <Date>21.04.2023</Date>
-        <Time></Time>
         <Period>0</Period>
         <Confirmed>1</Confirmed>
         <ResetScores>0</ResetScores>
@@ -1362,7 +1302,6 @@
         <ID>5</ID>
         <Name>Runde 6</Name>
         <Date>28.04.2023</Date>
-        <Time></Time>
         <Period>0</Period>
         <Confirmed>1</Confirmed>
         <ResetScores>0</ResetScores>
@@ -1394,31 +1333,48 @@
           <GameID>1121</GameID>
           <White>12</White>
           <Black>5</Black>
-          <Res>0</Res>
+          <Res>2</Res>
           <Type>1</Type>
         </Game>
         <Game>
           <GameID>1123</GameID>
           <White>2</White>
           <Black>6</Black>
-          <Res>0</Res>
+          <Res>2</Res>
           <Type>1</Type>
         </Game>
         <Game>
           <GameID>1124</GameID>
           <White>0</White>
           <Black>7</Black>
-          <Res>0</Res>
+          <Res>3</Res>
           <Type>1</Type>
         </Game>
         <Game>
           <GameID>1122</GameID>
           <White>10</White>
           <Black>4</Black>
-          <Res>0</Res>
+          <Res>2</Res>
           <Type>1</Type>
         </Game>
         <Bye>11</Bye>
+      </Round>
+      <Round>
+        <ID>6</ID>
+        <Name>Runde 7</Name>
+        <Date>12.05.2023</Date>
+        <Period>0</Period>
+        <Confirmed>1</Confirmed>
+        <ResetScores>0</ResetScores>
+        <Ranking>0</Ranking>
+        <NrAbsences>1</NrAbsences>
+        <NrGames>0</NrGames>
+        <NrByes>1</NrByes>
+        <Abs>
+          <Player>1</Player>
+          <Reason>5</Reason>
+        </Abs>
+        <Bye>1</Bye>
       </Round>
     </Group>
   </Comp>
