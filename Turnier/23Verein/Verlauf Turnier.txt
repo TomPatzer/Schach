@@ -1,0 +1,121 @@
+﻿VM 2023 -  - Gruppe 1
+
+
+Kilian van Elten
+  1 Kilian van Elten     - Werner Elkendorf     1-0      188,0   3
+  2 Paul Fischer         - Kilian van Elten     ½-½      234,0   4
+  3 Kiron Walter         - Kilian van Elten     ½-½      283,5   4
+  4 Kilian van Elten     - Tim Berkhoff         1-0      378,5   2
+  5 Finn Röser           - Kilian van Elten     1-0      378,5   3
+  6 Kilian van Elten     - Arne Saphörster      ½-½      426,5   3
+  7 Johann Dik           - Kilian van Elten     0-1      517,5   1
+
+Finn Röser
+  1 Finn Röser           - Paul Fischer         1-0      192,0   1
+  2 Finn Röser           - Abw. mit Ankündigung          225,3   5
+  3 Maurice Prokscha     - Finn Röser           0-1      318,3   2
+  4 Finn Röser           - Abw. mit Ankündigung          351,7   3
+  5 Finn Röser           - Kilian van Elten     1-0      449,7   1
+  6 Finn Röser           - Abw. mit Ankündigung          483,0   1
+  7 Finn Röser           - Abw. mit Ankündigung          516,3   2
+
+Moritz Tilkorn
+  1 Moritz Tilkorn       - Tim Berkhoff         0-1       97,0   7
+  2 Johann Dik           - Moritz Tilkorn       0-1      188,0   6
+  3 Moritz Tilkorn       - Werner Elkendorf     1-0      278,0   6
+  4 Moritz Tilkorn       - Kiron Walter         0-1      278,0   6
+  5 Moritz Tilkorn       - Abw. mit Ankündigung          310,3   8
+  6 Maurice Prokscha     - Moritz Tilkorn       0-1      403,3   4
+  7 Tim Berkhoff         - Moritz Tilkorn       ½-½      450,8   3
+
+Kiron Walter
+  1 Kiron Walter         - Thomas Kluth         1-0      187,0   6
+  2 Tim Berkhoff         - Kiron Walter         ½-½      234,5   3
+  3 Kiron Walter         - Kilian van Elten     ½-½      283,5   3
+  4 Moritz Tilkorn       - Kiron Walter         0-1      380,5   1
+  5 Kiron Walter         - Abw. mit Ankündigung          413,5   2
+  6 Kiron Walter         - Abw. mit Ankündigung          446,5   2
+  7 Kiron Walter         - Maurice Prokscha     0-1      446,5   4
+
+Kiara Walter
+  1 Kiara Walter         - Maurice Prokscha     0-1       94,0   8
+  2 Kiara Walter         - Abw. mit Ankündigung          125,3  10
+  3 Kiara Walter         - Abw. mit Ankündigung          156,7  11
+  4 Johann Dik           - Kiara Walter         0-1      247,7   8
+  5 Kiara Walter         - Paul Fischer         1-0      339,7   5
+  6 Kiara Walter         - Abw. mit Ankündigung          371,0   7
+  7 Kiara Walter         - Freilos                       433,7   5
+
+Tim Berkhoff
+  1 Moritz Tilkorn       - Tim Berkhoff         0-1      192,0   2
+  2 Tim Berkhoff         - Kiron Walter         ½-½      241,5   2
+  3 Arne Saphörster      - Tim Berkhoff         0-1      337,5   1
+  4 Kilian van Elten     - Tim Berkhoff         1-0      337,5   4
+  5 Tim Berkhoff         - Maurice Prokscha     0-1      337,5   6
+  6 Paul Fischer         - Tim Berkhoff         ½-½      383,5   6
+  7 Tim Berkhoff         - Moritz Tilkorn       ½-½      432,0   6
+
+Maurice Prokscha
+  1 Kiara Walter         - Maurice Prokscha     0-1      187,0   4
+  2 Maurice Prokscha     - Arne Saphörster      0-1      187,0   7
+  3 Maurice Prokscha     - Finn Röser           0-1      187,0   8
+  4 Paul Fischer         - Maurice Prokscha     ½-½      233,0   9
+  5 Tim Berkhoff         - Maurice Prokscha     0-1      328,0   7
+  6 Maurice Prokscha     - Moritz Tilkorn       0-1      328,0   8
+  7 Kiron Walter         - Maurice Prokscha     0-1      427,0   7
+
+Arne Saphörster
+  1 Arne Saphörster      - Johann Dik           1-0      187,0   5
+  2 Maurice Prokscha     - Arne Saphörster      0-1      280,0   1
+  3 Arne Saphörster      - Tim Berkhoff         0-1      280,0   5
+  4 Arne Saphörster      - Abw. mit Ankündigung          312,0   5
+  5 Arne Saphörster      - Abw. mit Ankündigung          344,0   4
+  6 Kilian van Elten     - Arne Saphörster      ½-½      393,0   5
+  7 Arne Saphörster      - Abw. mit Ankündigung          425,0   8
+
+Paul Fischer
+  1 Finn Röser           - Paul Fischer         1-0       92,0   9
+  2 Paul Fischer         - Kilian van Elten     ½-½      141,0   9
+  3 Thomas Kluth         - Paul Fischer         0-1      229,0   7
+  4 Paul Fischer         - Maurice Prokscha     ½-½      275,5   7
+  5 Kiara Walter         - Paul Fischer         1-0      275,5   9
+  6 Paul Fischer         - Tim Berkhoff         ½-½      323,0   9
+  7 Werner Elkendorf     - Paul Fischer         ½-½      368,0   9
+
+Werner Elkendorf
+  1 Kilian van Elten     - Werner Elkendorf     1-0       90,0  11
+  2 Werner Elkendorf     - Henri Bretsheid      1-0      179,0   8
+  3 Moritz Tilkorn       - Werner Elkendorf     1-0      179,0  10
+  4 Werner Elkendorf     - Abw. mit Ankündigung          209,0  10
+  5 Werner Elkendorf     - Abw. mit Ankündigung          239,0  11
+  6 Werner Elkendorf     - Johann Dik           ½-½      284,5  11
+  7 Werner Elkendorf     - Paul Fischer         ½-½      330,5  10
+
+Johann Dik
+  1 Arne Saphörster      - Johann Dik           1-0       91,0  10
+  2 Johann Dik           - Moritz Tilkorn       0-1       91,0  12
+  3 Henri Bretsheid      - Johann Dik           0-1      180,0   9
+  4 Johann Dik           - Kiara Walter         0-1      180,0  11
+  5 Thomas Kluth         - Johann Dik           0-1      268,0  10
+  6 Werner Elkendorf     - Johann Dik           ½-½      313,0  10
+  7 Johann Dik           - Kilian van Elten     0-1      313,0  11
+
+Henri Bretsheid
+  1 Henri Bretsheid      - Abw. ohne Ankündigung           89,0  12
+  2 Werner Elkendorf     - Henri Bretsheid      1-0       89,0  13
+  3 Henri Bretsheid      - Johann Dik           0-1       89,0  13
+  4 Henri Bretsheid      - Thomas Kluth         ½-½      133,0  13
+  5 Henri Bretsheid      - Abw. mit Ankündigung          162,7  12
+  6 Henri Bretsheid      - Freilos                       222,0  12
+  7 Henri Bretsheid      - Abw. mit Ankündigung          251,7  12
+
+Thomas Kluth
+  1 Kiron Walter         - Thomas Kluth         1-0       88,0  13
+  2 Thomas Kluth         - Abw. mit Ankündigung          117,3  11
+  3 Thomas Kluth         - Paul Fischer         0-1      117,3  12
+  4 Henri Bretsheid      - Thomas Kluth         ½-½      161,8  12
+  5 Thomas Kluth         - Johann Dik           0-1      161,8  13
+  6 Thomas Kluth         - Abw. mit Ankündigung          191,2  13
+  7 Thomas Kluth         - Abw. mit Ankündigung          220,5  13
+
+

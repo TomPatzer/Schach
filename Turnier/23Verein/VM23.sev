@@ -5,7 +5,7 @@
     <AppVsn>18.3.2</AppVsn>
     <Version>7.1.0</Version>
     <FileType>Competition file</FileType>
-    <Created>07.05.2023 07:04:43</Created>
+    <Created>13.05.2023 07:39:42</Created>
   </Contents>
   <Comp>
     <Name>VM 2023</Name>
@@ -416,7 +416,7 @@
     <RetireRate>0</RetireRate>
     <UserDrawProbFormula>P</UserDrawProbFormula>
     <ShowUnfinishedGamesOnly>0</ShowUnfinishedGamesOnly>
-    <GameIDCount>1130</GameIDCount>
+    <GameIDCount>1134</GameIDCount>
     <Picture>
       <Format>0</Format>
       <Encoding>1</Encoding>
@@ -1367,13 +1367,57 @@
         <Confirmed>1</Confirmed>
         <ResetScores>0</ResetScores>
         <Ranking>0</Ranking>
-        <NrAbsences>1</NrAbsences>
-        <NrGames>0</NrGames>
+        <NrAbsences>5</NrAbsences>
+        <NrGames>4</NrGames>
         <NrByes>1</NrByes>
+        <Abs>
+          <Player>11</Player>
+          <Reason>1</Reason>
+        </Abs>
+        <Abs>
+          <Player>8</Player>
+          <Reason>1</Reason>
+        </Abs>
+        <Abs>
+          <Player>3</Player>
+          <Reason>1</Reason>
+        </Abs>
+        <Abs>
+          <Player>5</Player>
+          <Reason>1</Reason>
+        </Abs>
         <Abs>
           <Player>1</Player>
           <Reason>5</Reason>
         </Abs>
+        <Game>
+          <GameID>1131</GameID>
+          <White>9</White>
+          <Black>0</Black>
+          <Res>3</Res>
+          <Type>1</Type>
+        </Game>
+        <Game>
+          <GameID>1133</GameID>
+          <White>4</White>
+          <Black>12</Black>
+          <Res>3</Res>
+          <Type>1</Type>
+        </Game>
+        <Game>
+          <GameID>1134</GameID>
+          <White>6</White>
+          <Black>7</Black>
+          <Res>2</Res>
+          <Type>1</Type>
+        </Game>
+        <Game>
+          <GameID>1132</GameID>
+          <White>10</White>
+          <Black>2</Black>
+          <Res>2</Res>
+          <Type>1</Type>
+        </Game>
         <Bye>1</Bye>
       </Round>
     </Group>
