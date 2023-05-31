@@ -1,0 +1,17 @@
+﻿VM 2023 -  - Gruppe 1
+Kreuztabelle nach Runde 7 - 12.05.2023.
+Pl. Name                   Pkte  1   2   3   4   5   6   7   8   9   10  11  12  13
+  1 Tim Berkhoff          432,0  ×               ½       0       1   1½  0       ½ 
+  2 Henri Bretsheid       251,7      ×   0   0       ½                             
+  3 Johann Dik            313,0      1   ×   ½       1           0   0   0   0     
+  4 Werner Elkendorf      330,5      1   ½   ×   ½                   0   0         
+  5 Paul Fischer          368,0  ½           ½   ×   1   ½   0           ½   0     
+  6 Thomas Kluth          220,5      ½   0       0   ×                           0 
+  7 Maurice Prokscha      427,0  1               ½       ×   0   0   0       1   1 
+  8 Finn Röser            516,3                  1       1   ×           1         
+  9 Arne Saphörster       425,0  0       1               1       ×       ½         
+ 10 Moritz Tilkorn        450,8  0½      1   1           1           ×           0 
+ 11 Kilian van Elten      517,5  1       1   1   ½           0   ½       ×       ½ 
+ 12 Kiara Walter          433,7          1       1       0                   ×     
+ 13 Kiron Walter          446,5  ½                   1   0           1   ½       × 
+
