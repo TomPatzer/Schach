@@ -1,0 +1,84 @@
+\usepackage{scrhack}
+\usepackage{amsmath}
+\usepackage{iftex}
+
+\ifPDFTeX
+	\usepackage[utf8]{inputenc}  % Deutsche Umlaute direkt eingeben
+	\usepackage[T1]{fontenc}     % "Saubere" Schriften in der PDF
+\else
+	\ifXeTeX
+		\usepackage{fontspec}
+		\usepackage{unicode-math}
+		\fontspec{DejaVu Serif}
+		\setmainfont{DejaVu Serif} 
+		\setsansfont{DejaVu Sans} 
+		\setmonofont{DejaVu Sans Mono} 
+%		\setmathfont[math-style=TeX]{TeX Gyre DejaVu Math}
+	\else
+		\ifLuaTeX
+			\usepackage{fontspec}
+			\usepackage{luatextra}
+			\usepackage{unicode-math}
+			\fontspec{DejaVu Serif}
+			\setmainfont{DejaVu Serif} 
+			\setsansfont{DejaVu Sans} 
+			\setmonofont{DejaVu Sans Mono} 
+			\setmathfont[math-style=TeX]{TeX Gyre DejaVu Math}
+		\fi
+	\fi 				
+\fi
+
+
+\usepackage[ngerman]{babel}
+
+\usepackage{pifont}
+
+\usepackage[table]{xcolor}
+\usepackage{tabularx}
+\usepackage{ragged2e}
+\usepackage{diagbox}
+\usepackage{makecell}
+\usepackage{longtable}
+
+\newcommand*\rot{\rotatebox{90}}  
+\newcommand*\OK{\ding{51}}
+
+\usepackage[thref, thmmarks, amsmath]{ntheorem}
+\usepackage{pdfpages}
+\usepackage{paralist}
+\usepackage[babel, german=quotes]{csquotes}
+\usepackage{gensymb}
+\usepackage{textcomp}
+\usepackage{hyperref}
+\usepackage[]{varioref}
+\usepackage[noabbrev]{cleveref}
+\usepackage{graphicx}
+\usepackage{float}
+\usepackage{wrapfig}
+\usepackage{array,booktabs}
+\usepackage{wasysym}
+%\usepackage{tocstyle}
+%\newtocstyle[KOMAlike][leaders]{alldotted}{}
+%\usetocstyle{alldotted}
+
+
+\usepackage[]{todonotes}
+
+
+\usepackage{makeidx}
+\makeindex
+
+\setlength{\parindent} {0.0em}
+\setlength{\parskip} {1.5ex plus0.5ex minus0.5ex}
+
+\usepackage[backend=biber, %% Hilfsprogramm "biber" (statt "biblatex" oder "bibtex")
+style=authoryear, %% Zitierstil (siehe Dokumentation)
+natbib=true, %% Bereitstellen von natbib-kompatiblen Zitierkommandos
+hyperref=true, %% hyperref-Paket verwenden, um Links zu erstellen
+]{biblatex}
+%\usepackage[backend=biber,style=alphabetic]{biblatex}
+% die bib-Datei laden:
+\addbibresource{../Literatur.bib} %
+
+
+
