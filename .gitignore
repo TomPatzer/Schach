@@ -44,3 +44,19 @@ Turnier/22Verein/Spiele1.txt
 Turnier/VM23.sbk
 
 *.sbk
+
+*.bbl
+
+*.bcf
+
+*.blg
+
+*.idx
+
+*.xml
+
+*.thm
+
+Turnier/24Verein/VM/
+
+Turnier/24Verein/VM24/
