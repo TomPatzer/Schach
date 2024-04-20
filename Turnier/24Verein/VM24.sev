@@ -5,13 +5,13 @@
     <AppVsn>20.1.3</AppVsn>
     <Version>7.2.0</Version>
     <FileType>Competition file</FileType>
-    <Created>23.03.2024 13:27:42</Created>
+    <Created>20.4.2024 10:01:26</Created>
   </Contents>
   <Comp>
     <Name>VM 2024</Name>
-    <FileName>Z:\\Sandbox\\Privat\\Schach\\Turnier\\24Verein\\VM24.sev</FileName>
+    <FileName>Z:\\home\\thomas\\Sandkasten\\Schach\\Schach\\Turnier\\24Verein\\VM24.sev</FileName>
     <License>Thomas Kluth</License>
-    <CfgFile>C:\\Users\\Thomas Kluth\\AppData\\Roaming\\JBF Software\\Sevilla\\Sevilla.set</CfgFile>
+    <CfgFile>C:\\users\\thomas\\AppData\\Roaming\\JBF Software\\Sevilla\\Sevilla.set</CfgFile>
     <ID></ID>
     <Site></Site>
     <FederationType>4</FederationType>
@@ -21,9 +21,9 @@
     <OrganizationEMail></OrganizationEMail>
     <SpeedOfPlay></SpeedOfPlay>
     <City></City>
-    <DateFormatString>dd.MM.yyyy</DateFormatString>
-    <StartDate>08.02.2019</StartDate>
-    <EndDate>24.05.2019</EndDate>
+    <DateFormatString>d.M.yyyy</DateFormatString>
+    <StartDate>8.2.2019</StartDate>
+    <EndDate>24.5.2019</EndDate>
     <MinAge>3</MinAge>
     <MaxAge>150</MaxAge>
     <DisplayYearOfBirth>0</DisplayYearOfBirth>
@@ -475,7 +475,7 @@
     <SPPar1>0</SPPar1>
     <SPPar2>0</SPPar2>
     <ShowUnfinishedGamesOnly>0</ShowUnfinishedGamesOnly>
-    <GameIDCount>1308</GameIDCount>
+    <GameIDCount>1314</GameIDCount>
     <Picture>
       <Format>0</Format>
       <Encoding>1</Encoding>
@@ -738,9 +738,9 @@
       <NrPlayers>13</NrPlayers>
       <NrPlayerProhibiteds>0</NrPlayerProhibiteds>
       <NrMcMahonRules>0</NrMcMahonRules>
-      <NrRounds>4</NrRounds>
+      <NrRounds>5</NrRounds>
       <ActPlayer>12</ActPlayer>
-      <ActRound>3</ActRound>
+      <ActRound>4</ActRound>
       <Player>
         <ID>0</ID>
         <PlayerID></PlayerID>
@@ -1095,7 +1095,7 @@
       <Round>
         <ID>0</ID>
         <Name>Runde 1</Name>
-        <Date>16.02.2024</Date>
+        <Date>16.2.2024</Date>
         <Time></Time>
         <Period>0</Period>
         <Confirmed>1</Confirmed>
@@ -1154,7 +1154,7 @@
       <Round>
         <ID>1</ID>
         <Name>Runde 2</Name>
-        <Date>08.03.2024</Date>
+        <Date>8.3.2024</Date>
         <Time></Time>
         <Period>0</Period>
         <Confirmed>1</Confirmed>
@@ -1213,7 +1213,7 @@
       <Round>
         <ID>2</ID>
         <Name>Runde 3</Name>
-        <Date>22.03.2024</Date>
+        <Date>22.3.2024</Date>
         <Time></Time>
         <Period>0</Period>
         <Confirmed>1</Confirmed>
@@ -1272,7 +1272,7 @@
       <Round>
         <ID>3</ID>
         <Name>Runde 4</Name>
-        <Date>19.04.2024</Date>
+        <Date>19.4.2024</Date>
         <Time></Time>
         <Period>0</Period>
         <Confirmed>1</Confirmed>
@@ -1289,41 +1289,100 @@
           <GameID>1303</GameID>
           <White>1</White>
           <Black>9</Black>
-          <Res>0</Res>
+          <Res>1</Res>
           <Type>1</Type>
         </Game>
         <Game>
           <GameID>1304</GameID>
           <White>3</White>
           <Black>5</Black>
-          <Res>0</Res>
+          <Res>2</Res>
           <Type>1</Type>
         </Game>
         <Game>
           <GameID>1305</GameID>
           <White>11</White>
           <Black>4</Black>
-          <Res>0</Res>
+          <Res>3</Res>
           <Type>1</Type>
         </Game>
         <Game>
           <GameID>1306</GameID>
           <White>8</White>
           <Black>6</Black>
-          <Res>0</Res>
+          <Res>3</Res>
           <Type>1</Type>
         </Game>
         <Game>
           <GameID>1307</GameID>
           <White>7</White>
           <Black>0</Black>
-          <Res>0</Res>
+          <Res>3</Res>
           <Type>1</Type>
         </Game>
         <Game>
           <GameID>1308</GameID>
           <White>2</White>
           <Black>12</Black>
+          <Res>1</Res>
+          <Type>1</Type>
+        </Game>
+      </Round>
+      <Round>
+        <ID>4</ID>
+        <Name>Runde 5</Name>
+        <Date>4.5.2024</Date>
+        <Time></Time>
+        <Period>0</Period>
+        <Confirmed>1</Confirmed>
+        <ResetScores>0</ResetScores>
+        <Ranking>0</Ranking>
+        <NrAbsences>1</NrAbsences>
+        <NrGames>6</NrGames>
+        <NrByes>0</NrByes>
+        <Abs>
+          <Player>8</Player>
+          <Reason>5</Reason>
+        </Abs>
+        <Game>
+          <GameID>1309</GameID>
+          <White>4</White>
+          <Black>1</Black>
+          <Res>0</Res>
+          <Type>1</Type>
+        </Game>
+        <Game>
+          <GameID>1310</GameID>
+          <White>5</White>
+          <Black>0</Black>
+          <Res>0</Res>
+          <Type>1</Type>
+        </Game>
+        <Game>
+          <GameID>1311</GameID>
+          <White>6</White>
+          <Black>3</Black>
+          <Res>0</Res>
+          <Type>1</Type>
+        </Game>
+        <Game>
+          <GameID>1312</GameID>
+          <White>9</White>
+          <Black>2</Black>
+          <Res>0</Res>
+          <Type>1</Type>
+        </Game>
+        <Game>
+          <GameID>1313</GameID>
+          <White>10</White>
+          <Black>11</Black>
+          <Res>0</Res>
+          <Type>1</Type>
+        </Game>
+        <Game>
+          <GameID>1314</GameID>
+          <White>12</White>
+          <Black>7</Black>
           <Res>0</Res>
           <Type>1</Type>
         </Game>
