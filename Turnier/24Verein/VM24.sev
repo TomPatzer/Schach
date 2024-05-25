@@ -5,7 +5,7 @@
     <AppVsn>20.1.3</AppVsn>
     <Version>7.2.0</Version>
     <FileType>Competition file</FileType>
-    <Created>4.5.2024 13:39:40</Created>
+    <Created>18.5.2024 06:37:05</Created>
   </Contents>
   <Comp>
     <Name>VM 2024</Name>
@@ -475,7 +475,7 @@
     <SPPar1>0</SPPar1>
     <SPPar2>0</SPPar2>
     <ShowUnfinishedGamesOnly>0</ShowUnfinishedGamesOnly>
-    <GameIDCount>1320</GameIDCount>
+    <GameIDCount>1326</GameIDCount>
     <Picture>
       <Format>0</Format>
       <Encoding>1</Encoding>
@@ -738,9 +738,9 @@
       <NrPlayers>13</NrPlayers>
       <NrPlayerProhibiteds>0</NrPlayerProhibiteds>
       <NrMcMahonRules>0</NrMcMahonRules>
-      <NrRounds>6</NrRounds>
+      <NrRounds>7</NrRounds>
       <ActPlayer>12</ActPlayer>
-      <ActRound>5</ActRound>
+      <ActRound>6</ActRound>
       <Player>
         <ID>0</ID>
         <PlayerID></PlayerID>
@@ -1407,40 +1407,99 @@
           <GameID>1315</GameID>
           <White>1</White>
           <Black>3</Black>
-          <Res>0</Res>
+          <Res>3</Res>
           <Type>1</Type>
         </Game>
         <Game>
           <GameID>1316</GameID>
           <White>11</White>
           <Black>5</Black>
-          <Res>0</Res>
+          <Res>3</Res>
           <Type>1</Type>
         </Game>
         <Game>
           <GameID>1317</GameID>
           <White>9</White>
           <Black>6</Black>
-          <Res>0</Res>
+          <Res>2</Res>
           <Type>1</Type>
         </Game>
         <Game>
           <GameID>1318</GameID>
           <White>0</White>
           <Black>4</Black>
-          <Res>0</Res>
+          <Res>1</Res>
           <Type>1</Type>
         </Game>
         <Game>
           <GameID>1319</GameID>
           <White>7</White>
           <Black>8</Black>
-          <Res>0</Res>
+          <Res>2</Res>
           <Type>1</Type>
         </Game>
         <Game>
           <GameID>1320</GameID>
           <White>12</White>
+          <Black>10</Black>
+          <Res>8</Res>
+          <Type>1</Type>
+        </Game>
+      </Round>
+      <Round>
+        <ID>6</ID>
+        <Name>Runde 7</Name>
+        <Date>18.5.2024</Date>
+        <Time></Time>
+        <Period>0</Period>
+        <Confirmed>1</Confirmed>
+        <ResetScores>0</ResetScores>
+        <Ranking>0</Ranking>
+        <NrAbsences>1</NrAbsences>
+        <NrGames>6</NrGames>
+        <NrByes>0</NrByes>
+        <Abs>
+          <Player>4</Player>
+          <Reason>5</Reason>
+        </Abs>
+        <Game>
+          <GameID>1321</GameID>
+          <White>0</White>
+          <Black>1</Black>
+          <Res>0</Res>
+          <Type>1</Type>
+        </Game>
+        <Game>
+          <GameID>1322</GameID>
+          <White>5</White>
+          <Black>9</Black>
+          <Res>0</Res>
+          <Type>1</Type>
+        </Game>
+        <Game>
+          <GameID>1323</GameID>
+          <White>3</White>
+          <Black>2</Black>
+          <Res>0</Res>
+          <Type>1</Type>
+        </Game>
+        <Game>
+          <GameID>1324</GameID>
+          <White>6</White>
+          <Black>11</Black>
+          <Res>0</Res>
+          <Type>1</Type>
+        </Game>
+        <Game>
+          <GameID>1325</GameID>
+          <White>8</White>
+          <Black>12</Black>
+          <Res>0</Res>
+          <Type>1</Type>
+        </Game>
+        <Game>
+          <GameID>1326</GameID>
+          <White>7</White>
           <Black>10</Black>
           <Res>0</Res>
           <Type>1</Type>
