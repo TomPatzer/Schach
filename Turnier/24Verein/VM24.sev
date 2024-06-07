@@ -5,13 +5,13 @@
     <AppVsn>20.1.3</AppVsn>
     <Version>7.2.0</Version>
     <FileType>Competition file</FileType>
-    <Created>18.5.2024 06:37:05</Created>
+    <Created>07.06.2024 18:09:38</Created>
   </Contents>
   <Comp>
     <Name>VM 2024</Name>
-    <FileName>Z:\\home\\thomas\\Sandkasten\\Schach\\Schach\\Turnier\\24Verein\\VM24.sev</FileName>
+    <FileName>Z:\\Sandkasten\\Schach\\Schach\\Turnier\\24Verein\\VM24.sev</FileName>
     <License>Thomas Kluth</License>
-    <CfgFile>C:\\users\\thomas\\AppData\\Roaming\\JBF Software\\Sevilla\\Sevilla.set</CfgFile>
+    <CfgFile>C:\\Users\\Thomas Kluth\\AppData\\Roaming\\JBF Software\\Sevilla\\Sevilla.set</CfgFile>
     <ID></ID>
     <Site></Site>
     <FederationType>4</FederationType>
@@ -21,9 +21,9 @@
     <OrganizationEMail></OrganizationEMail>
     <SpeedOfPlay></SpeedOfPlay>
     <City></City>
-    <DateFormatString>d.M.yyyy</DateFormatString>
-    <StartDate>8.2.2019</StartDate>
-    <EndDate>24.5.2019</EndDate>
+    <DateFormatString>dd.MM.yyyy</DateFormatString>
+    <StartDate>08.02.2019</StartDate>
+    <EndDate>24.05.2019</EndDate>
     <MinAge>3</MinAge>
     <MaxAge>150</MaxAge>
     <DisplayYearOfBirth>0</DisplayYearOfBirth>
@@ -1095,7 +1095,7 @@
       <Round>
         <ID>0</ID>
         <Name>Runde 1</Name>
-        <Date>16.2.2024</Date>
+        <Date>16.02.2024</Date>
         <Time></Time>
         <Period>0</Period>
         <Confirmed>1</Confirmed>
@@ -1154,7 +1154,7 @@
       <Round>
         <ID>1</ID>
         <Name>Runde 2</Name>
-        <Date>8.3.2024</Date>
+        <Date>08.03.2024</Date>
         <Time></Time>
         <Period>0</Period>
         <Confirmed>1</Confirmed>
@@ -1213,7 +1213,7 @@
       <Round>
         <ID>2</ID>
         <Name>Runde 3</Name>
-        <Date>22.3.2024</Date>
+        <Date>22.03.2024</Date>
         <Time></Time>
         <Period>0</Period>
         <Confirmed>1</Confirmed>
@@ -1272,7 +1272,7 @@
       <Round>
         <ID>3</ID>
         <Name>Runde 4</Name>
-        <Date>19.4.2024</Date>
+        <Date>19.04.2024</Date>
         <Time></Time>
         <Period>0</Period>
         <Confirmed>1</Confirmed>
@@ -1331,7 +1331,7 @@
       <Round>
         <ID>4</ID>
         <Name>Runde 5</Name>
-        <Date>4.5.2024</Date>
+        <Date>04.05.2024</Date>
         <Time></Time>
         <Period>0</Period>
         <Confirmed>1</Confirmed>
@@ -1390,7 +1390,7 @@
       <Round>
         <ID>5</ID>
         <Name>Runde 6</Name>
-        <Date>17.5.2024</Date>
+        <Date>17.05.2024</Date>
         <Time></Time>
         <Period>0</Period>
         <Confirmed>1</Confirmed>
@@ -1449,7 +1449,7 @@
       <Round>
         <ID>6</ID>
         <Name>Runde 7</Name>
-        <Date>18.5.2024</Date>
+        <Date>18.05.2024</Date>
         <Time></Time>
         <Period>0</Period>
         <Confirmed>1</Confirmed>
@@ -1466,7 +1466,7 @@
           <GameID>1321</GameID>
           <White>0</White>
           <Black>1</Black>
-          <Res>0</Res>
+          <Res>1</Res>
           <Type>1</Type>
         </Game>
         <Game>
@@ -1480,7 +1480,7 @@
           <GameID>1323</GameID>
           <White>3</White>
           <Black>2</Black>
-          <Res>0</Res>
+          <Res>6</Res>
           <Type>1</Type>
         </Game>
         <Game>
@@ -1494,7 +1494,7 @@
           <GameID>1325</GameID>
           <White>8</White>
           <Black>12</Black>
-          <Res>0</Res>
+          <Res>1</Res>
           <Type>1</Type>
         </Game>
         <Game>
