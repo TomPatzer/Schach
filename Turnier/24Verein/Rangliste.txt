@@ -1,0 +1,19 @@
+﻿VM 2024 -  - Gruppe 1
+
+Tabellenstand nach Runde 7 - 18.05.2024 - Normal ranking.
+Pl. Name                 Sp.   S   R   N   Pkte   Bhlz  IRtg F.-A
+  1 Maurice Prokscha       7   5   1   1    5,5   24,5  1613 -1
+  2 Tim Berkhoff           7   3   4   0    5,0   29,0  1551 -2
+  3 Nico Hoffmann          7   4   2   1    5,0   26,0  1465  0
+  4 Paul Fischer           7   3   3   1    4,5   23,5  1453  1
+  5 Kiron Walter           7   2   4   1    4,0   29,0  1397 -1
+  6 Jo Bars                7   3   2   2    4,0   29,5  1671  1
+  7 Moritz Tillkorn        6   2   2   2    4,0   27,5  1502  0
+  8 Christian Borschulte   6   2   2   2    4,0   20,5  1404  0
+  9 Kilian van Elten       6   1   3   2    3,5   25,0  1551  0
+ 10 Johann Dik             6   2   1   3    3,5   22,0  1438  2
+ 11 Thomas Kluth           6   2   0   4    3,0   21,5  1321  0
+ 12 Werner Elkendorf       6   1   0   5    2,0   20,0  1361  1
+ 13 Janko Raschke          6   0   0   6    1,0   20,5     0 -1
+
+
