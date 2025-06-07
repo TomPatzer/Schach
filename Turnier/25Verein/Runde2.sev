@@ -5,13 +5,13 @@
     <AppVsn>20.3.1</AppVsn>
     <Version>7.2.0</Version>
     <FileType>Competition file</FileType>
-    <Created>06.06.2025 21:43:23</Created>
+    <Created>7.6.2025 14:22:44</Created>
   </Contents>
   <Comp>
     <Name>Turniername</Name>
-    <FileName>Z:\\Sandkasten\\Privat\\GitHub\\Schach\\Turnier\\25Verein\\Runde2.sev</FileName>
+    <FileName>Z:\\home\\thomas\\Sandkasten\\Neu\\Schach\\Turnier\\25Verein\\Runde2.sev</FileName>
     <License>Thomas Kluth</License>
-    <CfgFile>C:\\Users\\Thomas Kluth\\AppData\\Roaming\\JBF Software\\Sevilla\\Sevilla.set</CfgFile>
+    <CfgFile>C:\\users\\thomas\\AppData\\Roaming\\JBF Software\\Sevilla\\Sevilla.set</CfgFile>
     <ID></ID>
     <Site></Site>
     <FederationType>4</FederationType>
@@ -21,9 +21,9 @@
     <OrganizationEMail></OrganizationEMail>
     <SpeedOfPlay></SpeedOfPlay>
     <City></City>
-    <DateFormatString>dd.MM.yyyy</DateFormatString>
-    <StartDate>15.05.2025</StartDate>
-    <EndDate>15.05.2025</EndDate>
+    <DateFormatString>d.M.yyyy</DateFormatString>
+    <StartDate>15.5.2025</StartDate>
+    <EndDate>15.5.2025</EndDate>
     <MinAge>3</MinAge>
     <MaxAge>150</MaxAge>
     <DisplayYearOfBirth>0</DisplayYearOfBirth>
@@ -751,7 +751,7 @@
       <NrPlayerProhibiteds>0</NrPlayerProhibiteds>
       <NrMcMahonRules>0</NrMcMahonRules>
       <NrRounds>4</NrRounds>
-      <ActPlayer>6</ActPlayer>
+      <ActPlayer>2</ActPlayer>
       <ActRound>3</ActRound>
       <Player>
         <ID>0</ID>
@@ -1080,7 +1080,7 @@
       <Round>
         <ID>0</ID>
         <Name>Round 1</Name>
-        <Date>06.06.2025</Date>
+        <Date>6.6.2025</Date>
         <Time></Time>
         <Period>0</Period>
         <Confirmed>1</Confirmed>
@@ -1135,7 +1135,7 @@
       <Round>
         <ID>1</ID>
         <Name>Round 2</Name>
-        <Date>06.06.2025</Date>
+        <Date>6.6.2025</Date>
         <Time></Time>
         <Period>0</Period>
         <Confirmed>1</Confirmed>
@@ -1190,7 +1190,7 @@
       <Round>
         <ID>2</ID>
         <Name>Round 3</Name>
-        <Date>06.06.2025</Date>
+        <Date>6.6.2025</Date>
         <Time></Time>
         <Period>0</Period>
         <Confirmed>1</Confirmed>
@@ -1245,7 +1245,7 @@
       <Round>
         <ID>3</ID>
         <Name>Round 4</Name>
-        <Date>06.06.2025</Date>
+        <Date>6.6.2025</Date>
         <Time></Time>
         <Period>0</Period>
         <Confirmed>1</Confirmed>
@@ -1279,7 +1279,7 @@
           <GameID>1092</GameID>
           <White>2</White>
           <Black>11</Black>
-          <Res>3</Res>
+          <Res>1</Res>
           <Type>1</Type>
         </Game>
         <Game>
